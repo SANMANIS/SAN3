@@ -2,6 +2,14 @@
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="SAT.SK" tvg-logo="https://i.ibb.co/CV1Nf0p/In-Shot-20240519-225526863.jpg",INTRO WELCOME SAT.SK
 https://drive.usercontent.google.com/download?id=1ydVdo04a_PoRK3ZCqmpr467fGMxoBKol&export=download&confirm=t&uuid=662b0712-772f-41e9-9fc2-046e9714b46b
 
+#EXTINF:-1, LOVE NATURE 4K HEVC (NEW)
+http://270383656354827528.ofk0601.xyz:80/play/vi819780/UC7EPNwtXmHb/827528.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 CINEMANIA" tvg-logo="http://b1g.fun/logos2/CineMania4K_tamil.jpg",CINEMANIA TAMIL 4K
+https://public.iptv18.tech/vallabh.php?tv=425731
+
+
+
 #EXTINF:-1, opp- STAR SPORTS TAMIL-1
 http://xtv.ooo:8080/live/105578/105578/167574.ts
 
@@ -260,8 +268,6 @@ https://drive.usercontent.google.com/download?id=1lhlFsNDHcVttzkEN6GNpiw6KCdx1u4
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 CINEMANIA" tvg-logo="http://b1g.fun/logos2/CineMania4K_tamil.jpg",CINEMANIA TAMIL 4K
-https://public.iptv18.tech/vallabh.php?tv=425731
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 CINEMANIA" tvg-logo="",CINEMANIA TAMIL 1 FHD
 https://public.iptv18.tech/vallabh.php?tv=385189
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 CINEMANIA" tvg-logo="",CINEMANIA TAMIL 2 FHD
@@ -285,9 +291,6 @@ https://public.iptv18.tech/vallabh.php?tv=385185
 https://249553662f3e.ap-south-1.playback.live-video.net/api/video/v1/ap-south-1.588204940461.channel.Sx8XPoik8VX2.m3u8
 
 
-
-#EXTINF:-1, LOVE NATURE 4K HEVC (NEW)
-http://270383656354827528.ofk0601.xyz:80/play/vi819780/UC7EPNwtXmHb/827528.ts
 
 
 
