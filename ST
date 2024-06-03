@@ -480,6 +480,8 @@ http://tv.cloudcdn.me/live.ts?channelId=43419&uid=5353&deviceMac=00:1A:79:17:D4:
 
 
 
+#EXTINF:-1, ZEE TAMIL HD ஜீ தமிழ் tll
+http://tv.cloudcdn.me:80/live.ts?channelId=43423&uid=14505&deviceMac=00:1A:79:A7:53:75
 
 #EXTINF:-1, ZEE TAMIL HD (new)
 http://270383656354853098.ofk0601.xyz:80/play/vi819780/UC7EPNwtXmHb/853098.ts
