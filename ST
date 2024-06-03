@@ -286,6 +286,11 @@ https://249553662f3e.ap-south-1.playback.live-video.net/api/video/v1/ap-south-1.
 
 
 
+#EXTINF:-1, LOVE NATURE 4K HEVC (NEW)
+http://270383656354827528.ofk0601.xyz:80/play/vi819780/UC7EPNwtXmHb/827528.ts
+
+
+
 #EXTINF:-1, SUN TV FHD (new)
 http://270383656354841925.ofk0601.xyz:80/play/vi819780/UC7EPNwtXmHb/841925.ts
  
