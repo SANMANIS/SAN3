@@ -13,28 +13,8 @@ https://public.iptv18.tech/vallabh.php?tv=425731
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1, SUN
+https://fifabangladesh.live/@RANAPKX73/stream.m3u8?id=896&e=.m3u8
 
 #EXTINF:-1, SUN TV FHD (new)
 http://270383656354841925.ofk0601.xyz:80/play/vi819780/UC7EPNwtXmHb/841925.ts
