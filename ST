@@ -10,285 +10,27 @@ https://public.iptv18.tech/vallabh.php?tv=425731
 
 
 
-#EXTINF:-1, opp- STAR SPORTS TAMIL-1
-http://xtv.ooo:8080/live/105578/105578/167574.ts
 
-#EXTINF:-1, sha- STAR SPORTS TAMIL 1 HD
-http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/9722.ts
 
-#EXTINF:-1, STAR SPORTS TAMIL
-http://mixbix.xyz:8080/L8r8WP9dEnuA/rnXMCGs5BGLe/277335
 
-#EXTINF:-1, STAR SPORTS TAMIL
-http://4ksuper.live:80/play/live.php?mac=00:1A:79:AF:B3:19&stream=155873&extension=ts&play_token=Il7PUPgrig
 
-#EXTINF:-1, STAR SPORTS 1 HD English
-http://Watchindia.net:8880/live/98697/23119/2186.ts
 
 
-#EXTINF:-1, கருடன் Garudan (2024) (Cam)
-http://starshare.live:8080/movie/rvdgdf7647564/bvchgfd235454/343225.mp4
 
-#EXTINF:-1, ஹிட்லிஸ்ட் HIT LIST (2024) (Cam)
-http://starshare.live:8080/movie/rvdgdf7647564/bvchgfd235454/343235.mp4
 
-#EXTINF:-1, கருடன் Garudan (2024) (Cam)  Use mx vlc player
-https://dl7.hotshare.fun/Garudan_2024_720p_HD.mp4
 
-#EXTINF:-1, ஹிட்லிஸ்ட் HIT LIST (2024) (Cam) Use mx vlc player
-https://dl2.hotshare.online/Hit_List_2024_720p_HD.mp4
 
-#EXTINF:-1, ஒரு நொடி ORU NODI (2024) (TAMIL)
-http://starshare.live:8080/movie/rvdgdf7647564/bvchgfd235454/342688.mp4
 
-#EXTINF:-1, VEERAM (2024) (TAMIL)
-http://starshare.live:8080/movie/rvdgdf7647564/bvchgfd235454/340824.mp4
 
 
 
-#EXTINF:-1, RATHNAM (2024) (TAMIL)
-http://starshare.live:8080/movie/rvdgdf7647564/bvchgfd235454/338704.mp4
 
-#EXTINF:-1, ரத்னம் RATHNAM HD (2024) (TAMIL)
-http://xtv.ooo:8080/movie/105578/105578/378227.mkv
 
 
-#EXTINF:-1, FURIOSA: A MAD MAX SAGA (2024) (TAMIL)(CAM)
-http://starshare.live:8080/movie/BQj2Wpx6Xh/bvchgfd235454/339184.mp4
-#EXTINF:-1, FURIOSA: A MAD MAX SAGA (2024) (TAMIL)(CAam)
-http://starshare.live:8080/movie/jareer.me ye/jerielnino.me/339184.mp4
-#EXTINF:-1, FURIOSA: A MAD MAX SAGA (2024) (TAMIL)(CAM)
-http://starshare.live:8080/movie/rvdgdf7647564/bvchgfd235454/339184.mp4
 
 
-#EXTINF:-1, PT SIR (2024) (TAMIL)(CAM)
-http://starshare.live:8080/movie/rvdgdf7647564/bvchgfd235454/339863.mp4
- 
-#EXTINF:-1, SAAMANIYAN (2024) (TAMIL)(CAM)
-http://starshare.live:8080/movie/rvdgdf7647564/bvchgfd235454/339864.mp4
 
-#EXTINF:-1, KONJAM PESINAAL YENNA (2024) (TAMIL)(CAM)
-http://starshare.live:8080/movie/rvdgdf7647564/bvchgfd235454/340354.mp4
 
-#EXTINF:-1, PAGALARIYAAN (2024) (TAMIL)(CAM)
-http://starshare.live:8080/movie/rvdgdf7647564/bvchgfd235454/340356.mp4
- 
-#EXTINF:-1,  VALLAVAN VAGUTHATHADA (2024) (TAMIL)
-http://starshare.live:8080/movie/rvdgdf7647564/bvchgfd235454/339287.mp4
-
-
-
- 
-
-
-
-
-
-#EXTINF:-1, TATSAMA TADBHAVA 2024 Tamil CRIME THRILLER (USE MX PLAYER)
-https://cdn29.vembz.one/h7tocgztamlbu3tf6rvdlifv2i3gooied2475ucnwf4w2ihmrala226czeiq/www.TamilYogi.beer_-_Taama_Tadbhava_(2024)_TRUE_WEB_DL_1080p_AVC_(AAC_2_0)_[Tamil_+_Kan]_2_6GB_ESub_HD_720p.mp4
-
-#EXTINF:-1, TATSAMA TADBHAVA 2024 Tamil CRIME THRILLER
-https://868418906.tapecontent.net/radosgw/oweQ73RAGvIJg7P/euNuhFZejWS_U15chmarLr0iODMdYpfRsck_H1njdyAd-bLlO7qsVhJV85u489VJ58G9toUuiNndyWLyZNI8kF1X1JCDxjQsTMlCGHiLJzKShoiZZM-ORekzUVpfZTaWPiS_mDSj1TbfWsRV4yWuajmRVYETzwhykxqaBQCdlLlNJUZIvxxHPV2eiqqCAHzFx3JJERp69vIlQWhWrtqz8_472sIaILWkrY9IjFaPagLSIPw-UJ6KEjr7qtXPoKOq8d2B-6WS5WHSuZ0_LGEPEa3Y9kpIUHMD-EGxEN1VhhtQMTLEunqKpAuKMm-bcfn2UAmaGDHtWNP5vmv2UcOU-I6NYwyiRW-Vi1SM1A/Tatsama+Tadbhava+%282024%29+Tamil+-+HQ+HDRip+-+x264+-+AAC+-+700MB.mp4?dl=1
-
-
-#EXTINF:-1 tvg-id="" tvg-name="TOP COOKU DOOP COOKU" group-title="TOP COOKU DOOP COOKU" tvg-logo="", TOP COOKU DOOP COOKU (TAMIL) E01
-http://starshare.live:8080/series/jareer.me ye/jerielnino.me/337074.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="TOP COOKU DOOP COOKU" group-title="TOP COOKU DOOP COOKU" tvg-logo="", TOP COOKU DOOP COOKU (TAMIL) E02
-http://starshare.live:8080/series/jareer.me ye/jerielnino.me/340816.mp4
-
-
-http://starshare.live:8080/series/jareer.me
-http://103.161.35.195/series/rvdgdf7647564/bvchgfd235454/340816.mp4?
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="THALAIMAI SEYALAGAM" group-title="THALAIMAI SEYALAGAM" tvg-logo="", THALAIMAI SEYALAGAM (TAMIL) S01 E01
-http://starshare.live:8080/series/jareer.me ye/jerielnino.me/335701.mp4
- 
-#EXTINF:-1 tvg-id="" tvg-name="THALAIMAI SEYALAGAM" group-title="THALAIMAI SEYALAGAM" tvg-logo="", THALAIMAI SEYALAGAM (TAMIL) S01 E02
-http://starshare.live:8080/series/jareer.me ye/jerielnino.me/335702.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="THALAIMAI SEYALAGAM" group-title="THALAIMAI SEYALAGAM" tvg-logo="", THALAIMAI SEYALAGAM (TAMIL) S01 E03
-http://starshare.live:8080/series/jareer.me ye/jerielnino.me/335703.mp4
- 
-#EXTINF:-1 tvg-id="" tvg-name="THALAIMAI SEYALAGAM" group-title="THALAIMAI SEYALAGAM" tvg-logo="", THALAIMAI SEYALAGAM (TAMIL) S01 E04
-http://starshare.live:8080/series/jareer.me ye/jerielnino.me/335704.mp4
- 
-#EXTINF:-1 tvg-id="" tvg-name="THALAIMAI SEYALAGAM" group-title="THALAIMAI SEYALAGAM" tvg-logo="", THALAIMAI SEYALAGAM (TAMIL) S01 E05
-http://starshare.live:8080/series/jareer.me ye/jerielnino.me/335705.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="THALAIMAI SEYALAGAM" group-title="THALAIMAI SEYALAGAM" tvg-logo="", THALAIMAI SEYALAGAM (TAMIL) S01 E06
-http://starshare.live:8080/series/jareer.me ye/jerielnino.me/335706.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="THALAIMAI SEYALAGAM" group-title="THALAIMAI SEYALAGAM" tvg-logo="", THALAIMAI SEYALAGAM (TAMIL) S01 E07
-http://starshare.live:8080/series/jareer.me ye/jerielnino.me/335707.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="THALAIMAI SEYALAGAM" group-title="THALAIMAI SEYALAGAM" tvg-logo="", THALAIMAI SEYALAGAM (TAMIL) S01 E08
-http://starshare.live:8080/series/jareer.me ye/jerielnino.me/335708.mp4
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1, ELECTION 2024 Cam
-http://starshare.live:8080/movie/jareer.me ye/jerielnino.me/336206.mp4
-
-
-#EXTINF:-1,  INGA NAAN THAAN KINGU (2024) (TAMIL)(CAM)
-http://starshare.live:8080/movie/jareer.me ye/jerielnino.me/335429.mp4
-
-#EXTINF:-1, PADIKKATHA PAKKANGAL 2024
-http://starshare.live:8080/movie/jareer.me ye/jerielnino.me/318475.mp4
-
-#EXTINF:-1,  YUVA (2024) (TAMIL)
-http://livetvbox.live:8080/movie/jareer.me ye/jerielnino.me/335430.mp4
-
-#EXTINF:-1,   HOT SPOT (2024) (TAMIL)
-http://livetvbox.live:8080/movie/jareer.me ye/jerielnino.me/335428.mp4
-
-
-#EXTINF:-1, THELMA THE UNICORN (2024) (TAMIL)
-http://livetvbox.live:8080/movie/jareer.me ye/jerielnino.me/335427.mp4
-
-
-#EXTINF:-1, GODZILLA X KONG: THE NEW EMPIRE (2024) (TAMIL)
-http://starshare.live:8080/movie/jareer.me ye/jerielnino.me/332088.mp4
-
-#EXTINF:-1, KINGDOM OF THE PLANET OF THE APES (2024) (TAMIL)(CAM)
-http://livetvbox.live:8080/movie/jareer.me ye/jerielnino.me/329682.mp4
-
-#EXTINF:-1, THE BOYS (2024) (TAMIL)
-http://livetvbox.live:8080/movie/jareer.me ye/jerielnino.me/332642.mp4
-
-#EXTINF:-1, KALVAN (2024) (TAMIL)
-http://starshare.live:8080/movie/jareer.me ye/jerielnino.me/332090.mp4
-
-#EXTINF:-1, UYIR THAMIZHUKKU (2024) (TAMIL)(CAM)
-http://livetvbox.live:8080/movie/jareer.me ye/jerielnino.me/330610.mp4
-
-
-#EXTINF:-1, STAR 2024
-http://livetvbox.live:8080/movie/jareer.me ye/jerielnino.me/329711.mp4
-
-#EXTINF:-1, RASAVATHI 2024
-http://livetvbox.live:8080/movie/jareer.me ye/jerielnino.me/329703.mp4
-
-#EXTINF:-1, மஞ்சுமேல்பாய்ஸ் தமிழ் 2024 (Multi Audio) MANJUMMEL BOYS (2024) (HINDI)(KANNADA)(MALAYALAM)(TAMIL)(TELUGU)
-http://livetvbox.live:8080/movie/jareer.me ye/jerielnino.me/323900.mp4
-
-#EXTINF:-1, மஞ்சுமேல்பாய்ஸ் தமிழ் 2024 (Multi Audio) MANJUMMEL BOYS (2024) (HINDI)(KANNADA)(MALAYALAM)(TAMIL)(TELUGU)
-http://starshare.live:8080/movie/jareer.me ye/jerielnino.me/323900.mp4
-
-#EXTINF:-1, MANJUMMEL BOYS (2024) (5.1 Malayalam)
-http://Watchindia.net:8880/movie/98697/23119/2620.mkv
-
-#EXTINF:-1, அரண்மனை-4 2024 ARANMANAI-4
-http://livetvbox.live:8080/movie/jareer.me ye/jerielnino.me/323600.mp4
-
-#EXTINF:-1, குரங்கு பெடல் KURANGU PEDAL (2024) (TAMIL)(CAM)
-http://livetvbox.live:8080/movie/jareer.me ye/jerielnino.me/323795.mp4
-
-
-#EXTINF:-1, SABARI (2024) (TAMIL)(CAM
-http://livetvbox.live:8080/movie/jareer.me ye/jerielnino.me/323869.mp4
-
-
-
-#EXTINF:-1, ரோமியோ ROMEO (2024) (TAMIL)
-http://livetvbox.live:8080/movie/jareer.me ye/jerielnino.me/329037.mp4
-
-
-#EXTINF:-1, 1 J baby
-http://starshare.live:8080/movie/rvdgdf7647564/bvchgfd235454/314069.mp4
-
-#EXTINF:-1, 2 HANU-MAN (2024) (TAMIL)
-http://starshare.live:8080/movie/rvdgdf7647564/bvchgfd235454/311229.mp4
-
-#EXTINF:-1, 3 REBEL (2024)
-http://starshare.live:8080/movie/rvdgdf7647564/bvchgfd235454/311453.mp4
-
-
-#EXTINF:-1, 5 RANAM ARAM THAVAREL (2024) (TAMIL)
-http://starshare.live:8080/movie/rvdgdf7647564/bvchgfd235454/316938.mp4
-
-#EXTINF:-1, 6 PREMALU (2024)
-http://starshare.live:8080/movie/rvdgdf7647564/bvchgfd235454/314063.mp4
-
-
-
-
-
-#EXTINF:-1, RANNEETI: BALAKOT & BEYOND (TAMIL) S01 E01
-http://livetvbox.live:8080/series/jareer.me ye/jerielnino.me/319789.mp4
- 
-#EXTINF:-1, RANNEETI: BALAKOT & BEYOND (TAMIL) S01 E02
-http://starshare.live:8080/series/jareer.me ye/jerielnino.me/319790.mp4
- 
-#EXTINF:-1, RANNEETI: BALAKOT & BEYOND (TAMIL) S01 E03
-http://starshare.live:8080/series/jareer.me ye/jerielnino.me/319791.mp4
- 
-#EXTINF:-1, RANNEETI: BALAKOT & BEYOND (TAMIL) S01 E04
-http://starshare.live:8080/series/jareer.me ye/jerielnino.me/319792.mp4
- 
-#EXTINF:-1, RANNEETI: BALAKOT & BEYOND (TAMIL) S01 E05
-http://starshare.live:8080/series/jareer.me ye/jerielnino.me/319793.mp4
- 
-#EXTINF:-1, RANNEETI: BALAKOT & BEYOND (TAMIL) S01 E06
-http://starshare.live:8080/series/jareer.me ye/jerielnino.me/319794.mp4
- 
-#EXTINF:-1, RANNEETI: BALAKOT & BEYOND (TAMIL) S01 E07
-http://starshare.live:8080/series/jareer.me ye/jerielnino.me/319795.mp4
- 
-#EXTINF:-1, RANNEETI: BALAKOT & BEYOND (TAMIL) S01 E08
-http://starshare.live:8080/series/jareer.me ye/jerielnino.me/319796.mp4
- 
-#EXTINF:-1, RANNEETI: BALAKOT & BEYOND (TAMIL) S01 E09
-http://starshare.live:8080/series/jareer.me ye/jerielnino.me/319797.mp4
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="SAT.SK" tvg-logo="https://i.ibb.co/CV1Nf0p/In-Shot-20240519", அன்பாலயம்-1996 - Hum Aapke Hain Koun tamil dubbed
-https://drive.usercontent.google.com/download?id=1leRihlQySAhbWxAJgvgV4AtHvYRdAVkT&export=download&confirm=t&uuid=9b44f0cb-f861-4198-9827-86574e2b3748
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="SAT.SK" tvg-logo="https://i.ibb.co/CV1Nf0p/In-Shot-20240519", காதல் ஒரு கவிதை - Maine Pyar Kiya Tamil Dubbed
-https://drive.usercontent.google.com/download?id=1lhlFsNDHcVttzkEN6GNpiw6KCdx1u48n&export=download&confirm=t&uuid=93f72be6-4bcb-49c4-8ce3-56d08719841d
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 CINEMANIA" tvg-logo="",CINEMANIA TAMIL 1 FHD
-https://public.iptv18.tech/vallabh.php?tv=385189
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 CINEMANIA" tvg-logo="",CINEMANIA TAMIL 2 FHD
-https://public.iptv18.tech/vallabh.php?tv=385188
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 CINEMANIA" tvg-logo="",CINEMANIA TAMIL 3 FHD
-https://public.iptv18.tech/vallabh.php?tv=385187
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 CINEMANIA" tvg-logo="",CINEMANIA TAMIL 4 FHD
-https://public.iptv18.tech/zain.php?tv=211242
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 CINEMANIA" tvg-logo="",CINEMANIA TAMIL 5 FHD
-https://public.iptv18.tech/vallabh.php?tv=385185
-
-
-
-
-
-
-
-
-
-#EXTINF:-1, THANDHI ONE
-https://249553662f3e.ap-south-1.playback.live-video.net/api/video/v1/ap-south-1.588204940461.channel.Sx8XPoik8VX2.m3u8
 
 
 
@@ -554,6 +296,38 @@ http://livetvbox.live:8080/live/Jackie/Jackie/296241.ts
 #EXTINF:-1 tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240313_0836496572223849489540251.png" group-title="Devotional",ஜோதி Jothi
 http://notvstream.in/jothitv/jothitv.m3u8
 
+
+
+#EXTINF:-1, opp- STAR SPORTS TAMIL-1
+http://xtv.ooo:8080/live/105578/105578/167574.ts
+
+#EXTINF:-1, sha- STAR SPORTS TAMIL 1 HD
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/9722.ts
+
+#EXTINF:-1, STAR SPORTS TAMIL
+http://mixbix.xyz:8080/L8r8WP9dEnuA/rnXMCGs5BGLe/277335
+
+#EXTINF:-1, STAR SPORTS TAMIL
+http://4ksuper.live:80/play/live.php?mac=00:1A:79:AF:B3:19&stream=155873&extension=ts&play_token=Il7PUPgrig
+
+#EXTINF:-1, STAR SPORTS 1 HD English
+http://Watchindia.net:8880/live/98697/23119/2186.ts
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 CINEMANIA" tvg-logo="",CINEMANIA TAMIL 1 FHD
+https://public.iptv18.tech/vallabh.php?tv=385189
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 CINEMANIA" tvg-logo="",CINEMANIA TAMIL 2 FHD
+https://public.iptv18.tech/vallabh.php?tv=385188
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 CINEMANIA" tvg-logo="",CINEMANIA TAMIL 3 FHD
+https://public.iptv18.tech/vallabh.php?tv=385187
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 CINEMANIA" tvg-logo="",CINEMANIA TAMIL 4 FHD
+https://public.iptv18.tech/zain.php?tv=211242
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 CINEMANIA" tvg-logo="",CINEMANIA TAMIL 5 FHD
+https://public.iptv18.tech/vallabh.php?tv=385185
+
+#EXTINF:-1, THANDHI ONE
+https://249553662f3e.ap-south-1.playback.live-video.net/api/video/v1/ap-south-1.588204940461.channel.Sx8XPoik8VX2.m3u8
 
 
 
