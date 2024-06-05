@@ -210,7 +210,12 @@ http://tv.cloudcdn.me:80/live.ts?channelId=43423&uid=14505&deviceMac=00:1A:79:A7
 
 #EXTINF:-1, ZEE TAMIL HD (new)
 http://270383656354853098.ofk0601.xyz:80/play/vi819780/UC7EPNwtXmHb/853098.ts
- 
+
+Watch IN: ZEE TAMIL FHD opp
+http://xtv.ooo:8080/live/digitalallhub/digitalallhub/244523.ts
+Watch IN: ZEE TAMIL FHD
+http://xtv.ooo:8080/live/digitalallhub/digitalallhub/355606.ts
+
 #EXTINF:-1, opp ஜீதமிழ் IND: ZEE TAMIL
 http://xtv.ooo:8080/live/105578/105578/244523.ts
 
