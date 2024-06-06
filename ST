@@ -11,6 +11,12 @@ http://994256456879770428.ofk0601.xyz:80/play/vi819780/UC7EPNwtXmHb/770428.ts
 #EXTINF:-1,  FOX MOVIES 4K HEVC
 http://994256456879770448.ofk0601.xyz:80/play/vi819780/UC7EPNwtXmHb/770448.ts
 
+#EXTINF:-1, RU: PEH TB FHD
+http://994256456879854837.ofk0601.xyz:80/play/vi819780/UC7EPNwtXmHb/854837.ts
+
+#EXTINF:-1, RU: PEH ТВ SD
+http://994256456879854060.ofk0601.xyz:80/play/vi819780/UC7EPNwtXmHb/854060.ts
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 CINEMANIA" tvg-logo="http://b1g.fun/logos2/CineMania4K_tamil.jpg",CINEMANIA TAMIL 4K
 https://public.iptv18.tech/vallabh.php?tv=425731
