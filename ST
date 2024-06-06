@@ -11,7 +11,7 @@ http://994256456879770428.ofk0601.xyz:80/play/vi819780/UC7EPNwtXmHb/770428.ts
 #EXTINF:-1, STAR MOVIES 4K HEVC
 http://994256456879770448.ofk0601.xyz:80/play/vi819780/UC7EPNwtXmHb/770448.ts
 
-#EXTINF:-1, RU: PEH ТВ SD
+#EXTINF:-1, RU: PEH ТВ HD
 http://xtv.ooo:8080/live/digitalallhub/digitalallhub/353404.ts
 
 
