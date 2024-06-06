@@ -11,7 +11,18 @@ https://public.iptv18.tech/vallabh.php?tv=425731
 
 
 
+#EXTINF:-1, SUN TV HD ta
+https://tplay.dinesh29.com.np/live/tataplay-universal/sun-tv-hd/index.ts
+ 
+#EXTINF:-1, STAR VIJAY HD ta
+https://tplay.dinesh29.com.np/live/tataplay-universal/star-vijay-hd/index.ts
+ 
+#EXTINF:-1, ZEE TAMIL HD ta
+https://tplay.dinesh29.com.np/live/tataplay-universal/zee-tamil-hd/index.ts
 
+#EXTINF:-1, ZEE TAMIL ta
+https://tplay.dinesh29.com.np/live/tataplay-universal/zee-tamil/index.ts
+ 
 
 #EXTINF:-1, SUN
 https://fifabangladesh.live/@RANAPKX73/stream.m3u8?id=896&e=.m3u8
@@ -37,6 +48,9 @@ http://tv.cloudcdn.me:80/live.ts?channelId=43423&uid=14505&deviceMac=00:1A:79:A7
 
 
 
+#EXTINF:-1, SUN TV HD ta
+https://tplay.dinesh29.com.np/live/tataplay-universal/sun-tv-hd/index.ts
+ 
 #EXTINF:-1,சன்டிவி SUN TV
 http://flbl1.112421.net:8082/4151826/mpegts?token=KVKPX9W8DU
 
@@ -104,7 +118,8 @@ http://iptvtree.net:8080/live/T-thornman/2126e132/76969.ts
 
 
 
-
+#EXTINF:-1, STAR VIJAY HD ta
+https://tplay.dinesh29.com.np/live/tataplay-universal/star-vijay-hd/index.ts
 
 #EXTINF:-1, STAR VIJAY HD (new)
 http://270383656354850563.ofk0601.xyz:80/play/vi819780/UC7EPNwtXmHb/850563.ts
@@ -199,11 +214,19 @@ https://public.iptv18.tech/share.php?id=5915.ts
 https://public.iptv18.tech/share.php?id=5917.ts
 
 
-
 #EXTINF:-1, STAR VIJAY HD விஜய் டிவி tll
 http://tv.cloudcdn.me/live.ts?channelId=43419&uid=5353&deviceMac=00:1A:79:17:D4:65
 
 
+
+
+
+
+#EXTINF:-1, ZEE TAMIL HD ta
+https://tplay.dinesh29.com.np/live/tataplay-universal/zee-tamil-hd/index.ts
+
+#EXTINF:-1, ZEE TAMIL ta
+https://tplay.dinesh29.com.np/live/tataplay-universal/zee-tamil/index.ts
 
 #EXTINF:-1, ZEE TAMIL HD ஜீ தமிழ் tll
 http://tv.cloudcdn.me:80/live.ts?channelId=43423&uid=14505&deviceMac=00:1A:79:A7:53:75
