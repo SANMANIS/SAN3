@@ -37,7 +37,7 @@ http://270383656354850563.ofk0601.xyz:80/play/vi819780/UC7EPNwtXmHb/850563.ts
 http://270383656354853098.ofk0601.xyz:80/play/vi819780/UC7EPNwtXmHb/853098.ts
  
 #EXTINF:-1, SUN TV சன் டிவி tll
-http://watchindia.net:8880/22453/32498/843
+https://fifabangladesh.live/@RANAPKX73/stream.m3u8?id=896&e=.m3u8
 
 #EXTINF:-1, STAR VIJAY HD விஜய் டிவி tll
 http://mixbix.xyz:8080/L8r8WP9dEnuA/rnXMCGs5BGLe/236301
