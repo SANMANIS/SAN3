@@ -48,14 +48,12 @@ http://tv.cloudcdn.me:80/live.ts?channelId=43423&uid=14505&deviceMac=00:1A:79:A7
 
 
 
-#EXTINF:-1, SUN TV HD ta
-https://tplay.dinesh29.com.np/live/tataplay-universal/sun-tv-hd/index.ts
- 
+
 #EXTINF:-1,சன்டிவி SUN TV
 http://flbl1.112421.net:8082/4151826/mpegts?token=KVKPX9W8DU
 
 #EXTINF:-1, SUN TV சன் டிவி tll
-http://watchindia.net:8880/22453/32498/843
+https://fifabangladesh.live/@RANAPKX73/stream.m3u8?id=896&e=.m3u8
 
 #EXTINF:-1, SUN TV FHD (new)
 http://270383656354841925.ofk0601.xyz:80/play/vi819780/UC7EPNwtXmHb/841925.ts
@@ -118,8 +116,6 @@ http://iptvtree.net:8080/live/T-thornman/2126e132/76969.ts
 
 
 
-#EXTINF:-1, STAR VIJAY HD ta
-https://tplay.dinesh29.com.np/live/tataplay-universal/star-vijay-hd/index.ts
 
 #EXTINF:-1, STAR VIJAY HD (new)
 http://270383656354850563.ofk0601.xyz:80/play/vi819780/UC7EPNwtXmHb/850563.ts
@@ -138,8 +134,6 @@ http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/5916.ts
 
 #EXTINF:-1, share STAR VIJAY
 http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/5917.ts
-
-#EXTINF:-1, share STAR VIJAY
 
 
 
@@ -222,11 +216,7 @@ http://tv.cloudcdn.me/live.ts?channelId=43419&uid=5353&deviceMac=00:1A:79:17:D4:
 
 
 
-#EXTINF:-1, ZEE TAMIL HD ta
-https://tplay.dinesh29.com.np/live/tataplay-universal/zee-tamil-hd/index.ts
 
-#EXTINF:-1, ZEE TAMIL ta
-https://tplay.dinesh29.com.np/live/tataplay-universal/zee-tamil/index.ts
 
 #EXTINF:-1, ZEE TAMIL HD ஜீ தமிழ் tll
 http://tv.cloudcdn.me:80/live.ts?channelId=43423&uid=14505&deviceMac=00:1A:79:A7:53:75
