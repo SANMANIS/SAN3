@@ -23,18 +23,6 @@ https://public.iptv18.tech/vallabh.php?tv=425731
 
 
 
-#EXTINF:-1, SUN TV HD ta
-https://tplay.dinesh29.com.np/live/tataplay-universal/sun-tv-hd/index.ts
- 
-#EXTINF:-1, STAR VIJAY HD ta
-https://tplay.dinesh29.com.np/live/tataplay-universal/star-vijay-hd/index.ts
- 
-#EXTINF:-1, ZEE TAMIL HD ta
-https://tplay.dinesh29.com.np/live/tataplay-universal/zee-tamil-hd/index.ts
-
-#EXTINF:-1, ZEE TAMIL ta
-https://tplay.dinesh29.com.np/live/tataplay-universal/zee-tamil/index.ts
- 
 
 #EXTINF:-1, SUN
 https://fifabangladesh.live/@RANAPKX73/stream.m3u8?id=896&e=.m3u8
