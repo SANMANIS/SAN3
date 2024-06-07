@@ -5,6 +5,9 @@ https://drive.usercontent.google.com/download?id=1ydVdo04a_PoRK3ZCqmpr467fGMxoBK
 #EXTINF:-1, LOVE NATURE 4K HEVC (NEW)
 http://270383656354827528.ofk0601.xyz:80/play/vi819780/UC7EPNwtXmHb/827528.ts
 
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 CINEMANIA" tvg-logo="http://b1g.fun/logos2/CineMania4K_tamil.jpg",CINEMANIA TAMIL 4K
+https://public.iptv18.tech/vallabh.php?tv=425731
+
 #EXTINF:-1,  AXN MOVIES 4K HEVC
 http://994256456879770428.ofk0601.xyz:80/play/vi819780/UC7EPNwtXmHb/770428.ts
 
@@ -17,8 +20,6 @@ http://xtv.ooo:8080/live/digitalallhub/digitalallhub/353404.ts
 #EXTINF:-1, RU: REN TV HD PEH
 http://605801356401854840.ofk0601.xyz:80/play/vi819780/UC7EPNwtXmHb/854840.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 CINEMANIA" tvg-logo="http://b1g.fun/logos2/CineMania4K_tamil.jpg",CINEMANIA TAMIL 4K
-https://public.iptv18.tech/vallabh.php?tv=425731
 
 
 
