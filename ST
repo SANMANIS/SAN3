@@ -21,6 +21,17 @@ http://xtv.ooo:8080/live/digitalallhub/digitalallhub/353404.ts
 http://605801356401854840.ofk0601.xyz:80/play/vi819780/UC7EPNwtXmHb/854840.ts
 
 
+#EXTINF:-1, RU: REN TV HD PEH
+https://tv.makeevka.com/channel/11/index.m3u8
+
+#EXTINF:-1, RU: REN TV HD PEH
+https://edge02.odtv.az/o2/rentv/playlist.m3u8
+
+#EXTINF:-1, RU: REN TV HD PEH
+https://woobl.ru/hls987/Rentv_international.m3u8
+
+
+
 
 #EXTINF:-1, Weapon 2024 (cam) use mx vlc player
 https://download.wetransfer.com/eugv/4de0f11c72d6d15b3780b1fd5c8ffd5020240607114546/d936c5ffabead721594b1276c0a03465e6585722/Weapon%202024%20720p%20HD.mp4?cf=y&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImRlZmF1bHQifQ.eyJleHAiOjE3MTc3ODYwNjcsImlhdCI6MTcxNzc3MTY2NywiZG93bmxvYWRfaWQiOiI1ODdjNmU5Ni05NzEwLTQwMDAtYmE1OS1mMWI1MzM2MDE5NjYiLCJzdG9yYWdlX3NlcnZpY2UiOiJzdG9ybSJ9.6Sq3D2QtOpmYDR2gQ7QYA7QcAm2Oa8jNWKAtEUXEbP4
