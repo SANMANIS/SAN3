@@ -31,10 +31,11 @@ https://edge02.odtv.az/o2/rentv/playlist.m3u8
 
 
 #EXTINF:-1, Weapon 2024 (cam) use mx vlc player
-https://download.wetransfer.com/eugv/4de0f11c72d6d15b3780b1fd5c8ffd5020240607114546/d936c5ffabead721594b1276c0a03465e6585722/Weapon%202024%20720p%20HD.mp4?cf=y&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImRlZmF1bHQifQ.eyJleHAiOjE3MTc3ODYwNjcsImlhdCI6MTcxNzc3MTY2NywiZG93bmxvYWRfaWQiOiI1ODdjNmU5Ni05NzEwLTQwMDAtYmE1OS1mMWI1MzM2MDE5NjYiLCJzdG9yYWdlX3NlcnZpY2UiOiJzdG9ybSJ9.6Sq3D2QtOpmYDR2gQ7QYA7QcAm2Oa8jNWKAtEUXEbP4
+https://dl2.hotshare.fun/Weapon_2024_720p_HD.mp4
 
 #EXTINF:-1, HARAA 2024 (cam) use mx vlc player
-https://download.wetransfer.com/eugv/997133a3ec11951cf0abbbb50e24418620240607214357/25b59ea1ddbf305482ac5c7890e8d63a258f355b/Haraa%202024%20720p%20HD.mp4?cf=y&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImRlZmF1bHQifQ.eyJleHAiOjE3MTc4MTExNjMsImlhdCI6MTcxNzc5Njc2MywiZG93bmxvYWRfaWQiOiIzN2NkMWIyMC05NzYwLTQzNTctOTM3Ni0xODVlNzU4NDQzZTQiLCJzdG9yYWdlX3NlcnZpY2UiOiJzdG9ybSJ9.AbnAMeq4x7tbOLp5JPlrHbqIHx9hMTWMPHdOrLXa9Ks
+https://download.wetransfer.com/eugv/6357646d591783cfcc788d7dbbdcf1ff20240607214411/25b59ea1ddbf305482ac5c7890e8d63a258f355b/Haraa%202024%20720p%20HD.mp4?cf=y&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImRlZmF1bHQifQ.eyJleHAiOjE3MTc4MzI3ODQsImlhdCI6MTcxNzgxODM4NCwiZG93bmxvYWRfaWQiOiI1ZjQ4NzhhYS00ZmI1LTQ3MWUtODg2Mi01YmIzNGI0YTE3ZTciLCJzdG9yYWdlX3NlcnZpY2UiOiJzdG9ybSJ9.ZnkjjQQKBT1hm5LvMwg0CWhDxieDlH-ZMNww4Q7g-k4
+
 
 #EXTINF:-1, SUN
 https://fifabangladesh.live/@RANAPKX73/stream.m3u8?id=896&e=.m3u8
