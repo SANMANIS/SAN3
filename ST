@@ -35,6 +35,8 @@ http://starshare.live:8080/series/jareer.me ye/jerielnino.me/344191.mp4
 #EXTINF:-1, INDIAN-1 (1996) HD
 http://starshare.live:8080/movie/jareer.me ye/jerielnino.me/91549.mp4
 
+#EXTINF:-1, INDIAN-1 (1996) HD USE MX VLC PLAYER
+https://cdn98.vembz.one/h7todutsamlbu3tf6rutlkxbzt3z6gyow7bwronlbutk5aawye3u4u26zzta/www.TamilYogi.zone_-_Indian_(1996)_Tamil_1080p_HD_AVC_7_6GB_HD_720p.mp4
 
 #EXTINF:-1, Weapon 2024 (cam) use mx vlc player
 https://dl9.hotshare.online/Weapon_2024_720p_HD.mp4
