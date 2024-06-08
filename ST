@@ -32,7 +32,7 @@ http://starshare.live:8080/series/jareer.me ye/jerielnino.me/340816.mp4
 #EXTINF:-1 tvg-id="" tvg-name="TOP COOKU DOOP COOKU" group-title="TOP COOKU DOOP COOKU" tvg-logo="", TOP COOKU DOOP COOKU (TAMIL) E03
 http://starshare.live:8080/series/jareer.me ye/jerielnino.me/344191.mp4
 
-#EXTINF:-1, INDIAN (1996) HD
+#EXTINF:-1, INDIAN-1 (1996) HD
 http://starshare.live:8080/movie/jareer.me ye/jerielnino.me/91549.mp4
 
 
