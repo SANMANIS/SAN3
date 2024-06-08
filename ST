@@ -20,13 +20,17 @@ https://woobl.ru/hls987/Rentv_international.m3u8
 #EXTINF:-1, RU: PEH ТВ HD REN TV
 http://xtv.ooo:8080/live/digitalallhub/digitalallhub/353404.ts
 
-#EXTINF:-1, RU: REN TV HD PEH
-http://605801356401854840.ofk0601.xyz:80/play/vi819780/UC7EPNwtXmHb/854840.ts
-
-#EXTINF:-1, RU: REN TV HD PEH
-https://edge02.odtv.az/o2/rentv/playlist.m3u8
 
 
+
+#EXTINF:-1 tvg-id="" tvg-name="TOP COOKU DOOP COOKU" group-title="TOP COOKU DOOP COOKU" tvg-logo="", TOP COOKU DOOP COOKU (TAMIL) E01
+http://starshare.live:8080/series/jareer.me ye/jerielnino.me/337074.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="TOP COOKU DOOP COOKU" group-title="TOP COOKU DOOP COOKU" tvg-logo="", TOP COOKU DOOP COOKU (TAMIL) E02
+http://starshare.live:8080/series/jareer.me ye/jerielnino.me/340816.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="TOP COOKU DOOP COOKU" group-title="TOP COOKU DOOP COOKU" tvg-logo="", TOP COOKU DOOP COOKU (TAMIL) E03
+http://starshare.live:8080/series/jareer.me ye/jerielnino.me/344191.mp4
 
 
 
