@@ -5,38 +5,9 @@ https://drive.usercontent.google.com/download?id=1ydVdo04a_PoRK3ZCqmpr467fGMxoBK
 #EXTINF:-1, LOVE NATURE 4K HEVC (NEW)
 http://270383656354827528.ofk0601.xyz:80/play/vi819780/UC7EPNwtXmHb/827528.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 CINEMANIA" tvg-logo="http://b1g.fun/logos2/CineMania4K_tamil.jpg",CINEMANIA TAMIL 4K
-https://public.iptv18.tech/vallabh.php?tv=425731
-
-#EXTINF:-1,  AXN MOVIES 4K HEVC
-http://994256456879770428.ofk0601.xyz:80/play/vi819780/UC7EPNwtXmHb/770428.ts
-
-#EXTINF:-1, STAR MOVIES 4K HEVC
-http://994256456879770448.ofk0601.xyz:80/play/vi819780/UC7EPNwtXmHb/770448.ts
-
-#EXTINF:-1, RU: REN TV HD PEH
-https://woobl.ru/hls987/Rentv_international.m3u8
-
-#EXTINF:-1, RU: PEH ТВ HD REN TV
-http://xtv.ooo:8080/live/digitalallhub/digitalallhub/353404.ts
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="TOP COOKU DOOP COOKU" group-title="TOP COOKU DOOP COOKU" tvg-logo="", TOP COOKU DOOP COOKU (TAMIL) E01
-http://starshare.live:8080/series/jareer.me ye/jerielnino.me/337074.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="TOP COOKU DOOP COOKU" group-title="TOP COOKU DOOP COOKU" tvg-logo="", TOP COOKU DOOP COOKU (TAMIL) E02
-http://starshare.live:8080/series/jareer.me ye/jerielnino.me/340816.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="TOP COOKU DOOP COOKU" group-title="TOP COOKU DOOP COOKU" tvg-logo="", TOP COOKU DOOP COOKU (TAMIL) E03
-http://starshare.live:8080/series/jareer.me ye/jerielnino.me/344191.mp4
 
 #EXTINF:-1, INDIAN-1 (1996) HD
 http://starshare.live:8080/movie/jareer.me ye/jerielnino.me/91549.mp4
-
-#EXTINF:-1, INDIAN-1 (1996) HD USE MX VLC PLAYER
-https://cdn98.vembz.one/h7todutsamlbu3tf6rutlkxbzt3z6gyow7bwronlbutk5aawye3u4u26zzta/www.TamilYogi.zone_-_Indian_(1996)_Tamil_1080p_HD_AVC_7_6GB_HD_720p.mp4
 
 #EXTINF:-1, Weapon 2024 (cam) use mx vlc player
 https://dl9.hotshare.online/Weapon_2024_720p_HD.mp4
@@ -334,6 +305,32 @@ http://4ksuper.live:80/play/live.php?mac=00:1A:79:AF:B3:19&stream=155873&extensi
 
 #EXTINF:-1, STAR SPORTS 1 HD English
 http://Watchindia.net:8880/live/98697/23119/2186.ts
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 CINEMANIA" tvg-logo="http://b1g.fun/logos2/CineMania4K_tamil.jpg",CINEMANIA TAMIL 4K
+https://public.iptv18.tech/vallabh.php?tv=425731
+
+#EXTINF:-1,  AXN MOVIES 4K HEVC
+http://994256456879770428.ofk0601.xyz:80/play/vi819780/UC7EPNwtXmHb/770428.ts
+
+#EXTINF:-1, STAR MOVIES 4K HEVC
+http://994256456879770448.ofk0601.xyz:80/play/vi819780/UC7EPNwtXmHb/770448.ts
+
+#EXTINF:-1, RU: REN TV HD PEH
+https://woobl.ru/hls987/Rentv_international.m3u8
+
+#EXTINF:-1, RU: PEH ТВ HD REN TV
+http://xtv.ooo:8080/live/digitalallhub/digitalallhub/353404.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="TOP COOKU DOOP COOKU" group-title="TOP COOKU DOOP COOKU" tvg-logo="", TOP COOKU DOOP COOKU (TAMIL) E01
+http://starshare.live:8080/series/jareer.me ye/jerielnino.me/337074.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="TOP COOKU DOOP COOKU" group-title="TOP COOKU DOOP COOKU" tvg-logo="", TOP COOKU DOOP COOKU (TAMIL) E02
+http://starshare.live:8080/series/jareer.me ye/jerielnino.me/340816.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="TOP COOKU DOOP COOKU" group-title="TOP COOKU DOOP COOKU" tvg-logo="", TOP COOKU DOOP COOKU (TAMIL) E03
+http://starshare.live:8080/series/jareer.me ye/jerielnino.me/344191.mp4
+
 
 
 
