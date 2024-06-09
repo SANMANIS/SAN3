@@ -20,6 +20,9 @@ https://dl4.hotshare.fun/Haraa_2024_720p_HD.mp4
 #EXTINF:-1,சன்டிவி SUN TV
 http://flbl1.112421.net:8082/4151826/mpegts?token=KVKPX9W8DU
 
+#EXTINF:-1, TM: SUN TV FHD indigo auto
+http://tv.cloudcdn.me:80/live.ts?channelId=43421&uid=12449&deviceMac=00:1A:79:A2:B5:0C
+
 #EXTINF:-1, SUN TV சன் டிவி tll
 https://fifabangladesh.live/@RANAPKX73/stream.m3u8?id=896&e=.m3u8
 
@@ -81,7 +84,9 @@ http://iptvtree.net:8080/live/T-thornman/2126e132/76969.ts
 
 
 
-
+#EXTINF:-1, TM: STAR VIJAY FHD indigo auto
+http://tv.cloudcdn.me:80/live.ts?channelId=43419&uid=12449&deviceMac=00:1A:79:A2:B5:0C
+ 
 #EXTINF:-1, STAR VIJAY HD (new)
 http://270383656354850563.ofk0601.xyz:80/play/vi819780/UC7EPNwtXmHb/850563.ts
 
@@ -184,7 +189,11 @@ http://tv.cloudcdn.me/live.ts?channelId=43419&uid=5353&deviceMac=00:1A:79:17:D4:
 
 
 
+#EXTINF:-1, TM: ZEE TAMIL FHD indigo auto
+http://tv.cloudcdn.me:80/live.ts?channelId=43423&uid=12449&deviceMac=00:1A:79:A2:B5:0C
 
+#EXTINF:-1, TM: ZEE TAMIL FHD indigo auto
+http://tv.cloudcdn.me:80/live.ts?channelId=128481&uid=12449&deviceMac=00:1A:79:A2:B5:0C
 
 #EXTINF:-1, ZEE TAMIL HD ஜீ தமிழ் tll
 http://tv.cloudcdn.me:80/live.ts?channelId=43423&uid=14505&deviceMac=00:1A:79:A7:53:75
