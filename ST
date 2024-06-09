@@ -9,6 +9,9 @@ http://270383656354827528.ofk0601.xyz:80/play/vi819780/UC7EPNwtXmHb/827528.ts
 #EXTINF:-1, INDIAN-1 (1996) HD
 http://starshare.live:8080/movie/jareer.me ye/jerielnino.me/91549.mp4
 
+#EXTINF:-1,  MANKATHA (2011)
+http://starshare.live:8080/movie/jareer.me ye/jerielnino.me/91658.mp4
+
 #EXTINF:-1, Weapon 2024 (cam) use mx vlc player
 https://dl9.hotshare.online/Weapon_2024_720p_HD.mp4
 
