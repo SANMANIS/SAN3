@@ -26,10 +26,7 @@ https://fifabangladesh.live/@RANAPKX73/stream.m3u8?id=896&e=.m3u8
 #EXTINF:-1, SUN TV FHD (new)
 http://270383656354841925.ofk0601.xyz:80/play/vi819780/UC7EPNwtXmHb/841925.ts
  
-#EXTINF:-1,சன்.டிவி SUN HD IND watch
-http://watchindia.net:8880/22453/32498/843
-#EXTINF:-1,சன்.டிவி SUN HD IND watch
-http://watchindia.net:8880/live/98697/23119/843.ts
+
 #EXTINF:-1,சன்.டிவி SUN HD USA watch
 http://watchindia.net:8880/live/98697/23119/2089.ts
 
