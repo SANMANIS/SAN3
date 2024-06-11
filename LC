@@ -24,6 +24,7 @@ https://server.iptelevisiontv.com/hls/tamilpr.m3u8
 http://rott.ridsys.in/riptv/live/stream22/index.m3u8
 #EXTINF:-1 tvg-id="bhakthi" tvg-name="" group-title="TAMIL;LOCAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6m101TRYzq5V0kwsiHClCPa0HzX8VegfbMA&usqp=CAU",VINMEENMUSIC
 http://vinmeentv.livebox.co.in/vinmeentvhls/live.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="TAMIL" tvg-logo="https://i.imgur.com/3rLEBaS.jpg",ZEETAMIL NEWS HD
 https://ythls.armelin.one/channel/UCxRRfF6qIoYntp3zNOozonQ.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="TAMIL" tvg-logo="https://i.imgur.com/lix8q6y.jpg",CHANAKYAA HD
@@ -32,6 +33,8 @@ https://ythls.armelin.one/channel/UCoOu4D7foJWfKvcDLxqrF2Q.m3u8
 https://ythls.armelin.one/channel/UCYlh4lH762HvHt6mmiecyWQ.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="TEMP" tvg-logo="https://i.imgur.com/CxcuvXX.png",POLIMER NEWS (1080P) [NOT 24/7]
 https://ythls.armelin.one/channel/UC8Z-VjXBtDJTvq6aqkIskPg.m3u8
+
+
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="1CLOUD" tvg-logo="https://tse3.mm.bing.net/th?id=OIP.lyovpQ60rVi9qPxJ3UjTqAAAAA&pid=Api&P=0&h=220",SKY MUSIC TV
 http://ipcloud.live:8080/nvision/skymusic.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="TLL MUSIC" tvg-logo="https://play-lh.googleusercontent.com/JRWl6SzuOta1_blizXv4kR-Yl02ZuivGw9IvVxjMic66hBi9D6oHf9x1VbDBq2PzXQ=w240-h480-rw",SK SOUTHERN TAMIL TV
