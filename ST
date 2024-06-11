@@ -19,6 +19,15 @@ https://dl9.hotshare.online/Weapon_2024_720p_HD.mp4
 https://dl4.hotshare.fun/Haraa_2024_720p_HD.mp4
 
 
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TAMIL" tvg-logo="https://i.imgur.com/3rLEBaS.jpg",ZEETAMIL NEWS HD
+https://ythls.armelin.one/channel/UCxRRfF6qIoYntp3zNOozonQ.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TAMIL" tvg-logo="https://i.imgur.com/lix8q6y.jpg",CHANAKYAA HD
+https://ythls.armelin.one/channel/UCoOu4D7foJWfKvcDLxqrF2Q.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TAMIL" tvg-logo="https://i.imgur.com/qF9TcMW.png",SUNNEWS HD
+https://ythls.armelin.one/channel/UCYlh4lH762HvHt6mmiecyWQ.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TEMP" tvg-logo="https://i.imgur.com/CxcuvXX.png",POLIMER NEWS (1080P) [NOT 24/7]
+https://ythls.armelin.one/channel/UC8Z-VjXBtDJTvq6aqkIskPg.m3u8
+
 
 #EXTINF:-1,சன்டிவி SUN TV
 http://flbl1.112421.net:8082/4151826/mpegts?token=KVKPX9W8DU
