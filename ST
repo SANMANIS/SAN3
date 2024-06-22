@@ -8,14 +8,18 @@ http://270383656354827528.ofk0601.xyz:80/play/vi819780/UC7EPNwtXmHb/827528.ts
 
 
 
-#EXTINF:-1,  ARANMANAI 4 (2024) (TAMIL)
-http://starshare.live:8080/movie/rvdgdf7647564/bvchgfd235454/353837.mp4
+#EXTINF:-1, ARANMANAI 4 (2024)* multi audio
+http://xtv.ooo:8080/movie/digitalallhub/digitalallhub/378839.mkv
 
 #EXTINF:-1,  PT SIR (2024) (TAMIL)
 http://starshare.live:8080/movie/rvdgdf7647564/bvchgfd235454/353841.mp4
 
+#EXTINF:-1, PT SIR (2024)
+http://xtv.ooo:8080/movie/digitalallhub/digitalallhub/378847.mkv
+
 #EXTINF:-1,  RASAVATHI (2024) (TAMIL)
 http://starshare.live:8080/movie/rvdgdf7647564/bvchgfd235454/353862.mp4
+
 
 
 #EXTINF:-1,  MAHARAJA (2024) (TAMIL) (CAM)
