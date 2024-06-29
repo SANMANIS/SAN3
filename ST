@@ -5,7 +5,11 @@ https://drive.usercontent.google.com/download?id=1ydVdo04a_PoRK3ZCqmpr467fGMxoBK
 #EXTINF:-1, LOVE NATURE 4K HEVC (NEW)
 http://270383656354827528.ofk0601.xyz:80/play/vi819780/UC7EPNwtXmHb/827528.ts
 
+#EXTINF:-1,  ADD FREE T20 WORLDCUP (ONLY MATCH TIME)
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/347664.ts
 
+#EXTINF:-1, ADD FREE T20 WORLDCUP (ONLY MATCH TIME)
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/347663.ts
 
 
 #EXTINF:-1,  Kalki 2898 AD 2024 (cam) 
