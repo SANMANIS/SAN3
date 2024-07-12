@@ -11,6 +11,13 @@ http://270383656354827528.ofk0601.xyz:80/play/vi819780/UC7EPNwtXmHb/827528.ts
 #EXTINF:-1, Indian 3 (2025) [Tamil - Official Trailer
 https://drive.usercontent.google.com/download?id=17HSLEJiwOAAHKMRUhgT9ZRn12Gnzbcy1&export=download
 
+#EXTINF:-1, Indian 1 HD
+https://dl10.hotshare.fun/Moviesda.Mobi_-_Indian_1996_Original_1080p_HD.mp4
+
+
+
+
+
 #EXTINF:-1, GARUDAN HD (2024) (TAMIL)
 http://starshare.live:8080/movie/rvdgdf7647564/bvchgfd235454/359644.mp4
 
