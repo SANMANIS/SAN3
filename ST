@@ -14,16 +14,30 @@ https://drive.usercontent.google.com/download?id=17HSLEJiwOAAHKMRUhgT9ZRn12Gnzbc
 #EXTINF:-1, Indian 1 HD
 https://dl10.hotshare.fun/Moviesda.Mobi_-_Indian_1996_Original_1080p_HD.mp4
 
-
 #EXTINF:-1, Indian 2 2024 cam HD
 http://starshare.live:8080/movie/rvdgdf7647564/bvchgfd235454/364588.mp4
 
-#EXTINF:-1, MAHARAJA (2024) (TAMIL) HD
-http://starshare.live:8080/movie/rvdgdf7647564/bvchgfd235454/364589.mp4
- 
+
 #EXTINF:-1, ELECTION (2024) (TAMIL) HD
 http://starshare.live:8080/movie/rvdgdf7647564/bvchgfd235454/363699.mp4
 
+#EXTINF:-1, MAHARAJA (2024) (TAMIL) HD
+http://starshare.live:8080/movie/rvdgdf7647564/bvchgfd235454/364589.mp4
+
+#EXTINF:-1, MAHARAJA (2024)
+http://xtv.ooo:8080/movie/926320521/2229994223/379114.mkv
+
+#EXTINF:-1, HARAA (2024)
+http://xtv.ooo:8080/movie/926320521/2229994223/379220.mkv
+ 
+#EXTINF:-1, CASE 30 (2024)*
+http://xtv.ooo:8080/movie/926320521/2229994223/379272.mkv
+
+#EXTINF:-1, HIT LIST (2024)
+http://xtv.ooo:8080/movie/926320521/2229994223/379304.mkv
+
+#EXTINF:-1, GUARDIAN (2024)
+http://xtv.ooo:8080/movie/926320521/2229994223/379115.mkv
 
 #EXTINF:-1, GARUDAN HD (2024) (TAMIL)
 http://starshare.live:8080/movie/rvdgdf7647564/bvchgfd235454/359644.mp4
