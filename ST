@@ -21,6 +21,9 @@ http://starshare.live:8080/movie/rvdgdf7647564/bvchgfd235454/364588.mp4
 #EXTINF:-1, MAHARAJA (2024) (TAMIL) HD
 http://starshare.live:8080/movie/rvdgdf7647564/bvchgfd235454/364589.mp4
  
+#EXTINF:-1, ELECTION (2024) (TAMIL) HD
+http://starshare.live:8080/movie/rvdgdf7647564/bvchgfd235454/363699.mp4
+
 
 #EXTINF:-1, GARUDAN HD (2024) (TAMIL)
 http://starshare.live:8080/movie/rvdgdf7647564/bvchgfd235454/359644.mp4
