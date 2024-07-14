@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="SAT.SK" tvg-logo="https://i.ibb.co/CV1Nf0p/In-Shot-20240519-225526863.jpg",INTRO WELCOME SAT.SK
+https://drive.usercontent.google.com/download?id=1ydVdo04a_PoRK3ZCqmpr467fGMxoBKol&export=download&confirm=t&uuid=662b0712-772f-41e9-9fc2-046e9714b46b
+
+
+
+
+
+#EXTM3U
 #EXTINF:-1 tvg-id="sunnews.in" tvg-name="" group-title="TAMIL NEWS" tvg-logo="https://watchindia.net/images/channels/tamil/Sun_News.png",SUN NEWS
 https://news.codeautoplay.workers.dev/?codeby=nd&channel=sunnews
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="TAMIL NEWS" tvg-logo="https://firebasestorage.googleapis.com/v0/b/playnow-7ce03.appspot.com/o/LOGO%2FTAMIL-NEWS%2FNEWS-18-TAMIL.png?alt=media&token=5e15b20a-507e-4458-bd00-e963aabf28b5",NEWS18 TAMIL TV
