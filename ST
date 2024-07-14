@@ -234,9 +234,17 @@ http://sansat.net:25461/02028857936892/0751169096/100170
 http://sansat.net:25461/02028857936892/0751169096/100171
 
 
+#EXTINF:-1, IND: TAMIL_SUN TV HD
+http://xtv.ooo:8080/live/926320521/2229994223/244553.ts
+Watch IND: TAMIL : SUN TV
+http://xtv.ooo:8080/live/926320521/2229994223/244623.ts
+#EXTINF:-1,  IN: SUN TV FHD
+http://xtv.ooo:8080/live/926320521/2229994223/355599.ts
+ 
 
 
-#EXTINF:-1,சன்டிவி SUN TV
+
+#EXTINF:-1, சன்டிவி SUN TV
 http://flbl1.112421.net:8082/4151826/mpegts?token=KVKPX9W8DU
 
 #EXTINF:-1, TM: SUN TV FHD indigo auto
@@ -253,12 +261,8 @@ http://270383656354841925.ofk0601.xyz:80/play/vi819780/UC7EPNwtXmHb/841925.ts
 http://watchindia.net:8880/live/98697/23119/2089.ts
 
 
-#EXTINF:-1, IND: TAMIL_SUN TV HD opp
-http://xtv.ooo:8080/live/digitalallhub/digitalallhub/244553.ts
-#EXTINF:-1, IN: SUN TV FHD opp
-http://xtv.ooo:8080/live/digitalallhub/digitalallhub/355599.ts
-#EXTINF:-1, IND: TAMIL : SUN TV opp
-http://xtv.ooo:8080/live/digitalallhub/digitalallhub/244623.ts
+
+
 
 #EXTINF:-1, share: சன்டிவி SUNTV (4K) star
 http://154.6.125.2:25461/live/jareer.me ye/jerielnino.me/98899.ts?token=ShJcU0BbQQNHXw0PBFNWWwtVVlFWBVxQB1tRUwYGBFZUVAYEAQRXXVIbGBpEF0dcWF1vWQIXXlgJWlsOSUZGQVRCa1tXEVkbUwkFDAdSFxUbRFldAxdeUAZTVAZXVwUAAhwWQlpXQQNHCgcBBFsXFRtVSEQDRwoAXT0GUhMNUFcTClpHX19PGwpXa1xSDlRXXRIKElYXSENYERIVXwpGXl0cFlBaRxFYEVwWAhVRBQkBEhwSBVoRD0UQGxVfRmZhExwWV0tHBlcWUFtWFVkXTUoSHBIPRjsTVBEWRQAFXldDEg4QAxFPGwhYTGdUDFtXXFNEWQlbF0MLQFMVSUZeXV9ZQF1BbBNQARsOGgJSBQkKEk0=
@@ -301,6 +305,10 @@ http://iptvtree.net:8080/live/T-thornman/2126e132/76969.ts
 
 
 
+#EXTINF:-1, IND: TAMIL: STAR VIJAY HD
+http://xtv.ooo:8080/live/926320521/2229994223/244624.ts
+#EXTINF:-1, IN: STAR VIJAY FHD
+http://xtv.ooo:8080/live/926320521/2229994223/355598.ts
 
 
 #EXTINF:-1, TM: STAR VIJAY FHD indigo auto
@@ -329,20 +337,8 @@ http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/5917.ts
 
 
 
-
-
 #EXTINF:-1, STAR VIJAY
 http://flbl1.112421.net:8082/4151823/mpegts?token=KVKPX9W8DU
-
-
-#EXTINF:-1 tvg-id="" tvg-name="IND: TAMIL: Star Vijay HD" tvg-logo="" group-title="IND | TAMIL",IND: TAMIL: Star Vijay HD
-http://xtv.ooo:8080/RiyazMPT/433833/244624
-
-#EXTINF:-1, IN: STAR VIJAY FHD
-http://xtv.ooo:8080/live/105578/105578/355598.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="IND: TAMIL : Star Vijay Super" tvg-logo="" group-title="IND | TAMIL",IND: TAMIL : Star Vijay Super
-http://xtv.ooo:8080/RiyazMPT/433833/244622
 
 #EXTINF:-1,விஜய்.டிவி STAR VIJAY
 http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:6C:3E:2D&stream=155874&extension=ts&play_token=qAGhR4rXRH
@@ -406,6 +402,10 @@ http://tv.cloudcdn.me/live.ts?channelId=43419&uid=5353&deviceMac=00:1A:79:17:D4:
 
 
 
+#EXTINF:-1, IND: ZEE TAMIL
+http://xtv.ooo:8080/live/926320521/2229994223/244523.ts
+#EXTINF:-1, IN: ZEE TAMIL FHD
+http://xtv.ooo:8080/live/926320521/2229994223/355606.ts
 
 
 #EXTINF:-1, TM: ZEE TAMIL FHD indigo auto
@@ -420,16 +420,6 @@ http://tv.cloudcdn.me:80/live.ts?channelId=43423&uid=14505&deviceMac=00:1A:79:A7
 #EXTINF:-1, ZEE TAMIL HD (new)
 http://270383656354853098.ofk0601.xyz:80/play/vi819780/UC7EPNwtXmHb/853098.ts
 
-Watch IN: ZEE TAMIL FHD opp
-http://xtv.ooo:8080/live/digitalallhub/digitalallhub/244523.ts
-Watch IN: ZEE TAMIL FHD
-http://xtv.ooo:8080/live/digitalallhub/digitalallhub/355606.ts
-
-#EXTINF:-1, opp ஜீதமிழ் IND: ZEE TAMIL
-http://xtv.ooo:8080/live/105578/105578/244523.ts
-
-#EXTINF:-1, IND: ZEE TAMIL fhd -opp
-http://xtv.ooo:8080/live/105578/105578/355608.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="TAMIL" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11997-j9lux9ig-v1/imageContent-11997-j9lux9ig-m5.png", share ஜீதமிழ் TM: ZEE TAMIL HD (USA)
 http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/5930.ts
