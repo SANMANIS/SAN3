@@ -56,20 +56,9 @@ http://xtv.ooo:8080/movie/digitalallhub/digitalallhub/378847.mkv
 #EXTINF:-1,  RASAVATHI (2024) (TAMIL)
 http://starshare.live:8080/movie/rvdgdf7647564/bvchgfd235454/353862.mp4
 
-
-
-#EXTINF:-1,  MAHARAJA (2024) (TAMIL) (CAM)
-http://starshare.live:8080/movie/rvdgdf7647564/bvchgfd235454/350562.mp4
- 
-#EXTINF:-1, MAHARAJA 2024 CAM) USE MX VLC PLAYER 
-https://dl6.hotshare.online/Maharaja_2024_720p_HD.mp4
-
 #EXTINF:-1, STAR (2024)HD
 http://xtv.ooo:8080/movie/digitalallhub/digitalallhub/378605.mkv
 
-
-#EXTINF:-1, Weapon 2024 (cam) use mx vlc player
-https://dl9.hotshare.online/Weapon_2024_720p_HD.mp4
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="TAMIL" tvg-logo="https://i.imgur.com/3rLEBaS.jpg",ZEETAMIL NEWS HD
