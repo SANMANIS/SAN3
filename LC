@@ -68,8 +68,7 @@ https://249553662f3e.ap-south-1.playback.live-video.net/api/video/v1/ap-south-1.
 http://paavaitv.sritv.co.in:1935/paavaitv/live/sri_network_google_firebase_bandwidth_hlsplay.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="1CLOUD" tvg-logo="",RS TV HD
 https://stream.onecloudlive.in/rstv/rstvhd/index.m3u8 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="1CLOUD" tvg-logo="",SANTHIYA TV
-http://santhiyatv.stream.onecloudlive.in:8080/santhiyatv/santhiyatvhd/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="1CLOUD" tvg-logo="",TAITAL TV HD
 https://stream.onecloudlive.in/taitaltv/live/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="1CLOUD" tvg-logo="https://play-lh.googleusercontent.com/Vf-6K8dq5nyUKmJ50kxP5U45gNi9OPzYbQixoZPrMjcesjmiuFcrf5Flqs59SdIW7m8=w480-h960-rw",THIRUMALAI HD
