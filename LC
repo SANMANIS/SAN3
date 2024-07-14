@@ -55,8 +55,9 @@ rtmp://rasinetworks.in:1935/rasicomedy/rasicomedy.stream_aac
 http://rasinetworks.in:1935/rasimusic/rasimusic.stream_aac/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="TAMIL RASI" tvg-logo="https://www.247tamilradios.com/storage/images/tvs/22d27c42b8520f313cecda20686f9733.png",RASI HOLLYWOOD
 http://rasinetworks.in:1935/rasihollywood/rasihollywood.stream_aac/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="TAMIL RASI" tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FoneHollywoodHd.jpg?alt=media&token=0c552991-77ad-42de-9e4c-8c6f4847285e",ONE HOLLYWOOD HD
-https://1cloud.digital/onetv/onehollywood/index.m3u8
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="TAMIL RASI" tvg-logo="https://live.tamilstreams.in/wp-content/uploads/2024/03/Rasi_Classic-215x300.jpg",RASI CLASSIC
 http://rasinetworks.in:1935/rasiclassic/rasiclassic.stream_aac/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="TAMIL RASI" tvg-logo="https://yt3.googleusercontent.com/qJtAARymQp8a3Zu3il2H51b23-QQqT1yOC4njYqxFRksrhkWYZIUfEQ66db-9uWU5v45rxM-tyw=s176-c-k-c0x00ffffff-no-rj",MN TV
