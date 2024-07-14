@@ -29,8 +29,6 @@ http://xtv.ooo:8080/movie/926320521/2229994223/379272.mkv
 #EXTINF:-1, HIT LIST (2024)
 http://xtv.ooo:8080/movie/926320521/2229994223/379304.mkv
 
-#EXTINF:-1, GUARDIAN (2024)
-http://xtv.ooo:8080/movie/926320521/2229994223/379115.mkv
 
 #EXTINF:-1, GARUDAN HD (2024) (TAMIL)
 http://starshare.live:8080/movie/rvdgdf7647564/bvchgfd235454/359644.mp4
