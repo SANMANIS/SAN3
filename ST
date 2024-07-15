@@ -5,8 +5,10 @@ https://drive.usercontent.google.com/download?id=1ydVdo04a_PoRK3ZCqmpr467fGMxoBK
 #EXTINF:-1, LOVE NATURE 4K HEVC (NEW)
 http://270383656354827528.ofk0601.xyz:80/play/vi819780/UC7EPNwtXmHb/827528.ts
 
-
-
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Ghilli - 2004 | 4K" tvg-logo="" group-title="4K Indian Movies",Ghilli - 2004 | 4K
+http://b1g.ooo:80/movie/308442/308442/776145.mkv
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Uyir Thamizhukku - 2023 | 4K" tvg-logo="" group-title="4K Indian Movies",Uyir Thamizhukku - 2023 | 4K
+http://b1g.ooo:80/movie/308442/308442/779351.mkv
 
 
 #EXTINF:-1, Indian 2 2024 cam HD
