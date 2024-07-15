@@ -168,27 +168,27 @@ https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccda
 #EXTGRP:unsorted
 http://rasinetworks.in:1935/rasitamil/rasitamil.stream_aac/index.m3u8
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Udhir @ Poomara Kathu - 2024 | Tamil | CAM" tvg-logo="" group-title="Tamil Movies",Udhir @ Poomara Kathu - 2024 | Tamil | CAM
-http://b1g.ooo:80/movie/Miguel/Miguel/779454.mkv
+http://b1g.ooo:80/movie/308442/308442/779454.mkv
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Maidaan - 2024 | Tamil" tvg-logo="" group-title="Tamil Movies",Maidaan - 2024 | Tamil
-http://b1g.ooo:80/movie/Miguel/Miguel/779625.mkv
+http://b1g.ooo:80/movie/308442/308442/779625.mkv
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Election - 2024 | Tamil" tvg-logo="" group-title="Tamil Movies",Election - 2024 | Tamil
-http://b1g.ooo:80/movie/Miguel/Miguel/780289.mkv
+http://b1g.ooo:80/movie/308442/308442/780289.mkv
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Maharaja - 2024 | Tamil" tvg-logo="" group-title="Tamil Movies",Maharaja - 2024 | Tamil
-http://b1g.ooo:80/movie/Miguel/Miguel/781504.mkv
+http://b1g.ooo:80/movie/308442/308442/781504.mkv
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Uyir Thamizhukku - 2023 | 4K" tvg-logo="" group-title="4K Indian Movies",Uyir Thamizhukku - 2023 | 4K
-http://b1g.ooo:80/movie/Miguel/Miguel/779351.mkv
+http://b1g.ooo:80/movie/308442/308442/779351.mkv
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Ghilli - 2004 | 4K" tvg-logo="" group-title="4K Indian Movies",Ghilli - 2004 | 4K
-http://b1g.ooo:80/movie/Miguel/Miguel/776145.mkv
+http://b1g.ooo:80/movie/308442/308442/776145.mkv
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Vinveli Devathai - 2023 | Tamil" tvg-logo="" group-title="Tamil Movies",Vinveli Devathai - 2023 | Tamil
-http://b1g.ooo:80/movie/Miguel/Miguel/776043.mkv
+http://b1g.ooo:80/movie/308442/308442/776043.mkv
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Hit List - 2024 | Tamil" tvg-logo="" group-title="Tamil Movies",Hit List - 2024 | Tamil
-http://b1g.ooo:80/movie/Miguel/Miguel/779623.mkv
+http://b1g.ooo:80/movie/308442/308442/779623.mkv
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Padikkadha Pakkangal - 2024 |Tamil" tvg-logo="" group-title="Tamil Movies",Padikkadha Pakkangal - 2024 |Tamil
-http://b1g.ooo:80/movie/Miguel/Miguel/777107.mkv
+http://b1g.ooo:80/movie/308442/308442/777107.mkv
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Kaaduvetty - 2024 | Tamil" tvg-logo="" group-title="Tamil Movies",Kaaduvetty - 2024 | Tamil
-http://b1g.ooo:80/movie/Miguel/Miguel/781906.mkv
+http://b1g.ooo:80/movie/308442/308442/781906.mkv
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Indian 2 | CAM" tvg-logo="" group-title="Hindi Movies 2024",Indian 2 | CAM
-http://b1g.ooo:80/movie/Miguel/Miguel/781616.mkv
+http://b1g.ooo:80/movie/308442/308442/781616.mkv
 #EXTINF:0,Aranmanai 4 (2024)*
 #EXTGRP:IN | TAMIL
 http://xtv.ooo:8080/movie/30912088/60996054/378839.mkv
