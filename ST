@@ -2,20 +2,53 @@
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="SAT.SK" tvg-logo="https://i.ibb.co/CV1Nf0p/In-Shot-20240519-225526863.jpg",INTRO WELCOME SAT.SK
 https://drive.usercontent.google.com/download?id=1ydVdo04a_PoRK3ZCqmpr467fGMxoBKol&export=download&confirm=t&uuid=662b0712-772f-41e9-9fc2-046e9714b46b
 
-#EXTINF:-1, HQ TEST - 8K Remastered - Kaavaalaa _ Tamannaah_ Rajinikanth _ JAILER(1080P_60FPS) SONG SAT.SK
-https://drive.usercontent.google.com/download?id=1KdN4f-vdnINxMi3AQNBlQwjeO4spoKjW&export=download&confirm=t&uuid=76a7c941-c3c3-4a73-b41f-bc6c5c6dbc65
-#EXTINF:-1, HQ TEST - 8K Remastered - Ramta Jogi _ Aishwarya Rai_ Anil Kapoor _ Taal(1080P_60FPS) SONG SAT.SK
-https://drive.usercontent.google.com/download?id=17xSdg365rz-nb07l3Xou9l2mN2bfE3Ud&export=download&confirm=t&uuid=8191b723-8fdb-4663-b872-6c07f239d200
-
-
 #EXTINF:-1, LOVE NATURE 4K HEVC (NEW)
 http://270383656354827528.ofk0601.xyz:80/play/vi819780/UC7EPNwtXmHb/827528.ts
 
 
+
+#EXTINF:-1,   SUN TV HD
+http://sansat.net:25461/live/02026512172803/02026512172803/100157.ts
+#EXTINF:-1,   STAR VIJAY HD
+http://sansat.net:25461/live/02026512172803/02026512172803/100153.ts
+#EXTINF:-1,  ZEE TAMIL HD
+http://sansat.net:25461/live/02026512172803/02026512172803/100169.ts
+#EXTINF:-1,   STAR VIJAY HD
+http://116.202.46.40:9023/STAR_VIJAY_4K_TAMIL/index.m3u8
+#EXTINF:-1,   SUN TV HD
+http://sansat.net:25461/02028857936892/0751169096/100157
+#EXTINF:-1,   STAR VIJAY HD
+http://sansat.net:25461/02028857936892/0751169096/100153
+#EXTINF:-1,  ZEE TAMIL HD
+http://sansat.net:25461/02028857936892/0751169096/100169
+
+#EXTINF:-1, SUN TV HD
+http://14.102.123.50:9080/play/a06z
+#EXTINF:-1, SUN TV HD
+http://14.102.123.50:9080/play/a0z8
+#EXTINF:-1, SUN TV HD
+http://14.102.123.50:9080/play/a0yk
+#EXTINF:-1, STAR VIJAY HD
+http://14.102.123.50:9080/play/a0yf
+#EXTINF:-1,  ZEE TAMIL HD
+http://14.102.123.50:9080/play/a0yd
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Ghilli - 2004 | 4K" tvg-logo="" group-title="4K Indian Movies",Ghilli - 2004 | 4K
 http://b1g.ooo:80/movie/308442/308442/776145.mkv
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Uyir Thamizhukku - 2023 | 4K" tvg-logo="" group-title="4K Indian Movies",Uyir Thamizhukku - 2023 | 4K
 http://b1g.ooo:80/movie/308442/308442/779351.mkv
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TAMIL" tvg-logo="https://i.imgur.com/3rLEBaS.jpg",ZEETAMIL NEWS HD
+https://ythls.armelin.one/channel/UCxRRfF6qIoYntp3zNOozonQ.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TAMIL" tvg-logo="https://i.imgur.com/lix8q6y.jpg",CHANAKYAA HD
+https://ythls.armelin.one/channel/UCoOu4D7foJWfKvcDLxqrF2Q.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TAMIL" tvg-logo="https://i.imgur.com/qF9TcMW.png",SUNNEWS HD
+https://ythls.armelin.one/channel/UCYlh4lH762HvHt6mmiecyWQ.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TEMP" tvg-logo="https://i.imgur.com/CxcuvXX.png",POLIMER NEWS (1080P) [NOT 24/7]
+https://ythls.armelin.one/channel/UC8Z-VjXBtDJTvq6aqkIskPg.m3u8
+
+
+
 
 
 #EXTINF:-1,  RAAYAN (2024) (TAMIL)(CAM)
@@ -87,53 +120,13 @@ http://xtv.ooo:8080/movie/digitalallhub/digitalallhub/378605.mkv
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="TAMIL" tvg-logo="https://i.imgur.com/3rLEBaS.jpg",ZEETAMIL NEWS HD
-https://ythls.armelin.one/channel/UCxRRfF6qIoYntp3zNOozonQ.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="TAMIL" tvg-logo="https://i.imgur.com/lix8q6y.jpg",CHANAKYAA HD
-https://ythls.armelin.one/channel/UCoOu4D7foJWfKvcDLxqrF2Q.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="TAMIL" tvg-logo="https://i.imgur.com/qF9TcMW.png",SUNNEWS HD
-https://ythls.armelin.one/channel/UCYlh4lH762HvHt6mmiecyWQ.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="TEMP" tvg-logo="https://i.imgur.com/CxcuvXX.png",POLIMER NEWS (1080P) [NOT 24/7]
-https://ythls.armelin.one/channel/UC8Z-VjXBtDJTvq6aqkIskPg.m3u8
 
 
 
 
-
-
-#EXTINF:-1,   SUN TV HD
-http://sansat.net:25461/live/02026512172803/02026512172803/100157.ts
-#EXTINF:-1,   STAR VIJAY HD
-http://sansat.net:25461/live/02026512172803/02026512172803/100153.ts
-#EXTINF:-1,  ZEE TAMIL HD
-http://sansat.net:25461/live/02026512172803/02026512172803/100169.ts
-
-#EXTINF:-1,   STAR VIJAY HD
-http://116.202.46.40:9023/STAR_VIJAY_4K_TAMIL/index.m3u8
 
 #EXTINF:-1, VIJAY TAKKER
 https://stream.vstartv.org:3534/hybrid/play.m3u8
-#EXTINF:-1,   SUN TV HD
-http://sansat.net:25461/02028857936892/0751169096/100157
-#EXTINF:-1,   STAR VIJAY HD
-http://sansat.net:25461/02028857936892/0751169096/100153
-#EXTINF:-1,  ZEE TAMIL HD
-http://sansat.net:25461/02028857936892/0751169096/100169
-
-#EXTINF:-1, SUN TV HD
-http://14.102.123.50:9080/play/a06z
-
-#EXTINF:-1, SUN TV HD
-http://14.102.123.50:9080/play/a0z8
-
-#EXTINF:-1, SUN TV HD
-http://14.102.123.50:9080/play/a0yk
-
-#EXTINF:-1, STAR VIJAY HD
-http://14.102.123.50:9080/play/a0yf
-
-#EXTINF:-1,  ZEE TAMIL HD
-http://14.102.123.50:9080/play/a0yd
 
 #EXTINF:-1, VIJAY SUPER HD
 http://14.102.123.50:9080/play/a0kc
