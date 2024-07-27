@@ -8,13 +8,14 @@ http://270383656354827528.ofk0601.xyz:80/play/vi819780/UC7EPNwtXmHb/827528.ts
 
 #EXTINF:-1, CRICKET TAMIL LIVE HD
 https://dai.google.com/linear/hls/event/eEwI596iRF2eKZ8hMz0Giw/master.m3u8
-#EXTINF:-1, SONY TEN 3 HD
-http://14.102.123.50:9080/play/a046
+#EXTINF:-1, CRICKET ENGLISH LIVE HD
+https://dai.google.com/linear/hls/event/QNEZiPzpTXucyrbpCjdZTw/master.m3u8
 #EXTINF:-1, SONY TEN 3 HD
 http://124.29.225.205:8000/play/a043/index.m3u8
 #EXTINF:-1, SONY TEN 3 HD
 http://Watchindia.net:8880/live/65181/26572/1758.ts
- 
+#EXTINF:-1, SONY TEN 3 HD
+http://14.102.123.50:9080/play/a046
 
 
 #EXTINF:-1,   SUN TV HD
