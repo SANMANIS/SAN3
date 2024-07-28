@@ -6,17 +6,6 @@ https://drive.usercontent.google.com/download?id=1ydVdo04a_PoRK3ZCqmpr467fGMxoBK
 http://270383656354827528.ofk0601.xyz:80/play/vi819780/UC7EPNwtXmHb/827528.ts
 
 
-#EXTINF:-1, CRICKET TAMIL LIVE HD (USE MX VLC PLAYER)
-https://dai.google.com/linear/hls/event/eEwI596iRF2eKZ8hMz0Giw/master.m3u8
-#EXTINF:-1, CRICKET ENGLISH LIVE HD (USE MX VLC PLAYER)
-https://dai.google.com/linear/hls/event/QNEZiPzpTXucyrbpCjdZTw/master.m3u8
-#EXTINF:-1, SONY TEN 3 HD
-http://124.29.225.205:8000/play/a043/index.m3u8
-#EXTINF:-1, SONY TEN 3 HD
-http://Watchindia.net:8880/live/65181/26572/1758.ts
-#EXTINF:-1, SONY TEN 3 HD
-http://14.102.123.50:9080/play/a046
-
 
 #EXTINF:-1,   SUN TV HD
 http://sansat.net:25461/live/02026512172803/02026512172803/100157.ts
@@ -43,10 +32,19 @@ http://14.102.123.50:9080/play/a0yk
 http://14.102.123.50:9080/play/a0yf
 #EXTINF:-1,  ZEE TAMIL HD
 http://14.102.123.50:9080/play/a0yd
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Ghilli - 2004 | 4K" tvg-logo="" group-title="4K Indian Movies",Ghilli - 2004 | 4K
-http://b1g.ooo:80/movie/308442/308442/776145.mkv
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Uyir Thamizhukku - 2023 | 4K" tvg-logo="" group-title="4K Indian Movies",Uyir Thamizhukku - 2023 | 4K
-http://b1g.ooo:80/movie/308442/308442/779351.mkv
+
+#EXTINF:-1, CRICKET TAMIL LIVE HD (USE MX VLC PLAYER)
+https://dai.google.com/linear/hls/event/eEwI596iRF2eKZ8hMz0Giw/master.m3u8
+#EXTINF:-1, CRICKET ENGLISH LIVE HD (USE MX VLC PLAYER)
+https://dai.google.com/linear/hls/event/QNEZiPzpTXucyrbpCjdZTw/master.m3u8
+#EXTINF:-1, SONY TEN 3 HD
+http://124.29.225.205:8000/play/a043/index.m3u8
+#EXTINF:-1, SONY TEN 3 HD
+http://Watchindia.net:8880/live/65181/26572/1758.ts
+#EXTINF:-1, SONY TEN 3 HD
+http://14.102.123.50:9080/play/a046
+
+
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="TAMIL" tvg-logo="https://i.imgur.com/3rLEBaS.jpg",ZEETAMIL NEWS HD
@@ -59,6 +57,11 @@ https://ythls.armelin.one/channel/UCYlh4lH762HvHt6mmiecyWQ.m3u8
 https://ythls.armelin.one/channel/UC8Z-VjXBtDJTvq6aqkIskPg.m3u8
 
 
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Ghilli - 2004 | 4K" tvg-logo="" group-title="4K Indian Movies",Ghilli - 2004 | 4K
+http://b1g.ooo:80/movie/308442/308442/776145.mkv
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Uyir Thamizhukku - 2023 | 4K" tvg-logo="" group-title="4K Indian Movies",Uyir Thamizhukku - 2023 | 4K
+http://b1g.ooo:80/movie/308442/308442/779351.mkv
 
 
 
