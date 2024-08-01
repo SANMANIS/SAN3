@@ -879,9 +879,8 @@ http://notvstream.in/jothitv/jothitv.m3u8
 
 
 
-#EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="OTT PACK" tvg-logo="https://te.legra.ph/file/12a860dbdec4d78fea283.jpg",DENVER1769
-https://denverisalive.github.io/Intro/Denver.m3u8
+#EXTM3U Denver
+
 #EXTINF:-1 tvg-id="zeetvhd.in" tvg-name="" group-title="ZEE5" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_528,h_297,c_scale,f_webp,q_auto:eco/resources/0-9-zeetvhd/channel_list/1170x658withlog1554775145.png",ZEE TV HD
 http://port.denver1769.in/jazz.php?tv=5692
 #EXTINF:-1 tvg-id="472" tvg-name="" group-title="ZEE5" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_528,h_297,c_scale,f_webp,q_auto:eco/resources/0-9-tvhd_0/channel_list/1170x658withlogo378606665.png",AND TV HD
