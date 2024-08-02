@@ -40,6 +40,13 @@ http://116.202.46.40:9023/STAR_VIJAY_4K_TAMIL/index.m3u8
 #EXTINF:-1, ZEE TAMIL
 http://116.202.46.40:9023/ZEE_TAMIL/index.m3u8
 
+
+#EXTINF:-1, COLORS TAMIL HD
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JC_ColorsTamilHD/JCHLS/index.m3u8
+#EXTINF:-1, Colors tamil HD
+http://116.202.46.40:9023/COLORS_TAMIL/index.m3u8
+
+
 #EXTINF:-1, CRICKET TAMIL LIVE HD (USE MX VLC PLAYER)
 https://dai.google.com/linear/hls/event/eEwI596iRF2eKZ8hMz0Giw/master.m3u8
 #EXTINF:-1, CRICKET ENGLISH LIVE HD (USE MX VLC PLAYER)
@@ -63,12 +70,6 @@ https://ythls.armelin.one/channel/UCYlh4lH762HvHt6mmiecyWQ.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="TEMP" tvg-logo="https://i.imgur.com/CxcuvXX.png",POLIMER NEWS (1080P) [NOT 24/7]
 https://ythls.armelin.one/channel/UC8Z-VjXBtDJTvq6aqkIskPg.m3u8
 
-
-
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Ghilli - 2004 | 4K" tvg-logo="" group-title="4K Indian Movies",Ghilli - 2004 | 4K
-http://b1g.ooo:80/movie/308442/308442/776145.mkv
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Uyir Thamizhukku - 2023 | 4K" tvg-logo="" group-title="4K Indian Movies",Uyir Thamizhukku - 2023 | 4K
-http://b1g.ooo:80/movie/308442/308442/779351.mkv
 
 
 
