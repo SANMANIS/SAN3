@@ -10,16 +10,27 @@ https://drive.usercontent.google.com/download?id=1ydVdo04a_PoRK3ZCqmpr467fGMxoBK
 http://sansat.net:25461/live/02026512172803/02026512172803/100157.ts
 #EXTINF:-1, SUN TV
 http://tv.cloudcdn.me:80/live.ts?channelId=43421&uid=5353&deviceMac=00:1A:79:17:D4:65
-#EXTINF:-1,   STAR VIJAY HD
-http://sansat.net:25461/live/02026512172803/02026512172803/100153.ts
 #EXTINF:-1,  ZEE TAMIL HD
 http://sansat.net:25461/live/02026512172803/02026512172803/100169.ts
+#EXTINF:-1,   STAR VIJAY HD
+http://sansat.net:25461/live/02026512172803/02026512172803/100153.ts
+#EXTINF:-1, share STAR VIJAY
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/157.ts
+
 #EXTINF:-1,   SUN TV HD
 http://sansat.net:25461/02028857936892/0751169096/100157
 #EXTINF:-1,   STAR VIJAY HD
 http://sansat.net:25461/02028857936892/0751169096/100153
 #EXTINF:-1,  ZEE TAMIL HD
 http://sansat.net:25461/02028857936892/0751169096/100169
+
+
+
+
+#EXTINF:-1, COLORS TAMIL HD
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JC_ColorsTamilHD/JCHLS/index.m3u8
+#EXTINF:-1, Colors tamil HD
+http://116.202.46.40:9023/COLORS_TAMIL/index.m3u8
 
 
 #EXTINF:-1, SUN TV HD
@@ -32,13 +43,6 @@ http://14.102.123.50:9080/play/a0yk
 http://14.102.123.50:9080/play/a0yf
 #EXTINF:-1,  ZEE TAMIL HD
 http://14.102.123.50:9080/play/a0yd
-
-
-
-#EXTINF:-1, COLORS TAMIL HD
-https://prod-ent-live-gm.jiocinema.com/bpk-tv/JC_ColorsTamilHD/JCHLS/index.m3u8
-#EXTINF:-1, Colors tamil HD
-http://116.202.46.40:9023/COLORS_TAMIL/index.m3u8
 
 
 #EXTINF:-1, SUN TV
