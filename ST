@@ -20,22 +20,25 @@ http://sansat.net:25461/live/02026512172803/02026512172803/100153.ts
 http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/157.ts
 
 #EXTINF:-1,   SUN TV HD
-http://sansat.net:25461/02028857936892/0751169096/100157
+http://sansat.net:25461/0CteMresihDS4dm/giKDy2HsDXKOii4/100157
 #EXTINF:-1,   STAR VIJAY HD
-http://sansat.net:25461/02028857936892/0751169096/100153
+http://sansat.net:25461/0CteMresihDS4dm/giKDy2HsDXKOii4/100153
 #EXTINF:-1,  ZEE TAMIL HD
-http://sansat.net:25461/02028857936892/0751169096/100169
+http://sansat.net:25461/0CteMresihDS4dm/giKDy2HsDXKOii4/100169
 
 
 #EXTINF:-1, THANTHI ONE
 https://249553662f3e.ap-south-1.playback.live-video.net/api/video/v1/ap-south-1.588204940461.channel.Sx8XPoik8VX2.m3u8
 
 
-
 #EXTINF:-1, COLORS TAMIL HD
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/JC_ColorsTamilHD/JCHLS/index.m3u8
 #EXTINF:-1, Colors tamil HD
 http://116.202.46.40:9023/COLORS_TAMIL/index.m3u8
+#EXTINF:-1,   COLORS TAMIL HD
+http://sansat.net:25461/live/02026512172803/02026512172803/100109.ts
+#EXTINF:-1, COLORS TAMIL HD
+http://sansat.net:25461/0CteMresihDS4dm/giKDy2HsDXKOii4/100109
 
 
 #EXTINF:-1, SUN TV HD USE MX VLC PLAYER
@@ -221,9 +224,8 @@ http://sansat.net:25461/live/02026512172803/02026512172803/100155.ts
 http://sansat.net:25461/live/02026512172803/02026512172803/100125.ts
 #EXTINF:-1,   COLORS TAMIL HD
 http://sansat.net:25461/live/02026512172803/02026512172803/100109.ts
- 
-#EXTINF:-1 tvg-ID="" tvg-logo="" tvg-name=" TAMIL: COLORS TAMIL HD" group-title="TAMIL",TAMIL: COLORS TAMIL HD
-http://sansat.net:25461/02028857936892/0751169096/100109
+#EXTINF:-1, COLORS TAMIL HD
+http://sansat.net:25461/0CteMresihDS4dm/giKDy2HsDXKOii4/100109
 
 
 
