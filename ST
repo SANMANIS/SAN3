@@ -12,6 +12,8 @@ http://sansat.net:25461/live/02026512172803/02026512172803/100157.ts
 http://tv.cloudcdn.me:80/live.ts?channelId=43421&uid=5353&deviceMac=00:1A:79:17:D4:65
 #EXTINF:-1,  ZEE TAMIL HD
 http://sansat.net:25461/live/02026512172803/02026512172803/100169.ts
+#EXTINF:-1,ஜீதமிழ் zee tamil HD 
+http://iptvtree.net:8080/live/T-thornman/2126e132/45505.ts
 #EXTINF:-1,   STAR VIJAY HD
 http://sansat.net:25461/live/02026512172803/02026512172803/100153.ts
 #EXTINF:-1, share STAR VIJAY
@@ -845,13 +847,6 @@ http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/9971.ts
 
 
 
-#EXTINF:-1,  ZEE TAMIL (FHD)
-http://livetvbox.live:8080/live/Jackie/Jackie/9971.ts
-#EXTINF:-1,  ZEE TAMIL HD (USA)
-http://livetvbox.live:8080/live/Jackie/Jackie/5930.ts
-#EXTINF:-1,  ZEE TAMIL
-http://livetvbox.live:8080/live/Jackie/Jackie/225.ts
-
 
 #EXTINF:-1,ஜீதமிழ் ZEE TAMIL HD 
 http://xtv.ooo:8080/live/check5732/check12092/244523.ts
@@ -883,8 +878,6 @@ https://public.iptv18.tech/share.php?id=5930.ts
 https://public.iptv18.tech/share.php?id=225.ts
 
 
-#EXTINF:-1 tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240313_0836496572223849489540251.png" group-title="Devotional",ஜோதி Jothi Tv
-http://livetvbox.live:8080/live/Jackie/Jackie/296241.ts
 
 
 #EXTINF:-1 tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240313_0836496572223849489540251.png" group-title="Devotional",ஜோதி Jothi
