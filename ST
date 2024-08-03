@@ -27,8 +27,7 @@ http://sansat.net:25461/0CteMresihDS4dm/giKDy2HsDXKOii4/100153
 http://sansat.net:25461/0CteMresihDS4dm/giKDy2HsDXKOii4/100169
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="TAMIL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlU3LPv5IxC2BzgMx4ygacXvDGs1WB0wl5MEtcUPBxE5U4EqM2EqHJtMY&s=10",THANTHI ONE HD
-#EXTINF:-1, THANTHI ONE
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlU3LPv5IxC2BzgMx4ygacXvDGs1WB0wl5MEtcUPBxE5U4EqM2EqHJtMY&s=10",THANTHI ONE HD
 https://249553662f3e.ap-south-1.playback.live-video.net/api/video/v1/ap-south-1.588204940461.channel.Sx8XPoik8VX2.m3u8
 
 
