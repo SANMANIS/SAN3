@@ -8,7 +8,7 @@ https://drive.usercontent.google.com/download?id=1ydVdo04a_PoRK3ZCqmpr467fGMxoBK
 
 #EXTINF:-1,   SUN TV HD
 http://sansat.net:25461/live/02026512172803/02026512172803/100157.ts
-#EXTINF:-1, SUN TV
+#EXTINF:-1, TM: SUN TV FHD auto
 http://tv.cloudcdn.me:80/live.ts?channelId=43421&uid=5353&deviceMac=00:1A:79:17:D4:65
 #EXTINF:-1, Sun tv TAMIL
 http://217.20.112.199/suntv/index.m3u8
