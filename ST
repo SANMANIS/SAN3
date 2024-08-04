@@ -10,26 +10,24 @@ https://drive.usercontent.google.com/download?id=1ydVdo04a_PoRK3ZCqmpr467fGMxoBK
 http://sansat.net:25461/live/02026512172803/02026512172803/100157.ts
 #EXTINF:-1, SUN TV
 http://tv.cloudcdn.me:80/live.ts?channelId=43421&uid=5353&deviceMac=00:1A:79:17:D4:65
+#EXTINF:-1, Sun tv TAMIL
+http://217.20.112.199/suntv/index.m3u8
 #EXTINF:-1,  ZEE TAMIL HD
 http://sansat.net:25461/live/02026512172803/02026512172803/100169.ts
-#EXTINF:-1,ஜீதமிழ் zee tamil HD 
+#EXTINF:-1, zee tamil HD ஜீதமிழ்
 http://iptvtree.net:8080/live/T-thornman/2126e132/45505.ts
+#EXTINF:-1, Zee Tamil
+http://116.202.46.40:9023/ZEE_TAMIL/index.m3u8
 #EXTINF:-1,   STAR VIJAY HD
 http://sansat.net:25461/live/02026512172803/02026512172803/100153.ts
+#EXTINF:-1, Star vijay tv TAMIL
+http://217.20.112.199/vijaytv/index.m3u8
 #EXTINF:-1, share STAR VIJAY
 http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/157.ts
-
-#EXTINF:-1,   SUN TV HD
-http://sansat.net:25461/0CteMresihDS4dm/giKDy2HsDXKOii4/100157
-#EXTINF:-1,   STAR VIJAY HD
-http://sansat.net:25461/0CteMresihDS4dm/giKDy2HsDXKOii4/100153
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_IidjT9PaWWFZr1O_q6Map08_59_QmrAG0rmfrD_xHkpxDi42Lq4RuT4&s=10", ZEE TAMIL HD
-http://sansat.net:25461/0CteMresihDS4dm/giKDy2HsDXKOii4/100169
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlU3LPv5IxC2BzgMx4ygacXvDGs1WB0wl5MEtcUPBxE5U4EqM2EqHJtMY&s=10",THANTHI ONE HD
 https://249553662f3e.ap-south-1.playback.live-video.net/api/video/v1/ap-south-1.588204940461.channel.Sx8XPoik8VX2.m3u8
-
 
 #EXTINF:-1, COLORS TAMIL HD
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/JC_ColorsTamilHD/JCHLS/index.m3u8
@@ -41,26 +39,62 @@ http://sansat.net:25461/live/02026512172803/02026512172803/100109.ts
 http://sansat.net:25461/0CteMresihDS4dm/giKDy2HsDXKOii4/100109
 
 
-#EXTINF:-1, SUN TV HD USE MX VLC PLAYER
-http://14.102.123.50:9080/play/a06z
-#EXTINF:-1, SUN TV HD USE MX VLC PLAYER
-http://14.102.123.50:9080/play/a0z8
-#EXTINF:-1, SUN TV HD USE MX VLC PLAYER
-http://14.102.123.50:9080/play/a0yk
-#EXTINF:-1, STAR VIJAY HD USE MX VLC PLAYER
-http://14.102.123.50:9080/play/a0yf
-#EXTINF:-1,  ZEE TAMIL HD USE MX VLC PLAYER
-http://14.102.123.50:9080/play/a0yd
+
+#EXTINF:-1,   SUN TV HD
+http://sansat.net:25461/0CteMresihDS4dm/giKDy2HsDXKOii4/100157
+#EXTINF:-1,   STAR VIJAY HD
+http://sansat.net:25461/0CteMresihDS4dm/giKDy2HsDXKOii4/100153
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_IidjT9PaWWFZr1O_q6Map08_59_QmrAG0rmfrD_xHkpxDi42Lq4RuT4&s=10", ZEE TAMIL HD
+http://sansat.net:25461/0CteMresihDS4dm/giKDy2HsDXKOii4/100169
 
 
-#EXTINF:-1, SUN TV USE MX VLC PLAYER
-http://tv.cloudcdn.me:80/live.ts?channelId=43421&uid=5353&deviceMac=00:1A:79:17:D4:65
-#EXTINF:-1, SUN TV HD USE MX VLC PLAYER
+
+#EXTINF:-1, Sun tv TAMIL
+http://217.20.112.199/suntv/index.m3u8
+#EXTINF:-1, Sun tv
 http://116.202.46.40:9023/SUN_TV_TAMIL/index.m3u8
-#EXTINF:-1, STAR VIJAY USE MX VLC PLAYER
-http://116.202.46.40:9023/STAR_VIJAY_4K_TAMIL/index.m3u8
-#EXTINF:-1, ZEE TAMIL USE MX VLC PLAYER
+#EXTINF:-1, Star vijay tv TAMIL
+http://217.20.112.199/vijaytv/index.m3u8
+#EXTINF:-1, Zee Tamil
 http://116.202.46.40:9023/ZEE_TAMIL/index.m3u8
+#EXTINF:-1, Colors tamil HD
+http://116.202.46.40:9023/COLORS_TAMIL/index.m3u8
+#EXTINF:-1, Sun music
+http://116.202.46.40:9023/SUN_MUSIC_TAMIL/index.m3u8
+#EXTINF:-1, Vijay super HD
+http://116.202.46.40:9023/VIJAY_SUPER_TAMIL/index.m3u8
+#EXTINF:-1, Sun life
+http://116.202.46.40:9023/SUN_LIFE_TAMIL/index.m3u8
+#EXTINF:-1, Jaya max
+http://116.202.46.40:9023/JAYA_MAX_TAMIL/index.m3u8
+#EXTINF:-1, Jaya TV
+http://116.202.46.40:9023/JAYA_TV_TAMIL/index.m3u8
+#EXTINF:-1, Jaya movies
+http://116.202.46.40:9023/JAYA_MOVIES_TAMIL/index.m3u8
+#EXTINF:-1, VIJAY TAKKER
+https://stream.vstartv.org:3534/hybrid/play.m3u8
+#EXTINF:-1, VIJAY SUPER HD
+http://14.102.123.50:9080/play/a0kc
+#EXTINF:-1, VIJAY SUPER
+http://14.102.123.50:9080/play/a0z5
+#EXTINF:-1, VIJAY TAKKAR
+http://14.102.123.50:9080/play/a0xt
+
+
+
+#EXTINF:-1,   ZEE THIRAI
+http://sansat.net:25461/live/02026512172803/02026512172803/100171.ts
+#EXTINF:-1,  TATA SKY TAMIL CINEMA
+http://sansat.net:25461/live/02026512172803/02026512172803/100159.ts
+#EXTINF:-1,   SUN MUSIC HD
+http://sansat.net:25461/live/02026512172803/02026512172803/100155.ts
+#EXTINF:-1,    KTV HD
+http://sansat.net:25461/live/02026512172803/02026512172803/100125.ts
+#EXTINF:-1,   COLORS TAMIL HD
+http://sansat.net:25461/live/02026512172803/02026512172803/100109.ts
+#EXTINF:-1, COLORS TAMIL HD
+http://sansat.net:25461/0CteMresihDS4dm/giKDy2HsDXKOii4/100109
+
 
 
 #EXTINF:-1, CRICKET TAMIL LIVE HD (USE MX VLC PLAYER)
@@ -159,66 +193,28 @@ http://xtv.ooo:8080/movie/digitalallhub/digitalallhub/378605.mkv
 
 
 
-#EXTINF:-1, VIJAY TAKKER
-https://stream.vstartv.org:3534/hybrid/play.m3u8
 
-#EXTINF:-1, VIJAY SUPER HD
-http://14.102.123.50:9080/play/a0kc
 
-#EXTINF:-1, VIJAY SUPER
-http://14.102.123.50:9080/play/a0z5
+#EXTINF:-1, SUN TV HD USE MX VLC PLAYER
+http://14.102.123.50:9080/play/a06z
+#EXTINF:-1, SUN TV HD USE MX VLC PLAYER
+http://14.102.123.50:9080/play/a0z8
+#EXTINF:-1, SUN TV HD USE MX VLC PLAYER
+http://14.102.123.50:9080/play/a0yk
+#EXTINF:-1, STAR VIJAY HD USE MX VLC PLAYER
+http://14.102.123.50:9080/play/a0yf
+#EXTINF:-1,  ZEE TAMIL HD USE MX VLC PLAYER
+http://14.102.123.50:9080/play/a0yd
 
-#EXTINF:-1, VIJAY TAKKAR
-http://14.102.123.50:9080/play/a0xt
 
-#EXTINF:-1, Sun tv TAMIL
-http://217.20.112.199/suntv/index.m3u8
-
-#EXTINF:-1, Sun tv
+#EXTINF:-1, SUN TV USE MX VLC PLAYER
+http://tv.cloudcdn.me:80/live.ts?channelId=43421&uid=5353&deviceMac=00:1A:79:17:D4:65
+#EXTINF:-1, SUN TV HD USE MX VLC PLAYER
 http://116.202.46.40:9023/SUN_TV_TAMIL/index.m3u8
-
-#EXTINF:-1, Star vijay tv TAMIL
-http://217.20.112.199/vijaytv/index.m3u8
-
-#EXTINF:-1, Sun music
-http://116.202.46.40:9023/SUN_MUSIC_TAMIL/index.m3u8
-
-#EXTINF:-1, Vijay super
-http://116.202.46.40:9023/VIJAY_SUPER_TAMIL/index.m3u8
-
-#EXTINF:-1, Sun life
-http://116.202.46.40:9023/SUN_LIFE_TAMIL/index.m3u8
-
-#EXTINF:-1, Jaya max
-http://116.202.46.40:9023/JAYA_MAX_TAMIL/index.m3u8
-
-#EXTINF:-1, Jaya TV
-http://116.202.46.40:9023/JAYA_TV_TAMIL/index.m3u8
-
-#EXTINF:-1, Jaya movies
-http://116.202.46.40:9023/JAYA_MOVIES_TAMIL/index.m3u8
-
-#EXTINF:-1, Zee Tamil
+#EXTINF:-1, STAR VIJAY USE MX VLC PLAYER
+http://116.202.46.40:9023/STAR_VIJAY_4K_TAMIL/index.m3u8
+#EXTINF:-1, ZEE TAMIL USE MX VLC PLAYER
 http://116.202.46.40:9023/ZEE_TAMIL/index.m3u8
-
-#EXTINF:-1, Colors tamil HD
-http://116.202.46.40:9023/COLORS_TAMIL/index.m3u8
-
-
-
-#EXTINF:-1,   ZEE THIRAI
-http://sansat.net:25461/live/02026512172803/02026512172803/100171.ts
-#EXTINF:-1,  TATA SKY TAMIL CINEMA
-http://sansat.net:25461/live/02026512172803/02026512172803/100159.ts
-#EXTINF:-1,   SUN MUSIC HD
-http://sansat.net:25461/live/02026512172803/02026512172803/100155.ts
-#EXTINF:-1,    KTV HD
-http://sansat.net:25461/live/02026512172803/02026512172803/100125.ts
-#EXTINF:-1,   COLORS TAMIL HD
-http://sansat.net:25461/live/02026512172803/02026512172803/100109.ts
-#EXTINF:-1, COLORS TAMIL HD
-http://sansat.net:25461/0CteMresihDS4dm/giKDy2HsDXKOii4/100109
-
 
 
 
