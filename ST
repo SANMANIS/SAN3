@@ -77,14 +77,6 @@ http://14.102.123.50:9080/play/a046
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="TAMIL" tvg-logo="https://i.imgur.com/3rLEBaS.jpg",ZEETAMIL NEWS HD
-https://ythls.armelin.one/channel/UCxRRfF6qIoYntp3zNOozonQ.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="TAMIL" tvg-logo="https://i.imgur.com/lix8q6y.jpg",CHANAKYAA HD
-https://ythls.armelin.one/channel/UCoOu4D7foJWfKvcDLxqrF2Q.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="TAMIL" tvg-logo="https://i.imgur.com/qF9TcMW.png",SUNNEWS HD
-https://ythls.armelin.one/channel/UCYlh4lH762HvHt6mmiecyWQ.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="TEMP" tvg-logo="https://i.imgur.com/CxcuvXX.png",POLIMER NEWS (1080P) [NOT 24/7]
-https://ythls.armelin.one/channel/UC8Z-VjXBtDJTvq6aqkIskPg.m3u8
 
 
 #EXTINF:-1, PECHI 2024 CAM USE MX VLC PLAYER 
