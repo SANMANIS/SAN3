@@ -46,21 +46,21 @@ http://sansat.net:25461/0CteMresihDS4dm/giKDy2HsDXKOii4/100109
 #EXTINF:-1, COLORS TAMIL HD
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/JC_ColorsTamilHD/JCHLS/index.m3u8
 
-#EXTINF:-1, BRINDA E1
+#EXTINF:-1, BRINDA E1 crime thriller
 http://starshare.live:8080/series/rvdgdf7647564/bvchgfd235454/374176.mp4
-#EXTINF:-1, BRINDA E2
+#EXTINF:-1, BRINDA E2 crime thriller
 http://starshare.live:8080/series/rvdgdf7647564/bvchgfd235454/374177.mp4
-#EXTINF:-1, BRINDA E3
+#EXTINF:-1, BRINDA E3 crime thriller
 http://starshare.live:8080/series/rvdgdf7647564/bvchgfd235454/374178.mp4
-#EXTINF:-1, BRINDA E4
+#EXTINF:-1, BRINDA E4 crime thriller
 http://starshare.live:8080/series/rvdgdf7647564/bvchgfd235454/374179.mp4
-#EXTINF:-1, BRINDA E5
+#EXTINF:-1, BRINDA E5 crime thriller
 http://starshare.live:8080/series/rvdgdf7647564/bvchgfd235454/374180.mp4
-#EXTINF:-1, BRINDA E6
+#EXTINF:-1, BRINDA E6 crime thriller
 http://starshare.live:8080/series/rvdgdf7647564/bvchgfd235454/374181.mp4
-#EXTINF:-1, BRINDA E7
+#EXTINF:-1, BRINDA E7 crime thriller
 http://starshare.live:8080/series/rvdgdf7647564/bvchgfd235454/374182.mp4
-#EXTINF:-1, BRINDA E8
+#EXTINF:-1, BRINDA E8 crime thriller
 http://starshare.live:8080/series/rvdgdf7647564/bvchgfd235454/374183.mp4
 
 
