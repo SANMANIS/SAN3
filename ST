@@ -87,6 +87,9 @@ http://tv.cloudcdn.me:80/live.ts?channelId=43414&uid=5353&deviceMac=00:1A:79:17:
 http://tv.cloudcdn.me:80/live.ts?channelId=43412&uid=5353&deviceMac=00:1A:79:17:D4:65
 #EXTINF:-1, TM: SEITHIGAL TV auto
 http://tv.cloudcdn.me:80/live.ts?channelId=43418&uid=5353&deviceMac=00:1A:79:17:D4:65
+#EXTINF:-1, ZEETAMIL NEWS HD
+https://ythls.armelin.one/channel/UCxRRfF6qIoYntp3zNOozonQ.m3u8
+
 
 
 
