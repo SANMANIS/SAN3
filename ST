@@ -232,6 +232,41 @@ http://xtv.ooo:8080/movie/digitalallhub/digitalallhub/378605.mkv
 
 
 
+#EXTM3U
+#EXTINF:-1 tvg-id="sunnews.in" tvg-name="" group-title="TAMIL NEWS" tvg-logo="https://watchindia.net/images/channels/tamil/Sun_News.png",SUN NEWS
+https://news.codeautoplay.workers.dev/?codeby=nd&channel=sunnews
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TAMIL NEWS" tvg-logo="https://firebasestorage.googleapis.com/v0/b/playnow-7ce03.appspot.com/o/LOGO%2FTAMIL-NEWS%2FNEWS-18-TAMIL.png?alt=media&token=5e15b20a-507e-4458-bd00-e963aabf28b5",NEWS18 TAMIL TV
+https://nw18live.cdn.jio.com/bpk-tv/News18_Tamil_Nadu_NW18_MOB/output01/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TAMIL NEWS" tvg-logo="https://firebasestorage.googleapis.com/v0/b/playnow-7ce03.appspot.com/o/LOGO%2FTAMIL-NEWS%2FPUTHIYA-THALAIMURAI.png?alt=media&token=14e7bf00-e424-45b8-ae75-9cbeed682796",PUTHIYA THALIMURAI
+https://ythls.armelin.one/channel/UCmyKnNRH0wH-r8I-ceP-dsg.m3u8
+#EXTINF:-1 tvg-id="news7.in" tvg-name="" group-title="TAMIL NEWS" tvg-logo="https://firebasestorage.googleapis.com/v0/b/playnow-7ce03.appspot.com/o/LOGO%2FTAMIL-NEWS%2FNEWS-7-TAMIL.png?alt=media&token=08a165fc-3415-42fe-9092-36e71f3d4a49",NEWS7 TV
+https://segment.yuppcdn.net/240122/news7/playlist.m3u8
+#EXTINF:-1 tvg-id="thanthitv.in" tvg-name="" group-title="TAMIL NEWS" tvg-logo="https://firebasestorage.googleapis.com/v0/b/playnow-7ce03.appspot.com/o/LOGO%2FTAMIL-NEWS%2FTHANTHI-TV.png?alt=media&token=f04a19a8-aaa0-498e-b1b6-88cd63100f2b",THANTHI TV
+https://segment.yuppcdn.net/110322/thanthi/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TAMIL NEWS" tvg-logo="https://yt3.googleusercontent.com/V7cuAyKgoOL2RMOriDhdDs29mtueYOOOiNzWp_8wQZrxdrkrUfF4oOwPGMscYXCDMyP4rIP08Ms=s176-c-k-c0x00ffffff-no-rj",KUMUDAM TV
+https://utubev2.psrutube.workers.dev/stream/UCYmUbCx3q38TJo4_qN-_uAA/master.m3u8
+#EXTINF:-1 tvg-id="polimernews.in" tvg-name="" group-title="TAMIL NEWS" tvg-logo="https://firebasestorage.googleapis.com/v0/b/playnow-7ce03.appspot.com/o/LOGO%2FTAMIL-NEWS%2FPOLIMER-NEWS-TAMIL.png?alt=media&token=e21d6f54-2575-407e-96ee-6fb52239a83a",POLIMER NEWS TV
+https://segment.yuppcdn.net/110322/polimernews/playlist.m3u8
+#EXTINF:-1 tvg-id="janamtv.in" tvg-name="" group-title="TAMIL NEWS" tvg-logo="https://i.imgur.com/KvApIeA.jpg",JANAM TV
+https://janamtv.live/janamtamil/live.m3u8
+#EXTINF:-1 tvg-id="news7.in" tvg-name="" group-title="TAMIL NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/df/Logo_of_News7_Tamil_Logo.jpg",NEWS 7
+http://udigitalott.ridsys.in/riptv/live/stream25/manifest.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TAMIL NEWS" tvg-logo="https://firebasestorage.googleapis.com/v0/b/playnow-7ce03.appspot.com/o/LOGO%2FTAMIL-NEWS%2FNEWS-18-TAMIL.png?alt=media&token=5e15b20a-507e-4458-bd00-e963aabf28b5",NEWS18 TAMIL TV
+http://ptuf.ridsys.in/riptv/live/stream218/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TAMIL NEWS" tvg-logo="https://media.assettype.com/kalaignarseithigal%2F2019-04%2F273604e9-3c45-44a4-9866-9584c01fddbd%2FNEWS_01.png?w=1200&auto=format%2Ccompress&ogImage=true",KALAIGNAR SEITHIEGAL
+http://udigitalott.ridsys.in/riptv/live/stream16/manifest.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TAMIL NEWS" tvg-logo="https://play-lh.googleusercontent.com/zBSeqlz0O3LlLZ6P2-a4L-1k9UYwm3d_hk_kHT8ik7yl_j486Zn0TvCGvIyP5eBSDVLx",MALAI MURASU
+http://udigitalott.ridsys.in/riptv/live/stream19/manifest.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TAMIL NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/SathiyamFinallogo.png",SATHIYAM NEWS
+http://udigitalott.ridsys.in/riptv/live/stream50/manifest.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TAMIL NEWS" tvg-logo="https://mnadu.com/wp-content/uploads/2022/09/M-Nadu-1.png",MNADU
+http://udigitalott.ridsys.in/riptv/live/stream66/manifest.m3u8
+#EXTINF:-1 tvg-id="newsj.in" tvg-name="" group-title="TAMIL NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/Newsj_Logo.png",NEWS J
+http://udigitalott.ridsys.in/riptv/live/stream24/manifest.m3u8
+#EXTINF:-1 tvg-id="jayaplus.in" tvg-name="" group-title="TAMIL NEWS" tvg-logo="https://www.ethnicchannels.com/images/channels/jaya-plus-final.jpg",JAYA PLUS
+http://udigitalott.ridsys.in/riptv/live/stream11/manifest.m3u8
+#EXTINF:-1 tvg-id="sunnews.in" tvg-name="" group-title="TAMIL NEWS" tvg-logo="https://watchindia.net/images/channels/tamil/Sun_News.png",SUN NEWS
+http://watchindia.net:8880/live/23712/28423/869.ts
 
 
 
