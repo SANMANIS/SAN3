@@ -5,10 +5,12 @@
 https://drive.usercontent.google.com/download?id=1ydVdo04a_PoRK3ZCqmpr467fGMxoBKol&export=download&confirm=t&uuid=662b0712-772f-41e9-9fc2-046e9714b46b
 
 
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="SK-TAMIL" tvg-logo="https://i.ibb.co/CV1Nf0p/In-Shot-20240519-225526863.jpg",
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="SK-TAMIL" tvg-logo="https://i.ibb.co/CV1Nf0p/In-Shot-20240519-225526863.jpg",SUN TV HD
 http://sansat.net:25461/live/02026512172803/02026512172803/100157.ts
-#EXTINF:-1, TM: SUN TV FHD auto
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="SK-TAMIL" tvg-logo="https://i.ibb.co/CV1Nf0p/In-Shot-20240519-225526863.jpg",TM: SUN TV FHD auto
 http://tv.cloudcdn.me:80/live.ts?channelId=43421&uid=5353&deviceMac=00:1A:79:17:D4:65
 #EXTINF:-1, Sun tv TAMIL
 http://217.20.112.199/suntv/index.m3u8
@@ -32,7 +34,7 @@ http://217.20.112.199/vijaytv/index.m3u8
 http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/157.ts
 
 
-#EXTINF:-1, SUN TV HD USE MX VLC PLAYER
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="SK-TAMIL" tvg-logo="https://i.ibb.co/CV1Nf0p/In-Shot-20240519-225526863.jpg",SUN TV HD USE MX VLC PLAYER
 http://14.102.123.50:9080/play/a06z
 #EXTINF:-1, SUN TV HD USE MX VLC PLAYER
 http://14.102.123.50:9080/play/a0z8
@@ -58,7 +60,7 @@ http://116.202.46.40:9023/ZEE_TAMIL/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="SK-TAMIL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlU3LPv5IxC2BzgMx4ygacXvDGs1WB0wl5MEtcUPBxE5U4EqM2EqHJtMY&s=10",THANTHI ONE HD
 https://249553662f3e.ap-south-1.playback.live-video.net/api/video/v1/ap-south-1.588204940461.channel.Sx8XPoik8VX2.m3u8
 
-#EXTINF:-1,   COLORS TAMIL HD
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="SK-TAMIL" tvg-logo="https://i.ibb.co/CV1Nf0p/In-Shot-20240519-225526863.jpg",COLORS TAMIL HD
 http://sansat.net:25461/live/02026512172803/02026512172803/100109.ts
 #EXTINF:-1, TM: COLORS TAMIL FHD auto
 http://tv.cloudcdn.me:80/live.ts?channelId=43408&uid=5353&deviceMac=00:1A:79:17:D4:65
