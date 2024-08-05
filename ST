@@ -174,16 +174,14 @@ http://Watchindia.net:8880/live/65181/26572/1758.ts
 http://14.102.123.50:9080/play/a046
 
 
+#EXTINF:-1, PECHI (2024) (TAMIL) cam
+http://starshare.live:8080/movie/rvdgdf7647564/bvchgfd235454/374847.mp4
 
+#EXTINF:-1, MAZHAI PIDIKATHA MANITHAN (2024) (TAMIL) cam
+http://starshare.live:8080/movie/rvdgdf7647564/bvchgfd235454/374846.mp4
 
 #EXTINF:-1, BOAT 2024 CAM USE MX VLC PLAYER 
 https://dl1.isaiminii.top//files/data/Boat_2024_Tamil_Full_Movie_720p_PreDVDRip_(isaimini.eu).mp4?st=nxQpdD8D7JwqmgKyCVx1CQ&e=1722836320
-
-#EXTINF:-1, PECHI 2024 CAM USE MX VLC PLAYER 
-https://dl1.isaiminii.top//files/data/Pechi_2024_Tamil_Full_Movie_720p_PreDVDRip_(isaimini.eu).mp4?st=ViElhVa4baF8_-cyGBFHlQ&e=1722836386
-
-#EXTINF:-1, Mazhai Pidikatha Manithan 2024 CAM USE MX VLC PLAYER
-https://download.wetransfer.com/eugv/e0911183809e048968e48f46a6bc4b0a20240803014227/f947f885e2191e6b2e55406330cefef2e20e2f56/Mazhai%20Pidikatha%20Manithan%202024%20720p%20HD.mp4?cf=y&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImRlZmF1bHQifQ.eyJleHAiOjE3MjI2NzQ4MDQsImlhdCI6MTcyMjY2MDQwNCwiZG93bmxvYWRfaWQiOiIzMTU2OTBjNS01ODE1LTQ2YTctOTliYi1iNGIyMTVjODA1NzQiLCJzdG9yYWdlX3NlcnZpY2UiOiJzdG9ybSJ9.Kcr6nVRO2i4xSABWFbpS11Sdt9HzV1BXx2HsIP029FU
 
 #EXTINF:-1,  RAAYAN (2024) (TAMIL)(CAM)
 http://starshare.live:8080/movie/rvdgdf7647564/bvchgfd235454/371023.mp4
