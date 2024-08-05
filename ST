@@ -171,7 +171,7 @@ http://sansat.net:25461/0CteMresihDS4dm/giKDy2HsDXKOii4/100109
 
 
 
-#EXTINF:-1, CRICKET TAMIL LIVE HD (USE MX VLC PLAYER)
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="SK-SPORTS" tvg-logo="https://i.ibb.co/CV1Nf0p/In-Shot-20240519-225526863.jpg",CRICKET TAMIL LIVE HD (USE MX VLC PLAYER)
 https://dai.google.com/linear/hls/event/eEwI596iRF2eKZ8hMz0Giw/master.m3u8
 #EXTINF:-1, CRICKET ENGLISH LIVE HD (USE MX VLC PLAYER)
 https://dai.google.com/linear/hls/event/QNEZiPzpTXucyrbpCjdZTw/master.m3u8
