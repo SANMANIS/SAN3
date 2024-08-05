@@ -6,7 +6,7 @@ https://drive.usercontent.google.com/download?id=1ydVdo04a_PoRK3ZCqmpr467fGMxoBK
 
 
 
-#EXTINF:-1,   SUN TV HD
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="SK-TAMIL" tvg-logo="https://i.ibb.co/CV1Nf0p/In-Shot-20240519-225526863.jpg",SUN TV HD
 http://sansat.net:25461/live/02026512172803/02026512172803/100157.ts
 #EXTINF:-1, TM: SUN TV FHD auto
 http://tv.cloudcdn.me:80/live.ts?channelId=43421&uid=5353&deviceMac=00:1A:79:17:D4:65
@@ -55,7 +55,7 @@ http://116.202.46.40:9023/ZEE_TAMIL/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlU3LPv5IxC2BzgMx4ygacXvDGs1WB0wl5MEtcUPBxE5U4EqM2EqHJtMY&s=10",THANTHI ONE HD
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="SK-TAMIL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlU3LPv5IxC2BzgMx4ygacXvDGs1WB0wl5MEtcUPBxE5U4EqM2EqHJtMY&s=10",THANTHI ONE HD
 https://249553662f3e.ap-south-1.playback.live-video.net/api/video/v1/ap-south-1.588204940461.channel.Sx8XPoik8VX2.m3u8
 
 #EXTINF:-1,   COLORS TAMIL HD
@@ -69,26 +69,10 @@ http://sansat.net:25461/0CteMresihDS4dm/giKDy2HsDXKOii4/100109
 #EXTINF:-1, COLORS TAMIL HD
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/JC_ColorsTamilHD/JCHLS/index.m3u8
 
-#EXTINF:-1, BRINDA E1 crime thriller
-http://starshare.live:8080/series/rvdgdf7647564/bvchgfd235454/374176.mp4
-#EXTINF:-1, BRINDA E2 crime thriller
-http://starshare.live:8080/series/rvdgdf7647564/bvchgfd235454/374177.mp4
-#EXTINF:-1, BRINDA E3 crime thriller
-http://starshare.live:8080/series/rvdgdf7647564/bvchgfd235454/374178.mp4
-#EXTINF:-1, BRINDA E4 crime thriller
-http://starshare.live:8080/series/rvdgdf7647564/bvchgfd235454/374179.mp4
-#EXTINF:-1, BRINDA E5 crime thriller
-http://starshare.live:8080/series/rvdgdf7647564/bvchgfd235454/374180.mp4
-#EXTINF:-1, BRINDA E6 crime thriller
-http://starshare.live:8080/series/rvdgdf7647564/bvchgfd235454/374181.mp4
-#EXTINF:-1, BRINDA E7 crime thriller
-http://starshare.live:8080/series/rvdgdf7647564/bvchgfd235454/374182.mp4
-#EXTINF:-1, BRINDA E8 crime thriller
-http://starshare.live:8080/series/rvdgdf7647564/bvchgfd235454/374183.mp4
 
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="SK-TAMIL" tvg-logo="https://i.ibb.co/CV1Nf0p/In-Shot-20240519-225526863.jpg",
 
-
-#EXTINF:-1,   SUN TV HD
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="SK-TAMIL" tvg-logo="https://i.ibb.co/CV1Nf0p/In-Shot-20240519-225526863.jpg",SUN TV HD
 http://sansat.net:25461/0CteMresihDS4dm/giKDy2HsDXKOii4/100157
 #EXTINF:-1,   STAR VIJAY HD
 http://sansat.net:25461/0CteMresihDS4dm/giKDy2HsDXKOii4/100153
@@ -197,6 +181,26 @@ http://Watchindia.net:8880/live/65181/26572/1758.ts
 http://14.102.123.50:9080/play/a046
 
 
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="SK-MOVIES" tvg-logo="https://i.ibb.co/CV1Nf0p/In-Shot-20240519-225526863.jpg",
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="SK-MOVIES" tvg-logo="https://i.ibb.co/CV1Nf0p/In-Shot-20240519-225526863.jpg",BRINDA E1 crime thriller
+http://starshare.live:8080/series/rvdgdf7647564/bvchgfd235454/374176.mp4
+#EXTINF:-1, BRINDA E2 crime thriller
+http://starshare.live:8080/series/rvdgdf7647564/bvchgfd235454/374177.mp4
+#EXTINF:-1, BRINDA E3 crime thriller
+http://starshare.live:8080/series/rvdgdf7647564/bvchgfd235454/374178.mp4
+#EXTINF:-1, BRINDA E4 crime thriller
+http://starshare.live:8080/series/rvdgdf7647564/bvchgfd235454/374179.mp4
+#EXTINF:-1, BRINDA E5 crime thriller
+http://starshare.live:8080/series/rvdgdf7647564/bvchgfd235454/374180.mp4
+#EXTINF:-1, BRINDA E6 crime thriller
+http://starshare.live:8080/series/rvdgdf7647564/bvchgfd235454/374181.mp4
+#EXTINF:-1, BRINDA E7 crime thriller
+http://starshare.live:8080/series/rvdgdf7647564/bvchgfd235454/374182.mp4
+#EXTINF:-1, BRINDA E8 crime thriller
+http://starshare.live:8080/series/rvdgdf7647564/bvchgfd235454/374183.mp4
+
+
 #EXTINF:-1, PECHI (2024) (TAMIL) cam
 http://starshare.live:8080/movie/rvdgdf7647564/bvchgfd235454/374847.mp4
 
@@ -254,11 +258,6 @@ http://starshare.live:8080/movie/rvdgdf7647564/bvchgfd235454/353841.mp4
 
 #EXTINF:-1,  RASAVATHI (2024) (TAMIL)
 http://starshare.live:8080/movie/rvdgdf7647564/bvchgfd235454/353862.mp4
-
-
-
-
-
 
 
 #EXTINF:-1, Movies TV ENGLISH
@@ -445,6 +444,8 @@ http://watchindia.net:8880/live/23712/28423/869.ts
 
 
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="SK-TAMIL" tvg-logo="https://i.ibb.co/CV1Nf0p/In-Shot-20240519-225526863.jpg",MY: SUN TV HD
+http://116.202.46.40:9023/SUN_TV_TAMIL/index.m3u8
 #EXTINF:0,MY: SUN TV HD
 #EXTGRP:unsorted
 http://116.202.46.40:9023/SUN_TV_TAMIL/index.m3u8
@@ -865,15 +866,13 @@ http://sansat.net:25461/02028857936892/0751169096/100170
 http://sansat.net:25461/02028857936892/0751169096/100171
 
 
-#EXTINF:-1, IND: TAMIL_SUN TV HD
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="SK-TAMIL" tvg-logo="https://i.ibb.co/CV1Nf0p/In-Shot-20240519-225526863.jpg",IND: TAMIL_SUN TV HD
 http://xtv.ooo:8080/live/926320521/2229994223/244553.ts
 Watch IND: TAMIL : SUN TV
 http://xtv.ooo:8080/live/926320521/2229994223/244623.ts
 #EXTINF:-1,  IN: SUN TV FHD
 http://xtv.ooo:8080/live/926320521/2229994223/355599.ts
  
-
-
 
 #EXTINF:-1, சன்டிவி SUN TV
 http://flbl1.112421.net:8082/4151826/mpegts?token=KVKPX9W8DU
@@ -910,7 +909,6 @@ http://livetvbox.live:8080/live/jareer.me ye/jerielnino.me/5922.ts
 #EXTINF:-1, SUN TV HD
 http://livetvbox.live:8080/live/jareer.me ye/jerielnino.me/5923.ts
 
-
 #EXTINF:-1 tvg-id="" tvg-name="IND: TAMIL : Sun TV" tvg-logo="" group-title="IND | TAMIL",Opp:IND: TAMIL : Sun TV
 http://xtv.ooo:8080/RiyazMPT/433833/244623
 #EXTINF:-1 tvg-id="" tvg-name="IND: TAMIL_Sun TV HD" tvg-logo="" group-title="IND | TAMIL",IND: TAMIL_Sun TV HD
@@ -921,8 +919,6 @@ http://xtv.ooo:8080/live/105578/105578/244553.ts
 #EXTINF:-1, IND: TAMIL : SUN TV
 http://xtv.ooo:8080/live/105578/105578/244623.ts
 
-
-
 #EXTINF:-1,சன்.டிவி SUN HD
 http://108.181.123.13:8070/live/T-thornman/2126e132/76969.ts
 #EXTINF:-1,சன்.டிவி SUN HD
@@ -931,16 +927,10 @@ http://iptvtree.net:8080/live/T-thornman/2126e132/76969.ts
 
 
 
-
-
-
-
-
 #EXTINF:-1, IND: TAMIL: STAR VIJAY HD
 http://xtv.ooo:8080/live/926320521/2229994223/244624.ts
 #EXTINF:-1, IN: STAR VIJAY FHD
 http://xtv.ooo:8080/live/926320521/2229994223/355598.ts
-
 
 #EXTINF:-1, TM: STAR VIJAY FHD indigo auto
 http://tv.cloudcdn.me:80/live.ts?channelId=43419&uid=12449&deviceMac=00:1A:79:A2:B5:0C
@@ -966,8 +956,6 @@ http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/5916.ts
 #EXTINF:-1, share STAR VIJAY
 http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/5917.ts
 
-
-
 #EXTINF:-1, STAR VIJAY
 http://flbl1.112421.net:8082/4151823/mpegts?token=KVKPX9W8DU
 
@@ -979,8 +967,6 @@ http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:6C:3E:2D&stream=281855&exte
 http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:6C:3E:2D&stream=945573&extension=ts&play_token=pIV4Km4pBh
 #EXTINF:-1,விஜய்.டிவி STAR VIJAY
 http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:6C:3E:2D&stream=945552&extension=ts&play_token=yaDyy0PE7H
-
-
 
 #EXTINF:-1,விஜய்.டிவி Vijay HD 
 http://iptvtree.net:8080/live/T-thornman/2126e132/19744.ts
@@ -1011,19 +997,19 @@ http://public.iptv18.tech/yupp.php?id=5496
 
 
 
-#EXTINF:-1 tvg-id="vijayhd.in" tvg-name="" group-title="STAR-TAMIL" tvg-logo="http://stariptv.fun/logos/4klogo.png",TAMIL: VIJAY TV (4K).
+#EXTINF:-1 tvg-id="vijayhd.in" tvg-name="" group-title="SK-TAMIL" tvg-logo="http://stariptv.fun/logos/4klogo.png",TAMIL: VIJAY TV (4K).
 https://public.iptv18.tech/share.php?id=98898.ts
-#EXTINF:-1 tvg-id="vijayhd.in" tvg-name="" group-title="STAR-TAMIL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcROOIKSnDTq5SwY84Bh4uMzNquSleZdK2SnAA&usqp=CAU",TAMIL: VIJAY TV (FHD)
+#EXTINF:-1 tvg-id="vijayhd.in" tvg-name="" group-title="SK-TAMIL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcROOIKSnDTq5SwY84Bh4uMzNquSleZdK2SnAA&usqp=CAU",TAMIL: VIJAY TV (FHD)
 https://public.iptv18.tech/share.php?id=9969.ts
-#EXTINF:-1 tvg-id="vijayhd.in" tvg-name="" group-title="STAR-TAMIL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Star_Vijay_HD_2017-0.png/revision/latest/scale-to-width-down/250?cb=20190715142233",TM: STAR VIJAY INDIA FHD
+#EXTINF:-1 tvg-id="vijayhd.in" tvg-name="" group-title="SK-TAMIL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Star_Vijay_HD_2017-0.png/revision/latest/scale-to-width-down/250?cb=20190715142233",TM: STAR VIJAY INDIA FHD
 https://public.iptv18.tech/share.php?id=5916.ts
-#EXTINF:-1 tvg-id="vijayhd.in" tvg-name="" group-title="STAR-TAMIL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Star_Vijay_HD_2017-0.png/revision/latest/scale-to-width-down/250?cb=20190715142233",TM: STAR VIJAY HD
+#EXTINF:-1 tvg-id="vijayhd.in" tvg-name="" group-title="SK-TAMIL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Star_Vijay_HD_2017-0.png/revision/latest/scale-to-width-down/250?cb=20190715142233",TM: STAR VIJAY HD
 https://public.iptv18.tech/share.php?id=157.ts
-#EXTINF:-1 tvg-id="vijayhd.in" tvg-name="" group-title="STAR-TAMIL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Star_Vijay_HD_2017-0.png/revision/latest/scale-to-width-down/250?cb=20190715142233",TM: VIJAY TV HD
+#EXTINF:-1 tvg-id="vijayhd.in" tvg-name="" group-title="SK-TAMIL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Star_Vijay_HD_2017-0.png/revision/latest/scale-to-width-down/250?cb=20190715142233",TM: VIJAY TV HD
 https://public.iptv18.tech/share.php?id=1634.ts
-#EXTINF:-1 tvg-id="starvijay.in" tvg-name="" group-title="STAR-TAMIL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Star_Vijay_HD_2017-0.png/revision/latest/scale-to-width-down/250?cb=20190715142233",TM: STAR VIJAY HD
+#EXTINF:-1 tvg-id="starvijay.in" tvg-name="" group-title="SK-TAMIL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Star_Vijay_HD_2017-0.png/revision/latest/scale-to-width-down/250?cb=20190715142233",TM: STAR VIJAY HD
 https://public.iptv18.tech/share.php?id=5915.ts
-#EXTINF:-1 tvg-id="vijayhd.in" tvg-name="" group-title="STAR-TAMIL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Star_Vijay_HD_2017-0.png/revision/latest/scale-to-width-down/250?cb=20190715142233",TM: STAR VIJAY HD (VIP)
+#EXTINF:-1 tvg-id="vijayhd.in" tvg-name="" group-title="SK-TAMIL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Star_Vijay_HD_2017-0.png/revision/latest/scale-to-width-down/250?cb=20190715142233",TM: STAR VIJAY HD (VIP)
 https://public.iptv18.tech/share.php?id=5917.ts
 
 
@@ -1033,7 +1019,7 @@ http://tv.cloudcdn.me/live.ts?channelId=43419&uid=5353&deviceMac=00:1A:79:17:D4:
 
 
 
-#EXTINF:-1, IND: ZEE TAMIL
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="SK-TAMIL" tvg-logo="https://i.ibb.co/CV1Nf0p/In-Shot-20240519-225526863.jpg",IND: ZEE TAMIL
 http://xtv.ooo:8080/live/926320521/2229994223/244523.ts
 #EXTINF:-1, IN: ZEE TAMIL FHD
 http://xtv.ooo:8080/live/926320521/2229994223/355606.ts
@@ -1052,7 +1038,7 @@ http://tv.cloudcdn.me:80/live.ts?channelId=43423&uid=14505&deviceMac=00:1A:79:A7
 http://270383656354853098.ofk0601.xyz:80/play/vi819780/UC7EPNwtXmHb/853098.ts
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="TAMIL" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11997-j9lux9ig-v1/imageContent-11997-j9lux9ig-m5.png", share ஜீதமிழ் TM: ZEE TAMIL HD (USA)
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="SK-TAMIL" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11997-j9lux9ig-v1/imageContent-11997-j9lux9ig-m5.png", share ஜீதமிழ் TM: ZEE TAMIL HD (USA)
 http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/5930.ts
 
 #EXTINF:-1, ஜீதமிழ் TM: ZEE TAMIL
@@ -1070,17 +1056,13 @@ http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/9971.ts
 
 
 
-#EXTINF:-1,ஜீதமிழ் ZEE TAMIL HD 
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="SK-TAMIL" tvg-logo="https://i.ibb.co/CV1Nf0p/In-Shot-20240519-225526863.jpg", ஜீதமிழ் ZEE TAMIL HD 
 http://xtv.ooo:8080/live/check5732/check12092/244523.ts
-#EXTINF:-1 tvg-id="" tvg-name="IND: Zee Tamil" tvg-logo="" group-title="IND | TAMIL",IND: Zee Tamil
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="SK-TAMIL" tvg-logo="https://i.ibb.co/CV1Nf0p/In-Shot-20240519-225526863.jpg",IND: Zee Tamil
 http://xtv.ooo:8080/RiyazMPT/433833/244523
 
 #EXTINF:-1, IN: ZEE TAMIL FHD
 http://xtv.ooo:8080/live/105578/105578/355606.ts
-
-
-
-
 
 
 #EXTINF:-1,ஜீதமிழ் zee tamil HD 
@@ -1088,19 +1070,14 @@ http://iptvtree.net:8080/live/T-thornman/2126e132/45505.ts
 #EXTINF:-1,ஜீதமிழ் ZEE TAMIL HD
 http://watchindia.net:8880/live/98697/23119/887.ts
 
-
-
-#EXTINF:-1 tvg-id="zeetamilhd.in" tvg-name="" group-title="STAR-TAMIL" tvg-logo="http://stariptv.fun/logos/4klogo.png",TAMIL: ZEE TAMIL (4K).
+#EXTINF:-1 tvg-id="zeetamilhd.in" tvg-name="" group-title="SK-TAMIL" tvg-logo="http://stariptv.fun/logos/4klogo.png",TAMIL: ZEE TAMIL (4K).
 https://public.iptv18.tech/share.php?id=98897.ts
-#EXTINF:-1 tvg-id="zeetamilhd.in" tvg-name="" group-title="STAR-TAMIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Zee_Tamil.jpeg",TAMIL: ZEE TAMIL (FHD)
+#EXTINF:-1 tvg-id="zeetamilhd.in" tvg-name="" group-title="SK-TAMIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Zee_Tamil.jpeg",TAMIL: ZEE TAMIL (FHD)
 https://public.iptv18.tech/share.php?id=9971.ts
-#EXTINF:-1 tvg-id="zeetamilhd.in" tvg-name="" group-title="STAR-TAMIL" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Tamil.png",TM: ZEE TAMIL HD (USA)
+#EXTINF:-1 tvg-id="zeetamilhd.in" tvg-name="" group-title="SK-TAMIL" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Tamil.png",TM: ZEE TAMIL HD (USA)
 https://public.iptv18.tech/share.php?id=5930.ts
-#EXTINF:-1 tvg-id="zeetamilhd.in" tvg-name="" group-title="STAR-TAMIL" tvg-logo="https://www.smartads.in/resources/assets/uploads/product_group/Television/Zee-Tamil-HD-Logo.png",TM: ZEE TAMIL
+#EXTINF:-1 tvg-id="zeetamilhd.in" tvg-name="" group-title="SK-TAMIL" tvg-logo="https://www.smartads.in/resources/assets/uploads/product_group/Television/Zee-Tamil-HD-Logo.png",TM: ZEE TAMIL
 https://public.iptv18.tech/share.php?id=225.ts
-
-
-
 
 #EXTINF:-1 tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240313_0836496572223849489540251.png" group-title="Devotional",ஜோதி Jothi
 http://notvstream.in/jothitv/jothitv.m3u8
@@ -1407,7 +1384,7 @@ https://denver1769.pages.dev/Discovery/tlc_hd_hindi.m3u8
 
 
 #EXTM3U
-#EXTINF:-1,&flix HD-Rs 19
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="SK-INDIA" tvg-logo="https://i.ibb.co/CV1Nf0p/In-Shot-20240519-225526863.jpg",&flix HD-Rs 19
 http://14.102.123.50:9080/play/a04w
 #EXTINF:-1,&pictures HD -Rs 19
 http://14.102.123.50:9080/play/a05d
@@ -2054,7 +2031,7 @@ http://14.102.123.50:9080/play/a05i
 
 
 
-#EXTINF:-1, opp- STAR SPORTS TAMIL-1
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="SK-SPORTS" tvg-logo="https://i.ibb.co/CV1Nf0p/In-Shot-20240519-225526863.jpg",opp- STAR SPORTS TAMIL-1
 http://xtv.ooo:8080/live/105578/105578/167574.ts
 
 #EXTINF:-1, sha- STAR SPORTS TAMIL 1 HD
@@ -2070,20 +2047,6 @@ http://4ksuper.live:80/play/live.php?mac=00:1A:79:AF:B3:19&stream=155873&extensi
 http://Watchindia.net:8880/live/98697/23119/2186.ts
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 CINEMANIA" tvg-logo="http://b1g.fun/logos2/CineMania4K_tamil.jpg",CINEMANIA TAMIL 4K
-https://public.iptv18.tech/vallabh.php?tv=425731
-
-#EXTINF:-1,  AXN MOVIES 4K HEVC
-http://994256456879770428.ofk0601.xyz:80/play/vi819780/UC7EPNwtXmHb/770428.ts
-
-#EXTINF:-1, STAR MOVIES 4K HEVC
-http://994256456879770448.ofk0601.xyz:80/play/vi819780/UC7EPNwtXmHb/770448.ts
-
-#EXTINF:-1, RU: REN TV HD PEH
-https://woobl.ru/hls987/Rentv_international.m3u8
-
-#EXTINF:-1, RU: PEH ТВ HD REN TV
-http://xtv.ooo:8080/live/digitalallhub/digitalallhub/353404.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="TOP COOKU DOOP COOKU" group-title="TOP COOKU DOOP COOKU" tvg-logo="", TOP COOKU DOOP COOKU (TAMIL) E01
 http://starshare.live:8080/series/jareer.me ye/jerielnino.me/337074.mp4
@@ -2106,16 +2069,16 @@ http://starshare.live:8080/series/jareer.me ye/jerielnino.me/355053.mp4
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="SAT.SK" tvg-logo="https://i.ibb.co/CV1Nf0p/In-Shot-20240519", அன்பாலயம்-1996 - Hum Aapke Hain Koun tamil dub
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="SK-MOVIES" tvg-logo="https://i.ibb.co/CV1Nf0p/In-Shot-20240519", அன்பாலயம்-1996 - Hum Aapke Hain Koun tamil dub
 https://drive.usercontent.google.com/download?id=1leRihlQySAhbWxAJgvgV4AtHvYRdAVkT&export=download&confirm=t&uuid=9b44f0cb-f861-4198-9827-86574e2b3748
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="SAT.SK" tvg-logo="https://i.ibb.co/CV1Nf0p/In-Shot-20240519", காதல் ஒரு கவிதை - Maine Pyar Kiya Tamil Dubbed
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="SK-MOVIES" tvg-logo="https://i.ibb.co/CV1Nf0p/In-Shot-20240519", காதல் ஒரு கவிதை - Maine Pyar Kiya Tamil Dubbed
 https://drive.usercontent.google.com/download?id=1lhlFsNDHcVttzkEN6GNpiw6KCdx1u48n&export=download&confirm=t&uuid=93f72be6-4bcb-49c4-8ce3-56d08719841d
 
 
 
 
-#EXTINF:-1, THANDHI ONE
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="SK-TAMIL" tvg-logo="https://i.ibb.co/CV1Nf0p/In-Shot-20240519-225526863.jpg", THANDHI ONE
 https://249553662f3e.ap-south-1.playback.live-video.net/api/video/v1/ap-south-1.588204940461.channel.Sx8XPoik8VX2.m3u8
 
 
