@@ -183,6 +183,10 @@ http://starshare.live:8080/movie/rvdgdf7647564/bvchgfd235454/374846.mp4
 #EXTINF:-1, BOAT 2024 CAM USE MX VLC PLAYER 
 https://dl1.isaiminii.top//files/data/Boat_2024_Tamil_Full_Movie_720p_PreDVDRip_(isaimini.eu).mp4?st=nxQpdD8D7JwqmgKyCVx1CQ&e=1722836320
 
+#EXTINF:-1, SAAMANIYAN (2024) (TAMIL)
+http://starshare.live:8080/movie/rvdgdf7647564/bvchgfd235454/374848.mp4
+
+
 #EXTINF:-1,  RAAYAN (2024) (TAMIL)(CAM)
 http://starshare.live:8080/movie/rvdgdf7647564/bvchgfd235454/371023.mp4
 
