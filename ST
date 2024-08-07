@@ -72,7 +72,25 @@ http://116.202.46.40:9023/COLORS_TAMIL/index.m3u8
 http://sansat.net:25461/0CteMresihDS4dm/giKDy2HsDXKOii4/100109
 #EXTINF:-1, COLORS TAMIL HD
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/JC_ColorsTamilHD/JCHLS/index.m3u8
+#EXTINF:-1, IND: COLORS TAMIL ( SLING )
+http://103.161.34.13:8080/live/Rajat111/Rajat123/244625.ts
 
+
+
+#EXTINF:-1, IND: TAMIL : SUN TV
+http://103.161.34.13:8080/live/Rajat111/Rajat123/244623.ts
+#EXTINF:-1, IND: TAMIL : STAR VIJAY SUPER
+http://103.161.34.13:8080/live/Rajat111/Rajat123/244622.ts
+#EXTINF:-1, IND: TAMIL: STAR VIJAY HD
+http://103.161.34.13:8080/live/Rajat111/Rajat123/244624.ts
+#EXTINF:-1, IN: ZEE TAMIL FHD
+http://103.161.34.13:8080/live/Rajat111/Rajat123/355606.ts
+#EXTINF:-1, IND: ZEE TAMIL
+http://103.161.34.13:8080/live/Rajat111/Rajat123/244523.ts
+#EXTINF:-1, IND: COLORS TAMIL ( SLING )
+http://103.161.34.13:8080/live/Rajat111/Rajat123/244625.ts
+#EXTINF:-1, VIP IND: COLORS TAMIL FHD
+http://103.161.34.13:8080/live/Rajat111/Rajat123/244635.ts
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="SK-TAMIL" tvg-logo="https://i.ibb.co/CV1Nf0p/In-Shot-20240519-225526863.jpg",
