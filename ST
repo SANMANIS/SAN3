@@ -74,6 +74,173 @@ http://sansat.net:25461/0CteMresihDS4dm/giKDy2HsDXKOii4/100109
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/JC_ColorsTamilHD/JCHLS/index.m3u8
 
 
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="SK-TAMIL" tvg-logo="https://i.ibb.co/CV1Nf0p/In-Shot-20240519-225526863.jpg",
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="SK-TAMIL" tvg-logo="https://i.ibb.co/CV1Nf0p/In-Shot-20240519-225526863.jpg",IND: TAMIL_SUN TV HD
+http://xtv.ooo:8080/live/926320521/2229994223/244553.ts
+Watch IND: TAMIL : SUN TV
+http://xtv.ooo:8080/live/926320521/2229994223/244623.ts
+#EXTINF:-1,  IN: SUN TV FHD
+http://xtv.ooo:8080/live/926320521/2229994223/355599.ts
+ 
+#EXTINF:-1, சன்டிவி SUN TV
+http://flbl1.112421.net:8082/4151826/mpegts?token=KVKPX9W8DU
+
+#EXTINF:-1, TM: SUN TV FHD indigo auto
+http://tv.cloudcdn.me:80/live.ts?channelId=43421&uid=12449&deviceMac=00:1A:79:A2:B5:0C
+
+#EXTINF:-1, SUN TV சன் டிவி tll
+https://fifabangladesh.live/@RANAPKX73/stream.m3u8?id=896&e=.m3u8
+
+#EXTINF:-1, SUN TV FHD (new)
+http://270383656354841925.ofk0601.xyz:80/play/vi819780/UC7EPNwtXmHb/841925.ts
+
+#EXTINF:-1,சன்.டிவி SUN HD USA watch
+http://watchindia.net:8880/live/98697/23119/2089.ts
+
+#EXTINF:-1, share: சன்டிவி SUNTV (4K) star
+http://154.6.125.2:25461/live/jareer.me ye/jerielnino.me/98899.ts?token=ShJcU0BbQQNHXw0PBFNWWwtVVlFWBVxQB1tRUwYGBFZUVAYEAQRXXVIbGBpEF0dcWF1vWQIXXlgJWlsOSUZGQVRCa1tXEVkbUwkFDAdSFxUbRFldAxdeUAZTVAZXVwUAAhwWQlpXQQNHCgcBBFsXFRtVSEQDRwoAXT0GUhMNUFcTClpHX19PGwpXa1xSDlRXXRIKElYXSENYERIVXwpGXl0cFlBaRxFYEVwWAhVRBQkBEhwSBVoRD0UQGxVfRmZhExwWV0tHBlcWUFtWFVkXTUoSHBIPRjsTVBEWRQAFXldDEg4QAxFPGwhYTGdUDFtXXFNEWQlbF0MLQFMVSUZeXV9ZQF1BbBNQARsOGgJSBQkKEk0=
+#EXTINF:-1, share: சன்டிவி SUNTV (4K)
+http://livetvbox.live:8080/live/jareer.me ye/jerielnino.me/98899.ts
+#EXTINF:-1, SUNTV (FHD)
+http://livetvbox.live:8080/live/jareer.me ye/jerielnino.me/23320.ts
+#EXTINF:-1, SUN TV HD
+http://livetvbox.live:8080/live/jareer.me ye/jerielnino.me/158.ts
+#EXTINF:-1, SUN TV HD
+http://livetvbox.live:8080/live/jareer.me ye/jerielnino.me/5922.ts
+#EXTINF:-1, SUN TV HD
+http://livetvbox.live:8080/live/jareer.me ye/jerielnino.me/5922.ts
+#EXTINF:-1, SUN TV HD
+http://livetvbox.live:8080/live/jareer.me ye/jerielnino.me/5923.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="IND: TAMIL : Sun TV" tvg-logo="" group-title="IND | TAMIL",Opp:IND: TAMIL : Sun TV
+http://xtv.ooo:8080/RiyazMPT/433833/244623
+#EXTINF:-1 tvg-id="" tvg-name="IND: TAMIL_Sun TV HD" tvg-logo="" group-title="IND | TAMIL",IND: TAMIL_Sun TV HD
+http://xtv.ooo:8080/RiyazMPT/433833/244553
+
+#EXTINF:-1, IND: TAMIL_SUN TV HD
+http://xtv.ooo:8080/live/105578/105578/244553.ts
+#EXTINF:-1, IND: TAMIL : SUN TV
+http://xtv.ooo:8080/live/105578/105578/244623.ts
+
+#EXTINF:-1,சன்.டிவி SUN HD
+http://108.181.123.13:8070/live/T-thornman/2126e132/76969.ts
+#EXTINF:-1,சன்.டிவி SUN HD
+http://iptvtree.net:8080/live/T-thornman/2126e132/76969.ts
+
+
+
+
+
+#EXTINF:-1, IND: TAMIL: STAR VIJAY HD
+http://xtv.ooo:8080/live/926320521/2229994223/244624.ts
+#EXTINF:-1, IN: STAR VIJAY FHD
+http://xtv.ooo:8080/live/926320521/2229994223/355598.ts
+
+#EXTINF:-1, TM: STAR VIJAY FHD indigo auto
+http://tv.cloudcdn.me:80/live.ts?channelId=43419&uid=12449&deviceMac=00:1A:79:A2:B5:0C
+ 
+#EXTINF:-1, STAR VIJAY HD (new)
+http://270383656354850563.ofk0601.xyz:80/play/vi819780/UC7EPNwtXmHb/850563.ts
+
+#EXTINF:-1, STAR VIJAY HD விஜய் டிவி tll
+http://mixbix.xyz:8080/L8r8WP9dEnuA/rnXMCGs5BGLe/236301
+
+#EXTINF:-1, share STAR VIJAY
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/157.ts
+
+#EXTINF:-1, share STAR VIJAY
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/1634.ts
+
+#EXTINF:-1, share STAR VIJAY
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/5915.ts
+
+#EXTINF:-1, share STAR VIJAY
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/5916.ts
+
+#EXTINF:-1, share STAR VIJAY
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/5917.ts
+
+#EXTINF:-1, STAR VIJAY
+http://flbl1.112421.net:8082/4151823/mpegts?token=KVKPX9W8DU
+
+#EXTINF:-1,விஜய்.டிவி STAR VIJAY
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:6C:3E:2D&stream=155874&extension=ts&play_token=qAGhR4rXRH
+#EXTINF:-1,விஜய்.டிவி STAR VIJAY
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:6C:3E:2D&stream=281855&extension=ts&play_token=WnFdeUjsVo
+#EXTINF:-1,விஜய்.டிவி STAR VIJAY
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:6C:3E:2D&stream=945573&extension=ts&play_token=pIV4Km4pBh
+#EXTINF:-1,விஜய்.டிவி STAR VIJAY
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:6C:3E:2D&stream=945552&extension=ts&play_token=yaDyy0PE7H
+
+#EXTINF:-1,விஜய்.டிவி Vijay HD 
+http://iptvtree.net:8080/live/T-thornman/2126e132/19744.ts
+#EXTINF:-1 tvg-id="vijayhd.in" tvg-name="" group-title="TAMIL" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/6184.jpg",IN: விஜய் STAR  VIJAY  _4K
+http://zeestb1.online/dhoom.php?id=10767
+#EXTINF:-1 tvg-id="vijayhd.in" tvg-name="" group-title="TAMIL" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/4744.jpg",IN: விஜய் STAR VIJAY  _4K
+http://zeestb1.online/dhoom.php?id=11431
+#EXTINF:-1 tvg-id="vijayhd.in" tvg-name="" group-title="TAMIL" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/1815.jpg",IN: விஜய் STAR VIJAY _4K
+http://zeestb1.online/dhoom.php?id=10768
+#EXTINF:-1 tvg-id="vijaysuper.in" tvg-name="" group-title="TAMIL" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/1444.jpg",IN: விஜய் VIJAY SUPER _4K
+http://zeestb1.online/dhoom.php?id=10607
+#EXTINF:-1 tvg-id="vijaysuper.in" tvg-name="" group-title="TAMIL" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/4508.jpg",IN: விஜய் VIJAY  SUPER_HD
+http://zeestb1.online/dhoom.php?id=10608
+
+#EXTINF:-1, STAR VIJAY HD விஜய் டிவி tll
+http://tv.cloudcdn.me/live.ts?channelId=43419&uid=5353&deviceMac=00:1A:79:17:D4:65
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="SK-TAMIL" tvg-logo="https://i.ibb.co/CV1Nf0p/In-Shot-20240519-225526863.jpg", ஜீதமிழ் ZEE TAMIL HD 
+http://103.161.34.13:8080/live/Rajat111/Rajat123/244523.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="SK-TAMIL" tvg-logo="https://i.ibb.co/CV1Nf0p/In-Shot-20240519-225526863.jpg",IND: Zee Tamil fhd
+http://103.161.34.13:8080/live/Rajat111/Rajat123/355606.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="SK-TAMIL" tvg-logo="https://i.ibb.co/CV1Nf0p/In-Shot-20240519-225526863.jpg",IND: ZEE TAMIL
+http://xtv.ooo:8080/live/926320521/2229994223/244523.ts
+#EXTINF:-1, IN: ZEE TAMIL FHD
+http://xtv.ooo:8080/live/926320521/2229994223/355606.ts
+
+#EXTINF:-1, TM: ZEE TAMIL FHD indigo auto
+http://tv.cloudcdn.me:80/live.ts?channelId=43423&uid=12449&deviceMac=00:1A:79:A2:B5:0C
+#EXTINF:-1, TM: ZEE TAMIL FHD indigo auto
+http://tv.cloudcdn.me:80/live.ts?channelId=128481&uid=12449&deviceMac=00:1A:79:A2:B5:0C
+
+#EXTINF:-1, ZEE TAMIL HD ஜீ தமிழ் tll
+http://tv.cloudcdn.me:80/live.ts?channelId=43423&uid=14505&deviceMac=00:1A:79:A7:53:75
+
+#EXTINF:-1, ZEE TAMIL HD (new)
+http://270383656354853098.ofk0601.xyz:80/play/vi819780/UC7EPNwtXmHb/853098.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="SK-TAMIL" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11997-j9lux9ig-v1/imageContent-11997-j9lux9ig-m5.png", share ஜீதமிழ் TM: ZEE TAMIL HD (USA)
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/5930.ts
+
+#EXTINF:-1, ஜீதமிழ் TM: ZEE TAMIL
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/225.ts
+
+#EXTINF:-1,  TM: ZEE TAMIL HD (USA)
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/5930.ts
+
+#EXTINF:-1,  TAMIL: ZEE TAMIL (FHD)
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/9971.ts
+
+
+#EXTINF:-1, IN: ZEE TAMIL FHD
+http://xtv.ooo:8080/live/105578/105578/355606.ts
+
+#EXTINF:-1,ஜீதமிழ் zee tamil HD 
+http://iptvtree.net:8080/live/T-thornman/2126e132/45505.ts
+#EXTINF:-1,ஜீதமிழ் ZEE TAMIL HD
+http://watchindia.net:8880/live/98697/23119/887.ts
+
+#EXTINF:-1 tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240313_0836496572223849489540251.png" group-title="Devotional",ஜோதி Jothi
+http://notvstream.in/jothitv/jothitv.m3u8
+
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="SK-TAMIL" tvg-logo="https://i.ibb.co/CV1Nf0p/In-Shot-20240519-225526863.jpg",
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="SK-TAMIL" tvg-logo="https://i.ibb.co/CV1Nf0p/In-Shot-20240519-225526863.jpg",SUN TV HD
@@ -880,221 +1047,7 @@ http://sansat.net:25461/02028857936892/0751169096/100170
 http://sansat.net:25461/02028857936892/0751169096/100171
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="SK-TAMIL" tvg-logo="https://i.ibb.co/CV1Nf0p/In-Shot-20240519-225526863.jpg",IND: TAMIL_SUN TV HD
-http://xtv.ooo:8080/live/926320521/2229994223/244553.ts
-Watch IND: TAMIL : SUN TV
-http://xtv.ooo:8080/live/926320521/2229994223/244623.ts
-#EXTINF:-1,  IN: SUN TV FHD
-http://xtv.ooo:8080/live/926320521/2229994223/355599.ts
- 
 
-#EXTINF:-1, சன்டிவி SUN TV
-http://flbl1.112421.net:8082/4151826/mpegts?token=KVKPX9W8DU
-
-#EXTINF:-1, TM: SUN TV FHD indigo auto
-http://tv.cloudcdn.me:80/live.ts?channelId=43421&uid=12449&deviceMac=00:1A:79:A2:B5:0C
-
-#EXTINF:-1, SUN TV சன் டிவி tll
-https://fifabangladesh.live/@RANAPKX73/stream.m3u8?id=896&e=.m3u8
-
-#EXTINF:-1, SUN TV FHD (new)
-http://270383656354841925.ofk0601.xyz:80/play/vi819780/UC7EPNwtXmHb/841925.ts
- 
-
-#EXTINF:-1,சன்.டிவி SUN HD USA watch
-http://watchindia.net:8880/live/98697/23119/2089.ts
-
-
-
-
-
-#EXTINF:-1, share: சன்டிவி SUNTV (4K) star
-http://154.6.125.2:25461/live/jareer.me ye/jerielnino.me/98899.ts?token=ShJcU0BbQQNHXw0PBFNWWwtVVlFWBVxQB1tRUwYGBFZUVAYEAQRXXVIbGBpEF0dcWF1vWQIXXlgJWlsOSUZGQVRCa1tXEVkbUwkFDAdSFxUbRFldAxdeUAZTVAZXVwUAAhwWQlpXQQNHCgcBBFsXFRtVSEQDRwoAXT0GUhMNUFcTClpHX19PGwpXa1xSDlRXXRIKElYXSENYERIVXwpGXl0cFlBaRxFYEVwWAhVRBQkBEhwSBVoRD0UQGxVfRmZhExwWV0tHBlcWUFtWFVkXTUoSHBIPRjsTVBEWRQAFXldDEg4QAxFPGwhYTGdUDFtXXFNEWQlbF0MLQFMVSUZeXV9ZQF1BbBNQARsOGgJSBQkKEk0=
-#EXTINF:-1, share: சன்டிவி SUNTV (4K)
-http://livetvbox.live:8080/live/jareer.me ye/jerielnino.me/98899.ts
-#EXTINF:-1, SUNTV (FHD)
-http://livetvbox.live:8080/live/jareer.me ye/jerielnino.me/23320.ts
-#EXTINF:-1, SUN TV HD
-http://livetvbox.live:8080/live/jareer.me ye/jerielnino.me/158.ts
-#EXTINF:-1, SUN TV HD
-http://livetvbox.live:8080/live/jareer.me ye/jerielnino.me/5922.ts
-#EXTINF:-1, SUN TV HD
-http://livetvbox.live:8080/live/jareer.me ye/jerielnino.me/5922.ts
-#EXTINF:-1, SUN TV HD
-http://livetvbox.live:8080/live/jareer.me ye/jerielnino.me/5923.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="IND: TAMIL : Sun TV" tvg-logo="" group-title="IND | TAMIL",Opp:IND: TAMIL : Sun TV
-http://xtv.ooo:8080/RiyazMPT/433833/244623
-#EXTINF:-1 tvg-id="" tvg-name="IND: TAMIL_Sun TV HD" tvg-logo="" group-title="IND | TAMIL",IND: TAMIL_Sun TV HD
-http://xtv.ooo:8080/RiyazMPT/433833/244553
-
-#EXTINF:-1, IND: TAMIL_SUN TV HD
-http://xtv.ooo:8080/live/105578/105578/244553.ts
-#EXTINF:-1, IND: TAMIL : SUN TV
-http://xtv.ooo:8080/live/105578/105578/244623.ts
-
-#EXTINF:-1,சன்.டிவி SUN HD
-http://108.181.123.13:8070/live/T-thornman/2126e132/76969.ts
-#EXTINF:-1,சன்.டிவி SUN HD
-http://iptvtree.net:8080/live/T-thornman/2126e132/76969.ts
-
-
-
-
-#EXTINF:-1, IND: TAMIL: STAR VIJAY HD
-http://xtv.ooo:8080/live/926320521/2229994223/244624.ts
-#EXTINF:-1, IN: STAR VIJAY FHD
-http://xtv.ooo:8080/live/926320521/2229994223/355598.ts
-
-#EXTINF:-1, TM: STAR VIJAY FHD indigo auto
-http://tv.cloudcdn.me:80/live.ts?channelId=43419&uid=12449&deviceMac=00:1A:79:A2:B5:0C
- 
-#EXTINF:-1, STAR VIJAY HD (new)
-http://270383656354850563.ofk0601.xyz:80/play/vi819780/UC7EPNwtXmHb/850563.ts
-
-#EXTINF:-1, STAR VIJAY HD விஜய் டிவி tll
-http://mixbix.xyz:8080/L8r8WP9dEnuA/rnXMCGs5BGLe/236301
-
-#EXTINF:-1, share STAR VIJAY
-http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/157.ts
-
-#EXTINF:-1, share STAR VIJAY
-http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/1634.ts
-
-#EXTINF:-1, share STAR VIJAY
-http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/5915.ts
-
-#EXTINF:-1, share STAR VIJAY
-http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/5916.ts
-
-#EXTINF:-1, share STAR VIJAY
-http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/5917.ts
-
-#EXTINF:-1, STAR VIJAY
-http://flbl1.112421.net:8082/4151823/mpegts?token=KVKPX9W8DU
-
-#EXTINF:-1,விஜய்.டிவி STAR VIJAY
-http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:6C:3E:2D&stream=155874&extension=ts&play_token=qAGhR4rXRH
-#EXTINF:-1,விஜய்.டிவி STAR VIJAY
-http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:6C:3E:2D&stream=281855&extension=ts&play_token=WnFdeUjsVo
-#EXTINF:-1,விஜய்.டிவி STAR VIJAY
-http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:6C:3E:2D&stream=945573&extension=ts&play_token=pIV4Km4pBh
-#EXTINF:-1,விஜய்.டிவி STAR VIJAY
-http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:6C:3E:2D&stream=945552&extension=ts&play_token=yaDyy0PE7H
-
-#EXTINF:-1,விஜய்.டிவி Vijay HD 
-http://iptvtree.net:8080/live/T-thornman/2126e132/19744.ts
-#EXTINF:-1 tvg-id="vijayhd.in" tvg-name="" group-title="TAMIL" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/6184.jpg",IN: விஜய் STAR  VIJAY  _4K
-http://zeestb1.online/dhoom.php?id=10767
-#EXTINF:-1 tvg-id="vijayhd.in" tvg-name="" group-title="TAMIL" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/4744.jpg",IN: விஜய் STAR VIJAY  _4K
-http://zeestb1.online/dhoom.php?id=11431
-#EXTINF:-1 tvg-id="vijayhd.in" tvg-name="" group-title="TAMIL" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/1815.jpg",IN: விஜய் STAR VIJAY _4K
-http://zeestb1.online/dhoom.php?id=10768
-#EXTINF:-1 tvg-id="vijaysuper.in" tvg-name="" group-title="TAMIL" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/1444.jpg",IN: விஜய் VIJAY SUPER _4K
-http://zeestb1.online/dhoom.php?id=10607
-#EXTINF:-1 tvg-id="vijaysuper.in" tvg-name="" group-title="TAMIL" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/4508.jpg",IN: விஜய் VIJAY  SUPER_HD
-http://zeestb1.online/dhoom.php?id=10608
-
-#EXTINF:-1 tvg-id="star vijay hd" tvg-name="" group-title="YUPPTV-" tvg-logo="2168.PNG",VIJAY TV HD UK
-http://public.iptv18.tech/yupp.php?id=5474
-#EXTINF:-1 tvg-id="vijayhd.in" tvg-name="" group-title="YUPPTV-" tvg-logo="2151.PNG",STAR VIJAY HD
-http://public.iptv18.tech/yupp.php?id=7654
-#EXTINF:-1 tvg-id="star vijay hd" tvg-name="" group-title="YUPPTV-" tvg-logo="2030.PNG",STAR VIJAY HD
-http://public.iptv18.tech/yupp.php?id=7655
-#EXTINF:-1 tvg-id="star vijay hd" tvg-name="" group-title="YUPPTV-" tvg-logo="2120.PNG",STAR VIJAY HD US
-http://public.iptv18.tech/yupp.php?id=7651
-#EXTINF:-1 tvg-id="star vijay hd" tvg-name="" group-title="YUPPTV-" tvg-logo="2037.PNG",STAR VIJAY US
-http://public.iptv18.tech/yupp.php?id=7653
-#EXTINF:-1 tvg-id="star vijay hd" tvg-name="" group-title="YUPPTV-" tvg-logo="2190.PNG",VIJAY SUPER UK
-http://public.iptv18.tech/yupp.php?id=5496
-
-
-
-
-#EXTINF:-1 tvg-id="vijayhd.in" tvg-name="" group-title="SK-TAMIL" tvg-logo="http://stariptv.fun/logos/4klogo.png",TAMIL: VIJAY TV (4K).
-https://public.iptv18.tech/share.php?id=98898.ts
-#EXTINF:-1 tvg-id="vijayhd.in" tvg-name="" group-title="SK-TAMIL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcROOIKSnDTq5SwY84Bh4uMzNquSleZdK2SnAA&usqp=CAU",TAMIL: VIJAY TV (FHD)
-https://public.iptv18.tech/share.php?id=9969.ts
-#EXTINF:-1 tvg-id="vijayhd.in" tvg-name="" group-title="SK-TAMIL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Star_Vijay_HD_2017-0.png/revision/latest/scale-to-width-down/250?cb=20190715142233",TM: STAR VIJAY INDIA FHD
-https://public.iptv18.tech/share.php?id=5916.ts
-#EXTINF:-1 tvg-id="vijayhd.in" tvg-name="" group-title="SK-TAMIL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Star_Vijay_HD_2017-0.png/revision/latest/scale-to-width-down/250?cb=20190715142233",TM: STAR VIJAY HD
-https://public.iptv18.tech/share.php?id=157.ts
-#EXTINF:-1 tvg-id="vijayhd.in" tvg-name="" group-title="SK-TAMIL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Star_Vijay_HD_2017-0.png/revision/latest/scale-to-width-down/250?cb=20190715142233",TM: VIJAY TV HD
-https://public.iptv18.tech/share.php?id=1634.ts
-#EXTINF:-1 tvg-id="starvijay.in" tvg-name="" group-title="SK-TAMIL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Star_Vijay_HD_2017-0.png/revision/latest/scale-to-width-down/250?cb=20190715142233",TM: STAR VIJAY HD
-https://public.iptv18.tech/share.php?id=5915.ts
-#EXTINF:-1 tvg-id="vijayhd.in" tvg-name="" group-title="SK-TAMIL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Star_Vijay_HD_2017-0.png/revision/latest/scale-to-width-down/250?cb=20190715142233",TM: STAR VIJAY HD (VIP)
-https://public.iptv18.tech/share.php?id=5917.ts
-
-
-#EXTINF:-1, STAR VIJAY HD விஜய் டிவி tll
-http://tv.cloudcdn.me/live.ts?channelId=43419&uid=5353&deviceMac=00:1A:79:17:D4:65
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="SK-TAMIL" tvg-logo="https://i.ibb.co/CV1Nf0p/In-Shot-20240519-225526863.jpg",IND: ZEE TAMIL
-http://xtv.ooo:8080/live/926320521/2229994223/244523.ts
-#EXTINF:-1, IN: ZEE TAMIL FHD
-http://xtv.ooo:8080/live/926320521/2229994223/355606.ts
-
-
-#EXTINF:-1, TM: ZEE TAMIL FHD indigo auto
-http://tv.cloudcdn.me:80/live.ts?channelId=43423&uid=12449&deviceMac=00:1A:79:A2:B5:0C
-
-#EXTINF:-1, TM: ZEE TAMIL FHD indigo auto
-http://tv.cloudcdn.me:80/live.ts?channelId=128481&uid=12449&deviceMac=00:1A:79:A2:B5:0C
-
-#EXTINF:-1, ZEE TAMIL HD ஜீ தமிழ் tll
-http://tv.cloudcdn.me:80/live.ts?channelId=43423&uid=14505&deviceMac=00:1A:79:A7:53:75
-
-#EXTINF:-1, ZEE TAMIL HD (new)
-http://270383656354853098.ofk0601.xyz:80/play/vi819780/UC7EPNwtXmHb/853098.ts
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="SK-TAMIL" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11997-j9lux9ig-v1/imageContent-11997-j9lux9ig-m5.png", share ஜீதமிழ் TM: ZEE TAMIL HD (USA)
-http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/5930.ts
-
-#EXTINF:-1, ஜீதமிழ் TM: ZEE TAMIL
-http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/225.ts
-
-
-#EXTINF:-1,  TM: ZEE TAMIL HD (USA)
-http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/5930.ts
-
-#EXTINF:-1,  TAMIL: ZEE TAMIL (FHD)
-http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/9971.ts
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="SK-TAMIL" tvg-logo="https://i.ibb.co/CV1Nf0p/In-Shot-20240519-225526863.jpg", ஜீதமிழ் ZEE TAMIL HD 
-http://xtv.ooo:8080/live/check5732/check12092/244523.ts
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="SK-TAMIL" tvg-logo="https://i.ibb.co/CV1Nf0p/In-Shot-20240519-225526863.jpg",IND: Zee Tamil
-http://xtv.ooo:8080/RiyazMPT/433833/244523
-
-#EXTINF:-1, IN: ZEE TAMIL FHD
-http://xtv.ooo:8080/live/105578/105578/355606.ts
-
-
-#EXTINF:-1,ஜீதமிழ் zee tamil HD 
-http://iptvtree.net:8080/live/T-thornman/2126e132/45505.ts
-#EXTINF:-1,ஜீதமிழ் ZEE TAMIL HD
-http://watchindia.net:8880/live/98697/23119/887.ts
-
-#EXTINF:-1 tvg-id="zeetamilhd.in" tvg-name="" group-title="SK-TAMIL" tvg-logo="http://stariptv.fun/logos/4klogo.png",TAMIL: ZEE TAMIL (4K).
-https://public.iptv18.tech/share.php?id=98897.ts
-#EXTINF:-1 tvg-id="zeetamilhd.in" tvg-name="" group-title="SK-TAMIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Zee_Tamil.jpeg",TAMIL: ZEE TAMIL (FHD)
-https://public.iptv18.tech/share.php?id=9971.ts
-#EXTINF:-1 tvg-id="zeetamilhd.in" tvg-name="" group-title="SK-TAMIL" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Tamil.png",TM: ZEE TAMIL HD (USA)
-https://public.iptv18.tech/share.php?id=5930.ts
-#EXTINF:-1 tvg-id="zeetamilhd.in" tvg-name="" group-title="SK-TAMIL" tvg-logo="https://www.smartads.in/resources/assets/uploads/product_group/Television/Zee-Tamil-HD-Logo.png",TM: ZEE TAMIL
-https://public.iptv18.tech/share.php?id=225.ts
-
-#EXTINF:-1 tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240313_0836496572223849489540251.png" group-title="Devotional",ஜோதி Jothi
-http://notvstream.in/jothitv/jothitv.m3u8
 
 
 
