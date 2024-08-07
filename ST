@@ -75,7 +75,8 @@ https://prod-ent-live-gm.jiocinema.com/bpk-tv/JC_ColorsTamilHD/JCHLS/index.m3u8
 #EXTINF:-1, IND: COLORS TAMIL ( SLING )
 http://103.161.34.13:8080/live/Rajat111/Rajat123/244625.ts
 
-
+#EXTINF:-1,  IN: SUN TV FHD
+http://103.161.34.13:8080/live/Rajat111/Rajat123/355599.ts
 #EXTINF:-1,  IND: TAMIL_SUN TV HD
 http://103.161.34.13:8080/live/Rajat111/Rajat123/244553.ts
 #EXTINF:-1, IND: TAMIL : SUN TV
