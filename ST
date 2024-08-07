@@ -193,6 +193,12 @@ http://starshare.live:8080/series/rvdgdf7647564/bvchgfd235454/374182.mp4
 #EXTINF:-1, BRINDA E8 crime thriller
 http://starshare.live:8080/series/rvdgdf7647564/bvchgfd235454/374183.mp4
 
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="SK-MOVIES" tvg-logo="https://i.ibb.co/CV1Nf0p/In-Shot-20240519", அன்பாலயம்-1996 - Hum Aapke Hain Koun tamil dub
+https://drive.usercontent.google.com/download?id=1leRihlQySAhbWxAJgvgV4AtHvYRdAVkT&export=download&confirm=t&uuid=9b44f0cb-f861-4198-9827-86574e2b3748
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="SK-MOVIES" tvg-logo="https://i.ibb.co/CV1Nf0p/In-Shot-20240519", காதல் ஒரு கவிதை - Maine Pyar Kiya Tamil Dubbed
+https://drive.usercontent.google.com/download?id=1lhlFsNDHcVttzkEN6GNpiw6KCdx1u48n&export=download&confirm=t&uuid=93f72be6-4bcb-49c4-8ce3-56d08719841d
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="SK-MOVIES" tvg-logo="https://i.ibb.co/CV1Nf0p/In-Shot-20240519-225526863.jpg",PECHI (2024) (TAMIL) cam
 http://starshare.live:8080/movie/rvdgdf7647564/bvchgfd235454/374847.mp4
@@ -2077,12 +2083,6 @@ http://starshare.live:8080/series/jareer.me ye/jerielnino.me/355053.mp4
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="SK-MOVIES" tvg-logo="https://i.ibb.co/CV1Nf0p/In-Shot-20240519", அன்பாலயம்-1996 - Hum Aapke Hain Koun tamil dub
-https://drive.usercontent.google.com/download?id=1leRihlQySAhbWxAJgvgV4AtHvYRdAVkT&export=download&confirm=t&uuid=9b44f0cb-f861-4198-9827-86574e2b3748
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="SK-MOVIES" tvg-logo="https://i.ibb.co/CV1Nf0p/In-Shot-20240519", காதல் ஒரு கவிதை - Maine Pyar Kiya Tamil Dubbed
-https://drive.usercontent.google.com/download?id=1lhlFsNDHcVttzkEN6GNpiw6KCdx1u48n&export=download&confirm=t&uuid=93f72be6-4bcb-49c4-8ce3-56d08719841d
-
 
 
 
@@ -2270,9 +2270,6 @@ http://Watchindia.net:8880/live/98697/23119/857.ts
 #EXTINF: -1 tvg-id="496" tvg-chno="3" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11957-j9lu8sc8-v1/imageContent-11957-j9lu8sc8-m1.png" group-title="Music", Sun Music HD
 http://line.greatstar.me/play/live.php?mac=00:1a:79:98:e1:28&stream=155881&extension=ts
 
-
-#EXTINF:-1 tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240323_232735784749800363151198.png" group-title="Tamil",Astro Vanavil HD
-http://xtv.ooo:8080/live/check5732/check12092/352092.ts
 
 
 #EXTINF:-1,VIJAYSUPER HD 
