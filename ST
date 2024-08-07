@@ -648,6 +648,8 @@ https://linear-835.frequency.stream/mt/studio/835/hls/master/playlist.m3u8
 https://dai.google.com/linear/hls/event/eEwI596iRF2eKZ8hMz0Giw/master.m3u8
 #EXTINF:-1, CRICKET ENGLISH LIVE HD (USE MX VLC PLAYER)
 https://dai.google.com/linear/hls/event/QNEZiPzpTXucyrbpCjdZTw/master.m3u8
+#EXTINF:-1, IN: SONY SPORTS TEN 3 HD
+http://jmrk.xyz:3050/Baker/2AFnCUkyAB/608247
 #EXTINF:-1, india🏏🏏
 https://dai.google.com/linear/hls/event/32o3Z5kUR8WHQRpF9YUOAQ/master.m3u8
 #EXTINF:-1, Worldwide🏏🏏
@@ -658,7 +660,16 @@ http://124.29.225.205:8000/play/a043/index.m3u8
 http://Watchindia.net:8880/live/65181/26572/1758.ts
 #EXTINF:-1, SONY TEN 3 HD
 http://14.102.123.50:9080/play/a046
-
+#EXTINF:-1, IN: SONY TEN 1 (FHD)
+http://ktv.im:8080/111222/222111/5429
+#EXTINF:-1, IN: SONY TEN 3 (FHD)
+http://ktv.im:8080/111222/222111/5430
+#EXTINF:-1, IN: SONY TEN 5 (FHD)
+http://ktv.im:8080/111222/222111/5431
+#EXTINF:-1,  IN: SPORTS 18 - 1 HD
+http://jmrk.xyz:3050/Baker/2AFnCUkyAB/608244
+#EXTINF:-1,  IN: SPORTS18
+http://jmrk.xyz:3050/Baker/2AFnCUkyAB/608617
 
 
 #EXTM3U
