@@ -310,9 +310,6 @@ http://iptvtree.net:8080/live/T-thornman/2126e132/45505.ts
 #EXTINF:-1,ஜீதமிழ் ZEE TAMIL HD
 http://watchindia.net:8880/live/98697/23119/887.ts
 
-#EXTINF:-1 tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240313_0836496572223849489540251.png" group-title="Devotional",ஜோதி Jothi
-http://notvstream.in/jothitv/jothitv.m3u8
-
 
 
 
@@ -413,6 +410,9 @@ http://sansat.net:25461/live/02026512172803/02026512172803/100109.ts
 #EXTINF:-1, COLORS TAMIL HD
 http://sansat.net:25461/0CteMresihDS4dm/giKDy2HsDXKOii4/100109
 
+
+#EXTINF:-1 tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240313_0836496572223849489540251.png" group-title="SK-TAMIL",ஜோதி Jothi
+http://notvstream.in/jothitv/jothitv.m3u8
 
 
 
