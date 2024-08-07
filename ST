@@ -36,29 +36,6 @@ http://217.20.112.199/vijaytv/index.m3u8
 http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/157.ts
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="SK-TAMIL" tvg-logo="https://i.ibb.co/CV1Nf0p/In-Shot-20240519-225526863.jpg",SUN TV USE MX VLC PLAYER
-http://tv.cloudcdn.me:80/live.ts?channelId=43421&uid=5353&deviceMac=00:1A:79:17:D4:65
-#EXTINF:-1, SUN TV HD USE MX VLC PLAYER
-http://116.202.46.40:9023/SUN_TV_TAMIL/index.m3u8
-#EXTINF:-1, STAR VIJAY USE MX VLC PLAYER
-http://116.202.46.40:9023/STAR_VIJAY_4K_TAMIL/index.m3u8
-#EXTINF:-1, ZEE TAMIL USE MX VLC PLAYER
-http://116.202.46.40:9023/ZEE_TAMIL/index.m3u8
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="SK-TAMIL" tvg-logo="https://i.ibb.co/CV1Nf0p/In-Shot-20240519-225526863.jpg",SUN TV HD USE MX VLC PLAYER
-http://14.102.123.50:9080/play/a06z
-#EXTINF:-1, SUN TV HD USE MX VLC PLAYER
-http://14.102.123.50:9080/play/a0z8
-#EXTINF:-1, SUN TV HD USE MX VLC PLAYER
-http://14.102.123.50:9080/play/a0yk
-#EXTINF:-1, STAR VIJAY HD USE MX VLC PLAYER
-http://14.102.123.50:9080/play/a0yf
-#EXTINF:-1,  ZEE TAMIL HD USE MX VLC PLAYER
-http://14.102.123.50:9080/play/a0yd
-
-
-
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="SK-TAMIL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlU3LPv5IxC2BzgMx4ygacXvDGs1WB0wl5MEtcUPBxE5U4EqM2EqHJtMY&s=10",THANTHI ONE HD
 https://249553662f3e.ap-south-1.playback.live-video.net/api/video/v1/ap-south-1.588204940461.channel.Sx8XPoik8VX2.m3u8
 
@@ -74,6 +51,58 @@ http://sansat.net:25461/0CteMresihDS4dm/giKDy2HsDXKOii4/100109
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/JC_ColorsTamilHD/JCHLS/index.m3u8
 #EXTINF:-1, IND: COLORS TAMIL ( SLING )
 http://103.161.34.13:8080/live/Rajat111/Rajat123/244625.ts
+
+
+#EXTINF:-1, SUN TV HD
+http://ktv.im:8080/111222/222111/82906
+#EXTINF:-1, SUN TV  (4K)
+http://ktv.im:8080/111222/222111/82908
+#EXTINF:-1, SUN TV USA
+http://ktv.im:8080/111222/222111/82911
+#EXTINF:-1, ZEE TAMIL
+http://ktv.im:8080/111222/222111/82916
+#EXTINF:-1, ZEE TAMIL  (4K)
+http://ktv.im:8080/111222/222111/82917
+#EXTINF:-1, ZEE TAMIL HD (USA)
+http://ktv.im:8080/111222/222111/82919
+#EXTINF:-1, ZEE TAMIL
+http://ktv.im:8080/111222/222111/88270
+#EXTINF:-1, STAR VIJAY HD
+http://ktv.im:8080/111222/222111/82897
+#EXTINF:-1, STAR VIJAY  (4K)
+http://ktv.im:8080/111222/222111/82900
+#EXTINF:-1, VIJAY TV (FHD)
+http://ktv.im:8080/111222/222111/83026
+#EXTINF:-1, COLOR TAMIL
+http://ktv.im:8080/111222/222111/88269
+#EXTINF:-1, COLORS TAMIL (4K)
+http://ktv.im:8080/111222/222111/82894
+#EXTINF:-1,  COLORS TAMIL HD
+http://ktv.im:8080/111222/222111/82892
+#EXTINF:-1, MY: SUN TV
+http://jmrk.xyz:3050/Baker/2AFnCUkyAB/605345
+#EXTINF:-1, MY: STAR VIJAY
+http://jmrk.xyz:3050/Baker/2AFnCUkyAB/605344
+#EXTINF:-1, MY: ZEE TAMIL
+http://jmrk.xyz:3050/Baker/2AFnCUkyAB/605366
+Watch MY: COLORS TAMIL
+http://jmrk.xyz:3050/Baker/2AFnCUkyAB/605299
+#EXTINF:-1, IN: SUN TV HD
+http://jmrk.xyz:3050/Baker/2AFnCUkyAB/608222
+#EXTINF:-1, IN: SUN TV HD
+http://jmrk.xyz:3050/Baker/2AFnCUkyAB/608646
+#EXTINF:-1, IN: STAR VIJAY HD
+http://jmrk.xyz:3050/Baker/2AFnCUkyAB/608227
+#EXTINF:-1, IN: VIJAY TV
+http://jmrk.xyz:3050/Baker/2AFnCUkyAB/608661
+#EXTINF:-1, IN: ZEE TAMIL HD
+http://jmrk.xyz:3050/Baker/2AFnCUkyAB/608123
+#EXTINF:-1, IN: COLORS TAMIL
+http://jmrk.xyz:3050/Baker/2AFnCUkyAB/608629
+#EXTINF:-1, IN: COLORS TAMIL HD
+http://jmrk.xyz:3050/Baker/2AFnCUkyAB/608544
+
+
 
 #EXTINF:-1,  IN: SUN TV FHD
 http://103.161.34.13:8080/live/Rajat111/Rajat123/355599.ts
@@ -95,6 +124,28 @@ http://103.161.34.13:8080/live/Rajat111/Rajat123/244519.ts
 http://103.161.34.13:8080/live/Rajat111/Rajat123/244625.ts
 #EXTINF:-1, VIP IND: COLORS TAMIL FHD
 http://103.161.34.13:8080/live/Rajat111/Rajat123/244635.ts
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="SK-TAMIL" tvg-logo="https://i.ibb.co/CV1Nf0p/In-Shot-20240519-225526863.jpg",SUN TV USE MX VLC PLAYER
+http://tv.cloudcdn.me:80/live.ts?channelId=43421&uid=5353&deviceMac=00:1A:79:17:D4:65
+#EXTINF:-1, SUN TV HD USE MX VLC PLAYER
+http://116.202.46.40:9023/SUN_TV_TAMIL/index.m3u8
+#EXTINF:-1, STAR VIJAY USE MX VLC PLAYER
+http://116.202.46.40:9023/STAR_VIJAY_4K_TAMIL/index.m3u8
+#EXTINF:-1, ZEE TAMIL USE MX VLC PLAYER
+http://116.202.46.40:9023/ZEE_TAMIL/index.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="SK-TAMIL" tvg-logo="https://i.ibb.co/CV1Nf0p/In-Shot-20240519-225526863.jpg",SUN TV HD USE MX VLC PLAYER
+http://14.102.123.50:9080/play/a06z
+#EXTINF:-1, SUN TV HD USE MX VLC PLAYER
+http://14.102.123.50:9080/play/a0z8
+#EXTINF:-1, SUN TV HD USE MX VLC PLAYER
+http://14.102.123.50:9080/play/a0yk
+#EXTINF:-1, STAR VIJAY HD USE MX VLC PLAYER
+http://14.102.123.50:9080/play/a0yf
+#EXTINF:-1,  ZEE TAMIL HD USE MX VLC PLAYER
+http://14.102.123.50:9080/play/a0yd
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="SK-TAMIL" tvg-logo="https://i.ibb.co/CV1Nf0p/In-Shot-20240519-225526863.jpg",
