@@ -190,9 +190,9 @@ http://livetvbox.live:8080/live/jareer.me ye/jerielnino.me/5922.ts
 #EXTINF:-1, SUN TV HD
 http://livetvbox.live:8080/live/jareer.me ye/jerielnino.me/5923.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="IND: TAMIL : Sun TV" tvg-logo="" group-title="IND | TAMIL",Opp:IND: TAMIL : Sun TV
+#EXTINF:-1 tvg-id="" tvg-name="IND: TAMIL : Sun TV" tvg-logo="" group-title="SK-TAMIL",Opp:IND: TAMIL : Sun TV
 http://xtv.ooo:8080/RiyazMPT/433833/244623
-#EXTINF:-1 tvg-id="" tvg-name="IND: TAMIL_Sun TV HD" tvg-logo="" group-title="IND | TAMIL",IND: TAMIL_Sun TV HD
+#EXTINF:-1 tvg-id="" tvg-name="IND: TAMIL_Sun TV HD" tvg-logo="" group-title="SK-TAMIL",IND: TAMIL_Sun TV HD
 http://xtv.ooo:8080/RiyazMPT/433833/244553
 
 #EXTINF:-1, IND: TAMIL_SUN TV HD
@@ -252,15 +252,15 @@ http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:6C:3E:2D&stream=945552&exte
 
 #EXTINF:-1,விஜய்.டிவி Vijay HD 
 http://iptvtree.net:8080/live/T-thornman/2126e132/19744.ts
-#EXTINF:-1 tvg-id="vijayhd.in" tvg-name="" group-title="TAMIL" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/6184.jpg",IN: விஜய் STAR  VIJAY  _4K
+#EXTINF:-1 tvg-id="vijayhd.in" tvg-name="" group-title="SK-TAMIL" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/6184.jpg",IN: விஜய் STAR  VIJAY  _4K
 http://zeestb1.online/dhoom.php?id=10767
-#EXTINF:-1 tvg-id="vijayhd.in" tvg-name="" group-title="TAMIL" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/4744.jpg",IN: விஜய் STAR VIJAY  _4K
+#EXTINF:-1 tvg-id="vijayhd.in" tvg-name="" group-title="SK-TAMIL" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/4744.jpg",IN: விஜய் STAR VIJAY  _4K
 http://zeestb1.online/dhoom.php?id=11431
-#EXTINF:-1 tvg-id="vijayhd.in" tvg-name="" group-title="TAMIL" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/1815.jpg",IN: விஜய் STAR VIJAY _4K
+#EXTINF:-1 tvg-id="vijayhd.in" tvg-name="" group-title="SK-TAMIL" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/1815.jpg",IN: விஜய் STAR VIJAY _4K
 http://zeestb1.online/dhoom.php?id=10768
-#EXTINF:-1 tvg-id="vijaysuper.in" tvg-name="" group-title="TAMIL" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/1444.jpg",IN: விஜய் VIJAY SUPER _4K
+#EXTINF:-1 tvg-id="vijaysuper.in" tvg-name="" group-title="SK-TAMIL" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/1444.jpg",IN: விஜய் VIJAY SUPER _4K
 http://zeestb1.online/dhoom.php?id=10607
-#EXTINF:-1 tvg-id="vijaysuper.in" tvg-name="" group-title="TAMIL" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/4508.jpg",IN: விஜய் VIJAY  SUPER_HD
+#EXTINF:-1 tvg-id="vijaysuper.in" tvg-name="" group-title="SK-TAMIL" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/4508.jpg",IN: விஜய் VIJAY  SUPER_HD
 http://zeestb1.online/dhoom.php?id=10608
 
 #EXTINF:-1, STAR VIJAY HD விஜய் டிவி tll
