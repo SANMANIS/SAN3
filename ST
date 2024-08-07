@@ -16,6 +16,8 @@ http://tv.cloudcdn.me:80/live.ts?channelId=43421&uid=5353&deviceMac=00:1A:79:17:
 http://217.20.112.199/suntv/index.m3u8
 #EXTINF:-1,  ZEE TAMIL HD
 http://sansat.net:25461/live/02026512172803/02026512172803/100169.ts
+#EXTINF:-1, IN: ZEE TAMIL HD
+http://jmrk.xyz:3050/Baker/2AFnCUkyAB/608123
 #EXTINF:-1, TM: ZEE TAMIL FHD INDIGO AUTO
 http://tv.cloudcdn.me:80/live.ts?channelId=43423&uid=12449&deviceMac=00:1A:79:A2:B5:0C
 #EXTINF:-1, TM: ZEE TAMIL FHD auto
