@@ -25,7 +25,10 @@ http://starshare.live:8080/series/rvdgdf7647564/bvchgfd235454/374183.mp4
 #EXTINF:-1, JJ-NEWS-TAMIL Salem
 https://live.skystream.in/live/jjnewstamil/index.m3u8
 
-
+#EXTINF:-1, Athavan tv
+https://jr7yv2wqda4v-hls-live.5centscdn.com/athavan/d0dbe915091d400bd8ee7f27f0791303.sdp/chunks.m3u8?md5=q91lFe4WwiipcUdeapvgXA&expires=1723121484
+#EXTINF:-1, IBC TAMIL
+https://tx1.ibctamil.tv/CDN_IBC_Tamil/index.m3u8
 
 #EXTM3U
 #EXTINF:-1 tvg-id="sunnews.in" tvg-name="" group-title="TAMIL NEWS" tvg-logo="https://watchindia.net/images/channels/tamil/Sun_News.png",SUN NEWS
