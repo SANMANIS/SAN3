@@ -429,6 +429,19 @@ http://notvstream.in/jothitv/jothitv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="SK-MOVIES" tvg-logo="https://i.ibb.co/CV1Nf0p/In-Shot-20240519-225526863.jpg",
 
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="SK-MOVIES" tvg-logo="https://i.ibb.co/CV1Nf0p/In-Shot-20240519-225526863.jpg",INDIAN 2 (2024) (TAMIL)
+http://starshare.live:8080//movie/rvdgdf7647564/bvchgfd235454/377811.mp4
+
+#EXTINF:-1,  7/G (2024) (TAMIL)
+http://starshare.live:8080//movie/rvdgdf7647564/bvchgfd235454/377810.mp4
+
+#EXTINF:-1,  KINGDOM OF THE PLANET OF THE APES (2024) (ENGLISH)  HD
+http://starshare.live:8080/movie/jareer.me ye/jerielnino.me/362672.mp4
+ 
+#EXTINF:-1, KINGDOM OF THE PLANET OF THE APES (2024) (TAMIL)(CAM)
+http://starshare.live:8080/movie/rvdgdf7647564/bvchgfd235454/329682.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="SK-MOVIES" tvg-logo="https://i.ibb.co/CV1Nf0p/In-Shot-20240519-225526863.jpg",BRINDA E1 crime thriller
 http://starshare.live:8080/series/rvdgdf7647564/bvchgfd235454/374176.mp4
 #EXTINF:-1, BRINDA E2 crime thriller
@@ -446,17 +459,6 @@ http://starshare.live:8080/series/rvdgdf7647564/bvchgfd235454/374182.mp4
 #EXTINF:-1, BRINDA E8 crime thriller
 http://starshare.live:8080/series/rvdgdf7647564/bvchgfd235454/374183.mp4
 
-#EXTINF:-1,  INDIAN 2 (2024) (TAMIL)
-http://starshare.live:8080//movie/rvdgdf7647564/bvchgfd235454/377811.mp4
-
-#EXTINF:-1,  7/G (2024) (TAMIL)
-http://starshare.live:8080//movie/rvdgdf7647564/bvchgfd235454/377810.mp4
-
-#EXTINF:-1,  KINGDOM OF THE PLANET OF THE APES (2024) (ENGLISH)  HD
-http://starshare.live:8080/movie/jareer.me ye/jerielnino.me/362672.mp4
- 
-#EXTINF:-1, KINGDOM OF THE PLANET OF THE APES (2024) (TAMIL)(CAM)
-http://starshare.live:8080/movie/rvdgdf7647564/bvchgfd235454/329682.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="SK-MOVIES" tvg-logo="https://i.ibb.co/CV1Nf0p/In-Shot-20240519", அன்பாலயம்-1996 - Hum Aapke Hain Koun tamil dub
 https://drive.usercontent.google.com/download?id=1leRihlQySAhbWxAJgvgV4AtHvYRdAVkT&export=download&confirm=t&uuid=9b44f0cb-f861-4198-9827-86574e2b3748
