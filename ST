@@ -572,7 +572,7 @@ https://drive.usercontent.google.com/download?id=1lhlFsNDHcVttzkEN6GNpiw6KCdx1u4
 http://starshare.live:8080/movie/rvdgdf7647564/bvchgfd235454/374847.mp4
 
 #EXTM3U
-#EXTINF:-1,DogMan (2023) (Tamil)
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="SK-MOVIES" tvg-logo="https://i.ibb.co/CV1Nf0p/In-Shot-20240519-225526863.jpg",DogMan (2023) (Tamil)
 http://starshare.live:8080/movie/rvdgdf7647564/bvchgfd235454/377792.mp4
 #EXTINF:-1,Nadanna Sambhavam (2024) (Tamil)
 http://starshare.live:8080/movie/rvdgdf7647564/bvchgfd235454/377795.mp4
