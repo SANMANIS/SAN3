@@ -38,6 +38,10 @@ http://iptvtree.net:8080/live/T-thornman/2126e132/45505.ts
 http://116.202.46.40:9023/ZEE_TAMIL/index.m3u8
 #EXTINF:-1,   STAR VIJAY HD
 http://sansat.net:25461/live/02026512172803/02026512172803/100153.ts
+#EXTINF:-1, Star vijay tv TAMIL 
+http://217.20.112.199/vijaytv/index.m3u8
+#EXTINF:-1, Star Vijay
+http://116.202.46.40:9023/STAR_VIJAY_4K_TAMIL/index.m3u8
 #EXTINF:-1, TM: STAR VIJAY
 http://217.20.112.199/vijaytv/index.m3u8
 #EXTINF:-1, TM: STAR VIJAY FHD auto 
@@ -426,6 +430,87 @@ http://sansat.net:25461/0CteMresihDS4dm/giKDy2HsDXKOii4/100109
 http://notvstream.in/jothitv/jothitv.m3u8
 
 
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="SK-TAMIL" tvg-logo="https://i.ibb.co/CV1Nf0p/In-Shot-20240519-225526863.jpg",Sun tv TAMIL 
+http://217.20.112.199/suntv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="SK-TAMIL" tvg-logo="https://i.ibb.co/CV1Nf0p/In-Shot-20240519-225526863.jpg",Sun tv
+http://116.202.46.40:9023/SUN_TV_TAMIL/index.m3u8
+#EXTINF:-1, Sun music
+http://116.202.46.40:9023/SUN_MUSIC_TAMIL/index.m3u8
+#EXTINF:-1, Star vijay tv TAMIL 
+http://217.20.112.199/vijaytv/index.m3u8
+#EXTINF:-1, Star Vijay
+http://116.202.46.40:9023/STAR_VIJAY_4K_TAMIL/index.m3u8
+#EXTINF:-1, Zee Tamil
+http://116.202.46.40:9023/ZEE_TAMIL/index.m3u8
+#EXTINF:-1, Colors tamil HD
+http://116.202.46.40:9023/COLORS_TAMIL/index.m3u8
+#EXTINF:-1, Vijay super
+http://116.202.46.40:9023/VIJAY_SUPER_TAMIL/index.m3u8
+#EXTINF:-1, Sun life
+http://116.202.46.40:9023/SUN_LIFE_TAMIL/index.m3u8
+#EXTINF:-1, Sun news
+http://116.202.46.40:9023/SUN_NEWS_TAMIL/index.m3u8
+#EXTINF:-1, Jaya max
+http://116.202.46.40:9023/JAYA_MAX_TAMIL/index.m3u8
+#EXTINF:-1, Jaya TV
+http://116.202.46.40:9023/JAYA_TV_TAMIL/index.m3u8
+#EXTINF:-1, Jaya movies
+http://116.202.46.40:9023/JAYA_MOVIES_TAMIL/index.m3u8
+#EXTINF:-1, RAJ TV
+http://116.202.46.40:9023/RAJ_TV_TAMIL/index.m3u8
+#EXTINF:-1, RAJ DIGITAL PLUS
+http://116.202.46.40:9023/RAJ_DIGITAL_PLUS_TAMIL/index.m3u8
+#EXTINF:-1, Fox life tamil
+http://116.202.46.40:9023/FOX_LIFE_TAMIL/index.m3u8
+#EXTINF:-1, Star suvarna 
+http://116.202.46.40:9023/STAR_SUVARNA_KANNADA/index.m3u8
+#EXTINF:-1, Gemini music 
+http://116.202.46.40:9023/GEMINI_MUSIC_TELUGU/index.m3u8
+#EXTINF:-1, Asianet Malayalam 
+http://116.202.46.40:9023/ASIANET_MALAYALAM/index.m3u8
+#EXTINF:-1, Asianet plus
+http://116.202.46.40:9023/ASIANET_PLUS_MALAYALAM/index.m3u8
+#EXTINF:-1, Asaianet news
+http://116.202.46.40:9023/ASIANET_NEWS_MALAYALAM/index.m3u8
+#EXTINF:-1, Zee tv
+http://217.20.112.199/zeetvhd/index.m3u8
+#EXTINF:-1, Star plus 
+http://217.20.112.199/starplushd/index.m3u8
+#EXTINF:-1, Zee cinema
+http://217.20.112.199/zeecinema/index.m3u8
+#EXTINF:-1, SURYA TV Malayalam 
+http://217.20.112.199/surya/index.m3u8
+#EXTINF:-1, Asaianet MALAYALAM 
+http://217.20.112.199/asianet/index.m3u8
+#EXTINF:-1, Pogo
+http://217.20.112.199/pogo/index.m3u8
+#EXTINF:-1, Andtv
+http://217.20.112.199/andtv/index.m3u8
+#EXTINF:-1, GEMINI TV
+http://217.20.112.199/gemini/index.m3u8
+#EXTINF:-1, Zee tv
+http://103.110.110.11:8081/live/zeetv/playlist.m3u8
+#EXTINF:-1, Tlc
+http://103.110.110.11:8081/live/TLC/playlist.m3u8
+#EXTINF:-1, HBO HD
+http://103.110.110.11:8081/live/hbo/playlist.m3u8
+#EXTINF:-1, Etv TELUGU
+http://116.202.46.40:9023/ETV_TELUGU/index.m3u8
+#EXTINF:-1, Etv life TELUGU
+http://116.202.46.40:9023/ETV_LIFE_TELUGU/index.m3u8
+#EXTINF:-1, Amirtha tv
+https://dr1zhpsuem5f4.cloudfront.net/master.m3u8
+#EXTINF:-1, Star maa
+http://45.127.56.3:6699/live/Corpus-POL1/SRV5/3/STAR-MAA-HD/live.m3u8
+#EXTINF:-1, Gemini music
+http://116.202.46.40:9023/GEMINI_MUSIC_TELUGU/index.m3u8
+#EXTINF:-1, Zee Telugu
+http://116.202.46.40:9023/ZEE_TELUGU/index.m3u8
+#EXTINF:-1, Etv TELUGU
+https://ythls.armelin.one/channel/UC6ickpgDIsltU_-8CbZaksQ.m3u8
+#EXTINF:-1, Surya movies
+http://116.202.46.40:9023/SURYA_MOVIES_MALAYALAM/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="SK-MOVIES" tvg-logo="https://i.ibb.co/CV1Nf0p/In-Shot-20240519-225526863.jpg",
 
