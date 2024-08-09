@@ -443,6 +443,10 @@ http://217.20.112.199/vijaytv/index.m3u8
 http://116.202.46.40:9023/STAR_VIJAY_4K_TAMIL/index.m3u8
 #EXTINF:-1, Zee Tamil
 http://116.202.46.40:9023/ZEE_TAMIL/index.m3u8
+#EXTINF:-1, Zee Tamil
+http://116.202.46.40:9023/ZEE_TAMIL/index.m3u8
+#EXTINF:-1, KTV tamil
+http://116.202.46.40:9023/KTV_TAMIL/index.m3u8
 #EXTINF:-1, Colors tamil HD
 http://116.202.46.40:9023/COLORS_TAMIL/index.m3u8
 #EXTINF:-1, Vijay super
@@ -511,6 +515,18 @@ http://116.202.46.40:9023/ZEE_TELUGU/index.m3u8
 https://ythls.armelin.one/channel/UC6ickpgDIsltU_-8CbZaksQ.m3u8
 #EXTINF:-1, Surya movies
 http://116.202.46.40:9023/SURYA_MOVIES_MALAYALAM/index.m3u8
+#EXTINF:-1, Surya Comedy Malayalam
+http://116.202.46.40:9023/SURYA_COMEDY_MALAYALAM/index.m3u8
+#EXTINF:-1, Surya music Malayalam
+http://116.202.46.40:9023/SURYA_MUSIC_MALAYALAM/index.m3u8
+#EXTINF:-1, MTV beats
+http://14.102.123.50:5001/live/753.m3u8
+#EXTINF:-1, MTV Beats
+http://103.84.57.155:8000/play/a045/index.m3u8
+#EXTINF:-1, MTV India
+http://14.102.123.50:5001/live/248.m3u8
+
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="SK-MOVIES" tvg-logo="https://i.ibb.co/CV1Nf0p/In-Shot-20240519-225526863.jpg",
 
