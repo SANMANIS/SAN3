@@ -538,6 +538,11 @@ http://14.102.123.50:5001/live/248.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="SK-MOVIES" tvg-logo="https://i.ibb.co/CV1Nf0p/In-Shot-20240519-225526863.jpg",INDIAN 2 (2024) (TAMIL)
 http://starshare.live:8080//movie/rvdgdf7647564/bvchgfd235454/377811.mp4
 
+#EXTINF:-1, ANDHAGAN 2024
+https://dl1.isaiminii.top//files/data/Andhagan_2024_Tamil_Full_Movie_CAMRip_720p_(isaimini.eu).mp4?st=hfNYyvwbnu9M7DAk5AUgyQ&e=1723658482
+#EXTINF:-1, ANDHAGAN 2024
+https://download.wetransfer.com/eugv/3f1ac51a85ba67111377e5af3b5c7aff20240810173429/1bacb2773ab818c58dfeab9a42123ed09ac6d9a7/Andhagan%202024%20720p%20HD.mp4?cf=y&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImRlZmF1bHQifQ.eyJleHAiOjE3MjM1ODUwMTUsImlhdCI6MTcyMzU3MDYxNSwiZG93bmxvYWRfaWQiOiIxOWI0YjM2OC1lOTFkLTRkMjgtOTBkOC1mZTZlYmVlYmU3YWQiLCJzdG9yYWdlX3NlcnZpY2UiOiJzdG9ybSJ9.RsHseh0BbeQlGzK1IPD-cAIr8jgMhO-uTygQGpfnxNU
+
 #EXTINF:-1,  7/G (2024) (TAMIL)
 http://starshare.live:8080//movie/rvdgdf7647564/bvchgfd235454/377810.mp4
 #EXTINF:-1, 7/G (2024) (TAMIL)
