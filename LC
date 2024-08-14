@@ -67,8 +67,10 @@ http://rasinetworks.in:1935/rasimovies/rasimovies.stream_aac/index.m3u8
 https://ipcloud.live/onetv/onemovies/index.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/tuU0c2fBxO8Znis6fBdXT-9-LVCEi0iG0_fNKbfQE58o7SLMidS7hnvgupSH9aBkq9U=w480-h960-rw" group-title="TAMIL RASI",CLICK MEDIA TV
 http://indiamatrix.in/clickmadurai/clickmadurai.m3u8
-#EXTINF:-1 tvg-logo="https://www.sunnetwork.in/ProgramImages/LargeImage/49_4_Colourful_Comedy_SAVE_20200706_112458_resize_79.jpghttps://i.ibb.co/5Bj8dWZ/Picsart-23-05-28-13-29-12-254.jpg" group-title="TAMIL RASITAMIL RASI",RASI COMEDY TVRASI MUSIC
+#EXTINF:-1 tvg-logo="https://www.sunnetwork.in/ProgramImages/LargeImage/49_4_Colourful_Comedy_SAVE_20200706_112458_resize_79.jpghttps://i.ibb.co/5Bj8dWZ/Picsart-23-05-28-13-29-12-254.jpg" group-title="TAMIL RASITAMIL RASI",RASI MUSIC
 http://rasinetworks.in:1935/rasimusic/rasimusic.stream_aac/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TAMIL RASI" tvg-logo="https://www.sunnetwork.in/ProgramImages/LargeImage/49_4_Colourful_Comedy_SAVE_20200706_112458_resize_79.jpg",RASI COMEDY TV
+rtmp://rasinetworks.in:1935/rasicomedy/rasicomedy.stream_aac
 #EXTINF:-1 tvg-logo="https://www.247tamilradios.com/storage/images/tvs/22d27c42b8520f313cecda20686f9733.png" group-title="TAMIL RASI",RASI HOLLYWOOD
 http://rasinetworks.in:1935/rasihollywood/rasihollywood.stream_aac/index.m3u8
 #EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FoneHollywoodHd.jpg?alt=media&token=0c552991-77ad-42de-9e4c-8c6f4847285e" group-title="TAMIL RASI",ONE HOLLYWOOD HD
