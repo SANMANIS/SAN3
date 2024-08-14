@@ -30,7 +30,10 @@ https://utubev2.psrutube.workers.dev/stream/UCYmUbCx3q38TJo4_qN-_uAA/master.m3u8
 #EXTINF:-1 tvg-logo="https://tataprime.wordpress.com/wp-content/uploads/2024/06/20240606_0958177649308844459586555.png" group-title="TAMIL NEWS",POLIMER NEWS TV
 https://segment.yuppcdn.net/110322/polimernews/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/playnow-7ce03.appspot.com/o/LOGO%2FTAMIL-NEWS%2FNEWS-18-TAMIL.png?alt=media&token=5e15b20a-507e-4458-bd00-e963aabf28b5" group-title="TAMIL NEWS",NEWS18 TAMIL TV
-http://ptuf.ridsys.in/riptv/live/stream218/index.m3u8
+http://ptuf.ridsys.in/riptv/live/stream218/index.m3u
+
+#EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th?id=OIP.Cqb5uP-EwF8WfONYlIVXAQHaHa&pid=Api&P=0&h=220" group-title="TAMIL RASI",IMAI TV
+https://glb.bozztv.com/glb/ssh101/imaitv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="TAMIL RASI" tvg-logo="https://image.winudf.com/v2/image/aW5kaWFtYXRyaXgucmFzaXR2X3NjcmVlbl8xXzE1MzE1NDE5NTVfMDk1/screen-1.jpg?fakeurl=1&type=.jpg",RASI TV
 rtmp://rasinetworks.in:1935/rasitvhd/rasitvhd.stream_aac
 #EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image/aW5kaWFtYXRyaXgucmFzaXR2X3NjcmVlbl8xXzE1MzE1NDE5NTVfMDk1/screen-1.jpg?fakeurl=1&type=.jpghttps://247tamilradios.com/storage/images/tvs/f05b9e02b0d6ee94bb090f809f93d7ec.png" group-title="TAMIL RASITAMIL RASI",RASI TAMIL
@@ -41,8 +44,6 @@ http://rasinetworks.in:1935/rasimovies/rasimovies.stream_aac/index.m3u8
 https://ipcloud.live/onetv/onemovies/index.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/tuU0c2fBxO8Znis6fBdXT-9-LVCEi0iG0_fNKbfQE58o7SLMidS7hnvgupSH9aBkq9U=w480-h960-rw" group-title="TAMIL RASI",CLICK MEDIA TV
 http://indiamatrix.in/clickmadurai/clickmadurai.m3u8
-#EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th?id=OIP.Cqb5uP-EwF8WfONYlIVXAQHaHa&pid=Api&P=0&h=220" group-title="TAMIL RASI",IMAI TV
-https://glb.bozztv.com/glb/ssh101/imaitv/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.sunnetwork.in/ProgramImages/LargeImage/49_4_Colourful_Comedy_SAVE_20200706_112458_resize_79.jpghttps://i.ibb.co/5Bj8dWZ/Picsart-23-05-28-13-29-12-254.jpg" group-title="TAMIL RASITAMIL RASI",RASI MUSIC
 http://rasinetworks.in:1935/rasimusic/rasimusic.stream_aac/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="TAMIL RASI" tvg-logo="https://www.sunnetwork.in/ProgramImages/LargeImage/49_4_Colourful_Comedy_SAVE_20200706_112458_resize_79.jpg",RASI COMEDY TV
