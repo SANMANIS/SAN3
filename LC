@@ -64,7 +64,7 @@ https://ipcloud.live/rtvhd/live/index.m3u8
 https://stream.onecloudlive.in/advika/advika/index.m3u8
 #EXTINF:-1 group-title="1CLOUD",PAVAI TV
 https://ipcloud.live/paavai/live/index.m3u8
-#EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/cloud-multiapp.appspot.com/o/THENDRAL1.png?alt=media&token=f24c6a18-ec72-44b4-86db-a81791b4c5bf" group-title="1CLOUD1CLOUD",RS TV HDTHENTRAL2 AATHI TV
+#EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/cloud-multiapp.appspot.com/o/THENDRAL1.png?alt=media&token=f24c6a18-ec72-44b4-86db-a81791b4c5bf" group-title="1CLOUD1CLOUD",THENTRAL2
 https://ipcloud.live/thendralmdu/thendral2/index.m3u8
 #EXTINF:-1 group-title="1CLOUD",SANTHIYA TV
 http://santhiyatv.stream.onecloudlive.in:8080/santhiyatv/santhiyatvhd/index.m3u8
@@ -74,7 +74,7 @@ https://stream.onecloudlive.in/taitaltv/live/index.m3u8
 https://ipcloud.live/thirumalaitv/thirumalaitv/index.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/j_nd-RF3Mr6_LORWSYTN3lxm4MtTbFQXHS2dwpKA96KTpXmnCBdcuwKDo_PZc-cNZMM=w240-h480-rw" group-title="1CLOUD",VTR HD
 http://vtrtelevision.stream.onecloudlive.in:8080/vtrtelevision/vtrhd/index.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/EPUT5s-IW087AjK5fm4UtbtZTU5DL7zvSpuNkU58dfXtvTaJr6_ECITrc9mAEy7jfyg=w480-h960-rwhttps://firebasestorage.googleapis.com/v0/b/cloud-multiapp.appspot.com/o/RNR.png?alt=media&token=0aeec133-6ba3-40c8-8b81-a74df1a4c9be" group-title="1CLOUD1CLOUD",PHOENIX HDRNR HD
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/EPUT5s-IW087AjK5fm4UtbtZTU5DL7zvSpuNkU58dfXtvTaJr6_ECITrc9mAEy7jfyg=w480-h960-rwhttps://firebasestorage.googleapis.com/v0/b/cloud-multiapp.appspot.com/o/RNR.png?alt=media&token=0aeec133-6ba3-40c8-8b81-a74df1a4c9be" group-title="1CLOUD1CLOUD",RNR HD
 https://stream.onecloudlive.in/rnr/rnrhd/index.m3u8
 #EXTINF:-1 group-title="1CLOUD",MUSIC STAR TV
 https://stream.onecloudlive.in/musicstartv/musicstartv/index.m3u8
