@@ -81,7 +81,7 @@ https://stream.onecloudlive.in/rnr/rnrhd/index.m3u8
 https://stream.onecloudlive.in/musicstartv/musicstartv/index.m3u8
 #EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/ipcloud-app-ee03e.appspot.com/o/logo%2Fleo-tv.png?alt=media&token=bbec0922-0a8c-4680-a764-bbd6115cd4cc" group-title="1CLOUD",LEO TV
 https://ipcloud.live/leotv/leotvhd/index.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/Ja_a7W1ZKZdZG8T4jxP2TxUsW9nD1g2-bVPbfSgeWL3xlyyhixj5DdIZovjHCViXO2sM=w480-h960-rw" group-title="1CLOUD1CLOUD",RV TVVANI VISUALS TV
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/Ja_a7W1ZKZdZG8T4jxP2TxUsW9nD1g2-bVPbfSgeWL3xlyyhixj5DdIZovjHCViXO2sM=w480-h960-rw" group-title="1CLOUD1CLOUD",VAN VISUALS TV
 https://ipcloud.live/vaani/visuals/index.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/MwzEjf3_MYGDY7ps9rVfc8Oh8ZGAveU8x_MSYQ0UZWdu4Lur6qf8EqWOvCIZaK7rFg=w480-h960-rw" group-title="1CLOUD",CITY TV
 http://citytv.stream.onecloudlive.in/citytv/citytvhd/index.m3u8
