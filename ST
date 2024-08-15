@@ -557,6 +557,12 @@ http://14.102.123.50:5001/live/248.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="SK-MOVIES" tvg-logo="https://i.ibb.co/CV1Nf0p/In-Shot-20240519-225526863.jpg",INDIAN 2 (2024) (TAMIL)
 http://starshare.live:8080//movie/rvdgdf7647564/bvchgfd235454/377811.mp4
 
+#EXTINF:-1, DEMONTE COLONY (2015) tamil hindi
+http://103.161.34.13:8080/movie/926320521/2229994223/324172.mkv
+ 
+#EXTINF:-1, DEMONTE COLONY (2015) use mx vlc plyer
+https://dl5.hotshare.fun/Moviesda.Mobi_-_Demonte_Colony_2015_Original_720p_HD.mp4
+
 #EXTINF:-1, ANDHAGAN (2024) (TAMIL) (CAM)
 http://starshare.live:8080//movie/rvdgdf7647564/bvchgfd235454/379242.mp4
 
