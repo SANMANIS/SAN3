@@ -34,6 +34,8 @@ http://tv.cloudcdn.me:80/live.ts?channelId=43423&uid=12449&deviceMac=00:1A:79:A2
 http://tv.cloudcdn.me:80/live.ts?channelId=43423&uid=5353&deviceMac=00:1A:79:17:D4:65
 #EXTINF:-1, TM: ZEE TAMIL FHD auto
 http://tv.cloudcdn.me:80/live.ts?channelId=128481&uid=5353&deviceMac=00:1A:79:17:D4:65
+#EXTINF:-1, Ta ZEE TAMIL
+http://tv.cloudcdn.me/live.ts?channelId=43423&uid=6469&deviceMac=00:1A:79:B7:2F:EA
 #EXTINF:-1, zee tamil HD ஜீதமிழ்
 http://iptvtree.net:8080/live/T-thornman/2126e132/45505.ts
 #EXTINF:-1, Zee Tamil
@@ -75,6 +77,21 @@ https://prod-ent-live-gm.jiocinema.com/bpk-tv/JC_ColorsTamilHD/JCHLS/index.m3u8
 http://103.161.34.13:8080/live/Rajat111/Rajat123/244625.ts
 #EXTINF:-1,  COLORS TAMIL
 http://116.202.46.40:9023/COLORS_TAMIL/index.m3u8
+
+
+#EXTINF:-1, Chutti TV
+http://14.102.123.50:5001/live/557.m3u8
+#EXTINF:-1, Pogo Tamil
+http://14.102.123.50:5001/live/542.m3u8
+#EXTINF:-1, Vijay super
+http://116.202.46.40:789/VIJAY_SUPER_TAMIL/index.m3u8
+#EXTINF:-1, KTV tamil
+http://116.202.46.40:789/KTV_TAMIL/index.m3u8
+#EXTINF:-1, Star gold
+http://116.202.46.40:789/STAR_GOLD_HINDI/index.m3u8
+#EXTINF:-1, Sony max
+http://116.202.46.40:789/SONY_MAX_HINDI/index.m3u8
+
 
 #EXTINF:-1, SUN TV HD
 http://ktv.im:8080/111222/222111/82906
