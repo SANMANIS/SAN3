@@ -2408,7 +2408,13 @@ https://drive.usercontent.google.com/download?id=1CTgNnf1uGk6l2YSfYt-oPOmt8uEsiA
 
 #EXTINF:-1 Hindi & AI HINDI
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Hindi" tvg-logo="", D24 HINDI MUSIC
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Hindi" tvg-logo="", Saga music hindi livr SONG SAT.SK
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-sagamusic-xiaomi/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Hindi" tvg-logo="", Yrf HINDI music live SONG SAT.SK
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Hindi" tvg-logo="", D24 HINDI MUSIC live SONG SAT.SK
 http://103.151.157.112:1935/manik/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Hindi" tvg-logo="", 8K Remastered - Choli ke Peeche Kya Hai _ Madhuri Dixit _ Khal Nayak(1080P_60FPS) SONG SAT.SK
