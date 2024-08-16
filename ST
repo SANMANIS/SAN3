@@ -24,12 +24,24 @@ http://217.20.112.199/suntv/index.m3u8
 http://217.20.112.199/suntv/index.m3u8
 #EXTINF:-1, Sun tv TAMIL
 http://116.202.46.40:9023/SUN_TV_TAMIL/index.m3u8
+#EXTINF:-1, SUN TV HD
+http://ktv.im:8080/live/1234512345/1234512345/82906.ts
+#EXTINF:-1, SUN TV  (4K)
+http://ktv.im:8080/live/1234512345/1234512345/82908.ts
+#EXTINF:-1, SUN TV USA
+http://ktv.im:8080/live/1234512345/1234512345/82911.ts:
 #EXTINF:-1, ZEE TAMIL HD
 http://sansat.net:25461/live/02026512172803/02026512172803/100169.ts
 #EXTINF:-1, ZEE TAMIL
 http://116.202.46.40:9023/ZEE_TAMIL/index.m3u8
 #EXTINF:-1, TM: ZEE TAMIL FHD INDIGO AUTO
 http://tv.cloudcdn.me:80/live.ts?channelId=43423&uid=12449&deviceMac=00:1A:79:A2:B5:0C
+#EXTINF:-1, ZEE TAMIL
+http://ktv.im:8080/live/1234512345/1234512345/82916.ts
+#EXTINF:-1, IZEE TAMIL  (4K)
+http://ktv.im:8080/live/1234512345/1234512345/82917.ts
+#EXTINF:-1, ZEE TAMIL HD (USA)
+http://ktv.im:8080/live/1234512345/1234512345/82919.ts
 #EXTINF:-1, TM: ZEE TAMIL FHD auto
 http://tv.cloudcdn.me:80/live.ts?channelId=43423&uid=5353&deviceMac=00:1A:79:17:D4:65
 #EXTINF:-1, TM: ZEE TAMIL FHD auto
@@ -58,6 +70,10 @@ http://tv.cloudcdn.me:80/live.ts?channelId=43419&uid=5353&deviceMac=00:1A:79:17:
 http://217.20.112.199/vijaytv/index.m3u8
 #EXTINF:-1, share STAR VIJAY
 http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/157.ts
+#EXTINF:-1, STAR VIJAY HD
+http://ktv.im:8080/live/1234512345/1234512345/82897.ts
+#EXTINF:-1, STAR VIJAY  (4K)
+http://ktv.im:8080/live/1234512345/1234512345/82900.ts
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="SK-TAMIL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlU3LPv5IxC2BzgMx4ygacXvDGs1WB0wl5MEtcUPBxE5U4EqM2EqHJtMY&s=10",THANTHI ONE HD
@@ -69,6 +85,10 @@ http://sansat.net:25461/live/02026512172803/02026512172803/100109.ts
 http://tv.cloudcdn.me:80/live.ts?channelId=43408&uid=5353&deviceMac=00:1A:79:17:D4:65
 #EXTINF:-1, Colors tamil HD
 http://116.202.46.40:9023/COLORS_TAMIL/index.m3u8
+#EXTINF:-1, COLORS TAMIL HD
+http://ktv.im:8080/live/1234512345/1234512345/82892.ts
+#EXTINF:-1, COLORS TAMIL (4K)
+http://ktv.im:8080/live/1234512345/1234512345/82894.ts
 #EXTINF:-1, COLORS TAMIL HD
 http://sansat.net:25461/0CteMresihDS4dm/giKDy2HsDXKOii4/100109
 #EXTINF:-1, COLORS TAMIL HD
@@ -142,6 +162,27 @@ http://jmrk.xyz:3050/Baker/2AFnCUkyAB/608629
 #EXTINF:-1, IN: COLORS TAMIL HD
 http://jmrk.xyz:3050/Baker/2AFnCUkyAB/608544
 
+
+#EXTINF:-1, COLORS TAMIL HD
+http://ktv.im:8080/live/1234512345/1234512345/82892.ts
+#EXTINF:-1, COLORS TAMIL (4K)
+http://ktv.im:8080/live/1234512345/1234512345/82894.ts
+#EXTINF:-1, STAR VIJAY HD
+http://ktv.im:8080/live/1234512345/1234512345/82897.ts
+#EXTINF:-1, STAR VIJAY  (4K)
+http://ktv.im:8080/live/1234512345/1234512345/82900.ts
+#EXTINF:-1, SUN TV HD
+http://ktv.im:8080/live/1234512345/1234512345/82906.ts
+#EXTINF:-1, SUN TV  (4K)
+http://ktv.im:8080/live/1234512345/1234512345/82908.ts
+#EXTINF:-1, SUN TV USA
+http://ktv.im:8080/live/1234512345/1234512345/82911.ts
+#EXTINF:-1, ZEE TAMIL
+http://ktv.im:8080/live/1234512345/1234512345/82916.ts
+#EXTINF:-1, IZEE TAMIL  (4K)
+http://ktv.im:8080/live/1234512345/1234512345/82917.ts
+#EXTINF:-1, ZEE TAMIL HD (USA)
+http://ktv.im:8080/live/1234512345/1234512345/82919.ts
 
 
 #EXTINF:-1,  IN: SUN TV FHD
