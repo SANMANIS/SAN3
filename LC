@@ -11,10 +11,7 @@ https://drive.usercontent.google.com/download?id=1ydVdo04a_PoRK3ZCqmpr467fGMxoBK
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="ALL" tvg-logo="https://i.ibb.co/CV1Nf0p/In-Shot-20240519-225526863.jpg", ENGADA TV எங்கடா டிவி
 http://ktv.im:8080/live/1234512345/1234512345/82993.ts
 
-#EXTINF:-1, Vikatan tv TAMIL
-https://d35j504z0x2vu2.cloudfront.net:443/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/vikatan-tv/../../../manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/vikatan-tv/d0d10fd5-2afb-45a9-97f1-897d0fec0724/0.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTi4tvy2rsFEYgn4d7YFH-AngFANZcc3l85qq_uEOgKvajmKvis6ilM6veG&s=10" group-title="TAMIL NEWS", JJ-NEWS-TAMIL Salem
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTi4tvy2rsFEYgn4d7YFH-AngFANZcc3l85qq_uEOgKvajmKvis6ilM6veG&s=10" group-title="ALL", JJ-NEWS-TAMIL Salem
 https://live.skystream.in/live/jjnewstamil/index.m3u8
 
 #EXTM3U
