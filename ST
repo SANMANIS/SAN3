@@ -605,6 +605,11 @@ http://14.102.123.50:5001/live/248.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="SK-MOVIES" tvg-logo="https://i.ibb.co/CV1Nf0p/In-Shot-20240519-225526863.jpg",
 
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="SK-MOVIES" tvg-logo="https://i.ibb.co/CV1Nf0p/In-Shot-20240519", அன்பாலயம்-1996 - Hum Aapke Hain Koun tamil dub
+https://drive.usercontent.google.com/download?id=1leRihlQySAhbWxAJgvgV4AtHvYRdAVkT&export=download&confirm=t&uuid=9b44f0cb-f861-4198-9827-86574e2b3748
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="SK-MOVIES" tvg-logo="https://i.ibb.co/CV1Nf0p/In-Shot-20240519", காதல் ஒரு கவிதை - Maine Pyar Kiya Tamil Dubbed
+https://drive.usercontent.google.com/download?id=1lhlFsNDHcVttzkEN6GNpiw6KCdx1u48n&export=download&confirm=t&uuid=93f72be6-4bcb-49c4-8ce3-56d08719841d
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="SK-MOVIES" tvg-logo="https://i.ibb.co/CV1Nf0p/In-Shot-20240519-225526863.jpg",INDIAN 2 (2024) (TAMIL)
 http://starshare.live:8080//movie/rvdgdf7647564/bvchgfd235454/377811.mp4
@@ -683,7 +688,6 @@ http://starshare.live:8080/movie/rvdgdf7647564/bvchgfd235454/378222.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="SK-MOVIES" tvg-logo="https://i.ibb.co/CV1Nf0p/In-Shot-20240519", அன்பாலயம்-1996 - Hum Aapke Hain Koun tamil dub
 https://drive.usercontent.google.com/download?id=1leRihlQySAhbWxAJgvgV4AtHvYRdAVkT&export=download&confirm=t&uuid=9b44f0cb-f861-4198-9827-86574e2b3748
-
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="SK-MOVIES" tvg-logo="https://i.ibb.co/CV1Nf0p/In-Shot-20240519", காதல் ஒரு கவிதை - Maine Pyar Kiya Tamil Dubbed
 https://drive.usercontent.google.com/download?id=1lhlFsNDHcVttzkEN6GNpiw6KCdx1u48n&export=download&confirm=t&uuid=93f72be6-4bcb-49c4-8ce3-56d08719841d
 
