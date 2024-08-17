@@ -614,6 +614,9 @@ https://drive.usercontent.google.com/download?id=1lhlFsNDHcVttzkEN6GNpiw6KCdx1u4
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="SK-MOVIES" tvg-logo="https://i.ibb.co/CV1Nf0p/In-Shot-20240519-225526863.jpg",INDIAN 2 (2024) (TAMIL)
 http://starshare.live:8080//movie/rvdgdf7647564/bvchgfd235454/377811.mp4
 
+#EXTINF:-1, Vennila Kabaddi Kuzhu 2 (2019)
+https://dn720409.ca.archive.org/0/items/100-2019-tamil-1080p-blu-ray-x-264.-tajpata.-com/Vennila%20Kabaddi%20Kuzhu%202%20%282019%29_.ia.mp4
+
 #EXTINF:-1,  INDIAN-1 1996 HD [TAMIL]
 http://ktv.im:8080/movie/1234512345/1234512345/299930.mkv
 
