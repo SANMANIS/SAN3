@@ -19,7 +19,7 @@ http://sansat.net:25461/live/02026512172803/02026512172803/100157.ts
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="SK-TAMIL" tvg-logo="https://i.ibb.co/CV1Nf0p/In-Shot-20240519-225526863.jpg",TM: SUN TV FHD auto
 http://tv.cloudcdn.me:80/live.ts?channelId=43421&uid=5353&deviceMac=00:1A:79:17:D4:65
 #EXTINF:-1, TAMIL: SUN TV HD
-http://sansat.net:25461/F40gqMQHrutgfdd/xCdykcmN6X/100157.ts
+
 #EXTINF:-1, Sun tv TAMIL
 http://217.20.112.199/suntv/index.m3u8
 #EXTINF:-1, Sun tv TAMIL
@@ -33,11 +33,11 @@ http://ktv.im:8080/live/1234512345/1234512345/82911.ts:
 #EXTINF:-1, SUN TV HD
 http://ktv.im:8080/live/1234512345/1234512345/82906.ts
 #EXTINF:-1, ZEE TAMIL HD
-http://sansat.net:25461/live/02026512172803/02026512172803/100169
+http://sansat.net:25461/live/02026512172803/02026512172803/100169.ts
 #EXTINF:-1,  TAMIL: ZEE TAMIL HD
-http://sansat.net:25461/F40gqMQHrutgfdd/xCdykcmN6X/100170
+
 #EXTINF:-1,  TAMIL: ZEE TAMIL SD
-http://sansat.net:25461/F40gqMQHrutgfdd/xCdykcmN6X/100109
+
 #EXTINF:-1, ZEE TAMIL
 http://116.202.46.40:9023/ZEE_TAMIL/index.m3u8
 #EXTINF:-1, TM: ZEE TAMIL FHD INDIGO AUTO
@@ -65,9 +65,9 @@ http://194.147.17.171:3050/Baker/2AFnCUkyAB/608123?token=TBdbWBBdEl4VAwQCBlUBUlR
 #EXTINF:-1, STAR VIJAY HD
 http://sansat.net:25461/live/02026512172803/02026512172803/100153.ts
 #EXTINF:-1, TAMIL: STAR VIJAY HD
-http://sansat.net:25461/F40gqMQHrutgfdd/xCdykcmN6X/100153
+
 #EXTINF:-1, Star vijay tv TAMIL 
-http://217.20.112.199/vijaytv/index.m3u8
+
 #EXTINF:-1, Star Vijay
 http://116.202.46.40:9023/STAR_VIJAY_4K_TAMIL/index.m3u8
 #EXTINF:-1, TM: STAR VIJAY
@@ -92,7 +92,7 @@ http://sansat.net:25461/live/02026512172803/02026512172803/100109.ts
 #EXTINF:-1, COLORS TAMIL HD
 
 #EXTINF:-1,  TAMIL: COLORS TAMIL HD
-http://sansat.net:25461/F40gqMQHrutgfdd/xCdykcmN6X/100109
+
 #EXTINF:-1, TM: COLORS TAMIL FHD auto
 http://tv.cloudcdn.me:80/live.ts?channelId=43408&uid=5353&deviceMac=00:1A:79:17:D4:65
 #EXTINF:-1, Colors tamil HD
