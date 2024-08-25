@@ -289,173 +289,152 @@ http://tv.cloudcdn.me:80/live.ts?channelId=289&uid=5353&deviceMac=00:1A:79:17:D4
 Watch SP: SONY SPORTS 2 FHD
 http://tv.cloudcdn.me:80/live.ts?channelId=290&uid=5353&deviceMac=00:1A:79:17:D4:65
 
+Watch SP: SONY SPORTS 3 FHD
+http://tv.cloudcdn.me:80/live.ts?channelId=291&uid=5353&deviceMac=00:1A:79:17:D4:65
 
-Watch SP: SONY SPORTS 3 FHD here the link auto http://tv.cloudcdn.me:80/live.ts?channelId=291&uid=5353&deviceMac=00:1A:79:17:D4:65
- Shared with IPTV Extreme
+Watch SP: SONY SPORTS 4 FHD
+http://tv.cloudcdn.me:80/live.ts?channelId=105349&uid=5353&deviceMac=00:1A:79:17:D4:65
 
+Watch SP: SONY SPORTS 5 FHD
+http://tv.cloudcdn.me:80/live.ts?channelId=105350&uid=5353&deviceMac=00:1A:79:17:D4:65
 
-Watch SP: SONY SPORTS 4 FHD here the link auto http://tv.cloudcdn.me:80/live.ts?channelId=105349&uid=5353&deviceMac=00:1A:79:17:D4:65
- Shared with IPTV Extreme
+Watch SP: SPORTS 18 1 FHD
+http://tv.cloudcdn.me:80/live.ts?channelId=102479&uid=5353&deviceMac=00:1A:79:17:D4:65
 
-Watch SP: SONY SPORTS 5 FHD here the link auto http://tv.cloudcdn.me:80/live.ts?channelId=105350&uid=5353&deviceMac=00:1A:79:17:D4:65
- Shared with IPTV Extreme
+Watch SP: SPORTS TRENDS TV
+http://tv.cloudcdn.me:80/live.ts?channelId=292&uid=5353&deviceMac=00:1A:79:17:D4:65
 
-Watch SP: SPORTS 18 1 FHD here the link auto http://tv.cloudcdn.me:80/live.ts?channelId=102479&uid=5353&deviceMac=00:1A:79:17:D4:65
- Shared with IPTV Extreme
+Watch SP: STAR SPORTS 1 FHD
+http://tv.cloudcdn.me:80/live.ts?channelId=293&uid=5353&deviceMac=00:1A:79:17:D4:65
 
-Watch SP: SPORTS TRENDS TV here the link auto http://tv.cloudcdn.me:80/live.ts?channelId=292&uid=5353&deviceMac=00:1A:79:17:D4:65
- Shared with IPTV Extreme
+Watch SP: STAR SPORTS 1 FHD
+http://tv.cloudcdn.me:80/live.ts?channelId=49566&uid=5353&deviceMac=00:1A:79:17:D4:65
 
+Watch SP: STAR SPORTS 1 HINDI FHD
+http://tv.cloudcdn.me:80/live.ts?channelId=295&uid=5353&deviceMac=00:1A:79:17:D4:65
 
-Watch SP: STAR SPORTS 1 FHD here the link auto http://tv.cloudcdn.me:80/live.ts?channelId=293&uid=5353&deviceMac=00:1A:79:17:D4:65
- Shared with IPTV Extreme
+Watch SP: STAR SPORTS 1 HINDI FHD
+http://tv.cloudcdn.me:80/live.ts?channelId=49569&uid=5353&deviceMac=00:1A:79:17:D4:65
 
+Watch SP: STAR SPORTS 2 FHD
+http://tv.cloudcdn.me:80/live.ts?channelId=298&uid=5353&deviceMac=00:1A:79:17:D4:65
 
-Watch SP: STAR SPORTS 1 FHD. here the link auto http://tv.cloudcdn.me:80/live.ts?channelId=49566&uid=5353&deviceMac=00:1A:79:17:D4:65
- Shared with IPTV Extreme
+Watch SP: STAR SPORTS 2 FHD
+http://tv.cloudcdn.me:80/live.ts?channelId=49568&uid=5353&deviceMac=00:1A:79:17:D4:65
 
-Watch AN VE ZAMAN on SP: STAR SPORTS 1 HINDI FHD here the link auto http://tv.cloudcdn.me:80/live.ts?channelId=295&uid=5353&deviceMac=00:1A:79:17:D4:65
- Shared with IPTV Extreme
+Watch SP: STAR SPORTS 3 FHD
+here the link auto http://tv.cloudcdn.me:80/live.ts?channelId=39098&uid=5353&deviceMac=00:1A:79:17:D4:65
 
+Watch SP: STAR SPORTS SELECT 1 FHD
+http://tv.cloudcdn.me:80/live.ts?channelId=299&uid=5353&deviceMac=00:1A:79:17:D4:65
 
-Watch AN VE ZAMAN on SP: STAR SPORTS 1 HINDI FHD. here the link auto http://tv.cloudcdn.me:80/live.ts?channelId=49569&uid=5353&deviceMac=00:1A:79:17:D4:65
- Shared with IPTV Extreme
+Watch SP: STAR SPORTS SELECT 2 FHD
+http://tv.cloudcdn.me:80/live.ts?channelId=300&uid=5353&deviceMac=00:1A:79:17:D4:65
 
+Watch SP: STARZPLAY CRICLIFE 1 FHD
+http://tv.cloudcdn.me:80/live.ts?channelId=125421&uid=5353&deviceMac=00:1A:79:17:D4:65
 
-Watch SP: STAR SPORTS 2 FHD here the link auto http://tv.cloudcdn.me:80/live.ts?channelId=298&uid=5353&deviceMac=00:1A:79:17:D4:65
- Shared with IPTV Extreme
+Watch SP: T SPORTS FHD
+http://tv.cloudcdn.me:80/live.ts?channelId=48010&uid=5353&deviceMac=00:1A:79:17:D4:65
 
+Watch SP: TNT SPORTS 1 FHD
+http://tv.cloudcdn.me:80/live.ts?channelId=267&uid=5353&deviceMac=00:1A:79:17:D4:65
 
-Watch SP: STAR SPORTS 2 FHD. here the link auto http://tv.cloudcdn.me:80/live.ts?channelId=49568&uid=5353&deviceMac=00:1A:79:17:D4:65
- Shared with IPTV Extreme
+Watch SP: TNT SPORTS 2 FHD
+http://tv.cloudcdn.me:80/live.ts?channelId=268&uid=5353&deviceMac=00:1A:79:17:D4:65
 
+Watch SP: TNT SPORTS 3 FHD
+http://tv.cloudcdn.me:80/live.ts?channelId=269&uid=5353&deviceMac=00:1A:79:17:D4:65
 
-Watch SP: STAR SPORTS 3 FHD here the link auto http://tv.cloudcdn.me:80/live.ts?channelId=39098&uid=5353&deviceMac=00:1A:79:17:D4:65
- Shared with IPTV Extreme
+Watch SP: TNT SPORTS 4 FHD
+http://tv.cloudcdn.me:80/live.ts?channelId=270&uid=5353&deviceMac=00:1A:79:17:D4:65
 
+Watch SP: TNT SPORTS 5 FHD
+http://tv.cloudcdn.me:80/live.ts?channelId=78867&uid=5353&deviceMac=00:1A:79:17:D4:65
 
-Watch SP: STAR SPORTS SELECT 1 FHD here the link auto http://tv.cloudcdn.me:80/live.ts?channelId=299&uid=5353&deviceMac=00:1A:79:17:D4:65
- Shared with IPTV Extreme
+Watch SP: TSN 1
+http://tv.cloudcdn.me:80/live.ts?channelId=28961&uid=5353&deviceMac=00:1A:79:17:D4:65
 
+Watch SP: TSN 2
+http://tv.cloudcdn.me:80/live.ts?channelId=28962&uid=5353&deviceMac=00:1A:79:17:D4:65
 
-Watch SP: STAR SPORTS SELECT 2 FHD here the link auto http://tv.cloudcdn.me:80/live.ts?channelId=300&uid=5353&deviceMac=00:1A:79:17:D4:65
- Shared with IPTV Extreme
+Watch SP: TSN 3
+http://tv.cloudcdn.me:80/live.ts?channelId=28963&uid=5353&deviceMac=00:1A:79:17:D4:65
 
-Watch SP: STARZPLAY CRICLIFE 1 FHD here the link auto http://tv.cloudcdn.me:80/live.ts?channelId=125421&uid=5353&deviceMac=00:1A:79:17:D4:65
- Shared with IPTV Extreme
+Watch SP: TSN 4
+http://tv.cloudcdn.me:80/live.ts?channelId=28964&uid=5353&deviceMac=00:1A:79:17:D4:65
 
-Watch SP: T SPORTS FHD here the link auto http://tv.cloudcdn.me:80/live.ts?channelId=48010&uid=5353&deviceMac=00:1A:79:17:D4:65
- Shared with IPTV Extreme
+Watch SP: TSN 5
+http://tv.cloudcdn.me:80/live.ts?channelId=28965&uid=5353&deviceMac=00:1A:79:17:D4:65
 
+Watch SP: TEN SPORTS
+http://tv.cloudcdn.me:80/live.ts?channelId=301&uid=5353&deviceMac=00:1A:79:17:D4:65
 
-Watch Live: UFC Fight Night on SP: TNT SPORTS 1 FHD here the link auto http://tv.cloudcdn.me:80/live.ts?channelId=267&uid=5353&deviceMac=00:1A:79:17:D4:65
- Shared with IPTV Extreme
+Watch SP: TENNIS CHANNEL FHD
+http://tv.cloudcdn.me:80/live.ts?channelId=296&uid=5353&deviceMac=00:1A:79:17:D4:65
 
-Watch MotoGP Rewind: Austria 2024 on SP: TNT SPORTS 2 FHD here the link auto http://tv.cloudcdn.me:80/live.ts?channelId=268&uid=5353&deviceMac=00:1A:79:17:D4:65
- Shared with IPTV Extreme
+Watch SP: WWE SPORTS
+http://tv.cloudcdn.me:80/live.ts?channelId=4244&uid=5353&deviceMac=00:1A:79:17:D4:65
 
-Watch Live AFL: W Bulldogs v GWS Giants on SP: TNT SPORTS 3 FHD here the link auto http://tv.cloudcdn.me:80/live.ts?channelId=269&uid=5353&deviceMac=00:1A:79:17:D4:65
- Shared with IPTV Extreme
+Watch SP: WILLOW CRICKET FHD
+http://tv.cloudcdn.me:80/live.ts?channelId=302&uid=5353&deviceMac=00:1A:79:17:D4:65
 
-Watch Live Badminton: Japan Open on SP: TNT SPORTS 4 FHD here the link auto http://tv.cloudcdn.me:80/live.ts?channelId=270&uid=5353&deviceMac=00:1A:79:17:D4:65
- Shared with IPTV Extreme
+Watch SP: WILLOW CRICKET FHD
+http://tv.cloudcdn.me:80/live.ts?channelId=40481&uid=5353&deviceMac=00:1A:79:17:D4:65
+ 
+Watch SP: WILLOW XTRA
+http://tv.cloudcdn.me:80/live.ts?channelId=287&uid=5353&deviceMac=00:1A:79:17:D4:65
 
-Watch SP: TNT SPORTS 5 FHD here the link auto http://tv.cloudcdn.me:80/live.ts?channelId=78867&uid=5353&deviceMac=00:1A:79:17:D4:65
- Shared with IPTV Extreme
+Watch ZA: SUPERSPORT ACTION
+http://tv.cloudcdn.me:80/live.ts?channelId=125436&uid=5353&deviceMac=00:1A:79:17:D4:65
 
-Watch SP: TSN 1 here the link auto http://tv.cloudcdn.me:80/live.ts?channelId=28961&uid=5353&deviceMac=00:1A:79:17:D4:65
- Shared with IPTV Extreme
+Watch ZA: SUPERSPORT BLITZ
+http://tv.cloudcdn.me:80/live.ts?channelId=125437&uid=5353&deviceMac=00:1A:79:17:D4:65
 
-Watch SP: TSN 2 here the link auto http://tv.cloudcdn.me:80/live.ts?channelId=28962&uid=5353&deviceMac=00:1A:79:17:D4:65
- Shared with IPTV Extreme
+Watch ZA: SUPERSPORT CRICKET
+http://tv.cloudcdn.me:80/live.ts?channelId=125438&uid=5353&deviceMac=00:1A:79:17:D4:65
 
-Watch SP: TSN 3 here the link auto http://tv.cloudcdn.me:80/live.ts?channelId=28963&uid=5353&deviceMac=00:1A:79:17:D4:65
- Shared with IPTV Extreme
+Watch ZA: SUPERSPORT FOOTBALL
+http://tv.cloudcdn.me:80/live.ts?channelId=125439&uid=5353&deviceMac=00:1A:79:17:D4:65
 
-Watch SP: TSN 4 here the link auto http://tv.cloudcdn.me:80/live.ts?channelId=28964&uid=5353&deviceMac=00:1A:79:17:D4:65
- Shared with IPTV Extreme
+Watch ZA: SUPERSPORT GOLF
+http://tv.cloudcdn.me:80/live.ts?channelId=125440&uid=5353&deviceMac=00:1A:79:17:D4:65
 
+Watch ZA: SUPERSPORT GRANDSTAND
+http://tv.cloudcdn.me:80/live.ts?channelId=125441&uid=5353&deviceMac=00:1A:79:17:D4:65
 
-Watch SP: TSN 5 here the link auto http://tv.cloudcdn.me:80/live.ts?channelId=28965&uid=5353&deviceMac=00:1A:79:17:D4:65
- Shared with IPTV Extreme
+Watch ZA: SUPERSPORT LALIGA
+http://tv.cloudcdn.me:80/live.ts?channelId=125442&uid=5353&deviceMac=00:1A:79:17:D4:65
 
+Watch ZA: SUPERSPORT MAXIMO 1
+http://tv.cloudcdn.me:80/live.ts?channelId=125443&uid=5353&deviceMac=00:1A:79:17:D4:65
 
-Watch SP: TEN SPORTS here the link auto http://tv.cloudcdn.me:80/live.ts?channelId=301&uid=5353&deviceMac=00:1A:79:17:D4:65
- Shared with IPTV Extreme
+Watch ZA: SUPERSPORT MOTORSPORT
+http://tv.cloudcdn.me:80/live.ts?channelId=125444&uid=5353&deviceMac=00:1A:79:17:D4:65
 
-Watch Center Court Live on SP: TENNIS CHANNEL FHD here the link auto http://tv.cloudcdn.me:80/live.ts?channelId=296&uid=5353&deviceMac=00:1A:79:17:D4:65
- Shared with IPTV Extreme
+Watch ZA: SUPERSPORT PSL
+http://tv.cloudcdn.me:80/live.ts?channelId=125446&uid=5353&deviceMac=00:1A:79:17:D4:65
 
+Watch ZA: SUPERSPORT PREMIER LEAGUE
+http://tv.cloudcdn.me:80/live.ts?channelId=125445&uid=5353&deviceMac=00:1A:79:17:D4:65
 
-Watch SP: WWE SPORTS here the link auto http://tv.cloudcdn.me:80/live.ts?channelId=4244&uid=5353&deviceMac=00:1A:79:17:D4:65
- Shared with IPTV Extreme
+Watch ZA: SUPERSPORT RUGBY
+http://tv.cloudcdn.me:80/live.ts?channelId=125447&uid=5353&deviceMac=00:1A:79:17:D4:65
 
+Watch ZA: SUPERSPORT TENNIS
+http://tv.cloudcdn.me:80/live.ts?channelId=125448&uid=5353&deviceMac=00:1A:79:17:D4:65
 
-Watch Cricket Highlights on SP: WILLOW CRICKET FHD here the link auto http://tv.cloudcdn.me:80/live.ts?channelId=302&uid=5353&deviceMac=00:1A:79:17:D4:65
- Shared with IPTV Extreme
+Watch ZA: SUPERSPORT VARIETY 1
+http://tv.cloudcdn.me:80/live.ts?channelId=125449&uid=5353&deviceMac=00:1A:79:17:D4:65
 
+Watch ZA: SUPERSPORT VARIETY 3
+http://tv.cloudcdn.me:80/live.ts?channelId=125451&uid=5353&deviceMac=00:1A:79:17:D4:65
 
-Watch Cricket Highlights on SP: WILLOW CRICKET FHD. here the link auto http://tv.cloudcdn.me:80/live.ts?channelId=40481&uid=5353&deviceMac=00:1A:79:17:D4:65
- Shared with IPTV Extreme
+Watch ZA: SUPERSPORT VARIETY 3
+http://tv.cloudcdn.me:80/live.ts?channelId=125451&uid=5353&deviceMac=00:1A:79:17:D4:65
 
+Watch ZA: SUPERSPORT VARIETY 4
+http://tv.cloudcdn.me:80/live.ts?channelId=125452&uid=5353&deviceMac=00:1A:79:17:D4:65
 
-Watch SP: WILLOW XTRA here the link auto http://tv.cloudcdn.me:80/live.ts?channelId=287&uid=5353&deviceMac=00:1A:79:17:D4:65
- Shared with IPTV Extreme
-
-Watch ZA: SUPERSPORT ACTION here the link auto http://tv.cloudcdn.me:80/live.ts?channelId=125436&uid=5353&deviceMac=00:1A:79:17:D4:65
- Shared with IPTV Extreme
-
-
-Watch ZA: SUPERSPORT BLITZ here the link auto http://tv.cloudcdn.me:80/live.ts?channelId=125437&uid=5353&deviceMac=00:1A:79:17:D4:65
- Shared with IPTV Extreme
-
-Watch ZA: SUPERSPORT CRICKET here the link auto http://tv.cloudcdn.me:80/live.ts?channelId=125438&uid=5353&deviceMac=00:1A:79:17:D4:65
- Shared with IPTV Extreme
-
-Watch ZA: SUPERSPORT FOOTBALL here the link auto http://tv.cloudcdn.me:80/live.ts?channelId=125439&uid=5353&deviceMac=00:1A:79:17:D4:65
- Shared with IPTV Extreme
-
-Watch ZA: SUPERSPORT GOLF here the link auto http://tv.cloudcdn.me:80/live.ts?channelId=125440&uid=5353&deviceMac=00:1A:79:17:D4:65
- Shared with IPTV Extreme
-
-Watch ZA: SUPERSPORT GRANDSTAND here the link auto http://tv.cloudcdn.me:80/live.ts?channelId=125441&uid=5353&deviceMac=00:1A:79:17:D4:65
- Shared with IPTV Extreme
-
-
-Watch ZA: SUPERSPORT LALIGA here the link auto http://tv.cloudcdn.me:80/live.ts?channelId=125442&uid=5353&deviceMac=00:1A:79:17:D4:65
- Shared with IPTV Extreme
-
-
-Watch ZA: SUPERSPORT MAXIMO 1 here the link auto http://tv.cloudcdn.me:80/live.ts?channelId=125443&uid=5353&deviceMac=00:1A:79:17:D4:65
- Shared with IPTV Extreme
-
-Watch ZA: SUPERSPORT MOTORSPORT here the link auto http://tv.cloudcdn.me:80/live.ts?channelId=125444&uid=5353&deviceMac=00:1A:79:17:D4:65
- Shared with IPTV Extreme
-
-Watch ZA: SUPERSPORT PSL here the link auto http://tv.cloudcdn.me:80/live.ts?channelId=125446&uid=5353&deviceMac=00:1A:79:17:D4:65
- Shared with IPTV Extreme
-
-Watch ZA: SUPERSPORT PREMIER LEAGUE here the link auto http://tv.cloudcdn.me:80/live.ts?channelId=125445&uid=5353&deviceMac=00:1A:79:17:D4:65
- Shared with IPTV Extreme
-
-Watch ZA: SUPERSPORT RUGBY here the link auto http://tv.cloudcdn.me:80/live.ts?channelId=125447&uid=5353&deviceMac=00:1A:79:17:D4:65
- Shared with IPTV Extreme
-
-
-Watch ZA: SUPERSPORT TENNIS here the link auto http://tv.cloudcdn.me:80/live.ts?channelId=125448&uid=5353&deviceMac=00:1A:79:17:D4:65
- Shared with IPTV Extreme
-
-Watch ZA: SUPERSPORT VARIETY 1 here the link auto http://tv.cloudcdn.me:80/live.ts?channelId=125449&uid=5353&deviceMac=00:1A:79:17:D4:65
- Shared with IPTV Extreme
-
-Watch ZA: SUPERSPORT VARIETY 3 here the link auto http://tv.cloudcdn.me:80/live.ts?channelId=125451&uid=5353&deviceMac=00:1A:79:17:D4:65
- Shared with IPTV Extreme
-
-Watch ZA: SUPERSPORT VARIETY 3 here the link auto http://tv.cloudcdn.me:80/live.ts?channelId=125451&uid=5353&deviceMac=00:1A:79:17:D4:65
- Shared with IPTV Extreme
-
-
-Watch ZA: SUPERSPORT VARIETY 4 here the link auto http://tv.cloudcdn.me:80/live.ts?channelId=125452&uid=5353&deviceMac=00:1A:79:17:D4:65
- Shared with IPTV Extreme
 
 
